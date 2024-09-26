@@ -2,6 +2,7 @@
 const bodyParser = require('body-parser');
 const express = require('express');
 const path = require('path');
+const nodemailer = require('nodemailer');
 const cors = require('cors');
 const { default: mongoose } = require('mongoose');
 const { type } = require('os');
@@ -224,7 +225,46 @@ app.get('/api', (req, res) => {
     });
 });
 
+app.post('/contact-us',async(req,res)=> {
+    const{name,email,number,message}=req.body
 
+    const exist = await Contact.findOne({email,message})
+    if(exist){
+     return res.json({success:false,error:'Already exists'})
+    }
+    const result = await Contact.create({
+    name,
+    email,
+    number,
+    message,
+    });
+    
+    const transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: {
+    user: 'bhavishagandharva@gmail.com',
+    pass: 'lzly yedr pmue qjbp',
+    },
+    });
+    
+    
+    const mailOptions = {
+    from: 'bhavishagandharva@gmail.com',
+    to: email,
+    subject: 'Welcome to Grace Beauty',
+    html: `
+    <p>Hello ${name},</p>
+    <p>Thank you for Contacting Grace Beauty. We will get back to you soon.</p>
+    <p>Best regards,</p>
+    <p>Grace Beauty Team</p>
+    `,
+    };
+    
+    const info =  await transporter.sendMail(mailOptions);
+    console.log('Email sent:', info.response);
+    res.json({success:true,message:"Thanks for Contacting Grace Beauty !"})
+    console.log(result)
+})
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
