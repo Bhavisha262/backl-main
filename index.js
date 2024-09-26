@@ -549,6 +549,46 @@ app.post('/remove-from-wish', async (req, res) => {
     res.status(500).json({ success: false, error: 'Internal Server Error' });
     }
 });
+
+app.post('/save-shipping-info', async (req, res) => {
+    const { name,number,email,address,landmark,state,city,pincode } = req.body;
+    
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({ message: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+    return res.status(401).json({ message: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOne({ email: decoded.email });
+    if (!user) {
+    return res.status(404).json({ message: 'User not found' });
+    }
+    
+    const shippingInfo = {
+    name,number,email,address,landmark,state,city,pincode
+    };
+    
+    user.shippingInfo = shippingInfo;
+    await user.save();
+    
+    console.log(user);
+    
+    res.json({
+    success: true,
+    message: 'Thanks Shipping information saved successfully',
+    shippingInfo: user.shippingInfo
+    });
+    });
+    } catch (error) {
+    console.error('Error saving shipping information:', error);
+    res.status(500).json({ success: false, error: 'Internal Server Error' });
+    }
+});
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
