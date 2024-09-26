@@ -1280,5 +1280,1593 @@
 
             ]
                 
+    },
+
+    {
+        "id": 3,
+        "category_img":"/Products/Eyes-Images/eyes-category.jpeg",
+        "name":"Eyes",
+        "category_url":"eyes",
+        "pro_icon": "/Products/Eyes-Images/eyelashes.gif",
+        "pro_title": "Eyes",
+        "pro":[
+            { 
+                "id": 1,
+                "url": "grace_beauty_absolute_spotlight_eyeshadow_palette",
+                "name": "Grace Beauty Absolute Spotlight Eyeshadow Palette",
+                "price": 795,
+                "del":995,
+                "off":"20% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes1.jpg",
+                "numofverify": "95 verified ratings",
+                "color":"Sundowner",
+                "ques":"Details",
+                "ans":"Who says eyeshadows are reserved only for special occasions? Introducing the new Lakmé Absolute Spotlight Eye Shadow Palettes. Unveil a new and confident you, as you step into the spotlight with your eyeshadow that redefines you.Let your eyes do the talking this season and flaunt these colours in style.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 12 g | Commodity: Eyeshadow Palette | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply the shade raisin on the inner corner. | Step 2: Dab the shade dirty on the center of the eyelid. | Step 3:  Create a 'V' on the outer corner with the shade Amethyst, blend evenly. | Step 4: Highlight the inner edge with shade dirty and extend on the waterline for a complete look.",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes1.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes1.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(2).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(3).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(3).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(4).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(4).jpg"
+                    }
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 2,
+                "url": "grace_beauty_liquid_eyeshadow_duos",
+                "name": "Grace Beauty Liquid Eyeshadow Duos",
+                "price": 1199,
+                "del":1400,
+                "off":"14% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes2.jpg",
+                "numofverify": "20 verified ratings",
+                "color":"Black + Beige & Brown + Yellow",
+                "ques":"Details",
+                "ans":"Your eyes always want more and with a little swipe of extra, it’s time you explore! Introducing the all-new Lakmé Absolute Explore Eyeshadow Duos. A stunning range of 4 duo combos with a matte and shimmer finish. This ultra-rich liquid eye shadow easily glides across lids to give a luxurious, crease free, shimmer payoff that lasts long. Adorned with a dual ended applicator for precise and controlled application, you can create the trendiest looks with just one swipe. What’s more? This innovative product has no powder fall off and a moisturising base that covers fine lines for gorgeous skin glow. With Lakmé Absolute Explore Eyeshadows, you have twice the pigment and twice the shine, in one tube! All you have to do is swipe the wand onto your lid and blend with a make-up brush. Its light-weight formula is buildable - so you can wear the shade alone or layer it with another if you’re feeling extra. Exploring infinite looks has never been easier- whether it’s daytime glow or night-time glam, these super concentrated shadows dry down smoothly to ensure your look is fit for all your sparkly moods! With Lakmé Absolute Explore Eyeshadow Duos, never settle with eyes that are never subtle.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity:10 ml| Commodity: Eye Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Use wand to swipe onto lid. | Step 2: Wear each shade solo or layer the duo for something extra. | Step 3:  Blend with make-up brush.",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes2.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes2.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes2(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes2(1).jpg"
+                    }
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_ultimate_glam_eye_liner",
+                "name": "Grace Beauty Ultimate Glam Eye Liner",
+                "price": 150,
+                "bestseller":false,
+                "new":true,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes3.jpg",
+                "numofverify": "13 verified ratings",
+                "color":"Black",
+                "ques":"Details",
+                "ans":"The Lakmé Ultimate Glam Eye Liner comes in a small package with a sleek| thin brush which is also portable. The brush holder of this product is of a comfortable length| thus making the application of the eyeliner easier. It has a bright| blue colour that gives users a fine definition to their eyes. This eyeliner is endowed with a water-resistant formula that also makes it last longer. The Lakmé Insta Liner is light-weight and is a comfortable eye makeup for perfect definition. The liner is liquid so it might take time to dry out| but it gives users an attractive finish. Since this product does not dry out too fast| beginners will find this product easy to use. They can draw it and reapply the smooth liquid as many times as they can until they are satisfied with the look. Once this eyeliner has dried out| it remains on for the entire day without getting smudged or smeared. The water-resistant formula of this product makes it last for a long time. You can attempt several different looks with the Lakme water-resistant eyeliner. They can use it to draw a thick line or a thin one to suit whatever look they want to go with| making their eyes look beautiful in an instant. If you are looking for a daily wear eyeliner – this is your go-to product! ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity:9 ml| Commodity: Eye Liner | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Use the tip of your eyeliner brush to create a dotted guide line on your. | Step 2: Slowly connect them with a steady hand and fill in the gaps to get an even stroke | Step 3:  Keep your eyes shut for a while to let the product dry well.",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes3.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes3.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes3(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes3(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes3(2).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes3(2).jpg"
+                    }
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_absolute_kohl_ultimate",
+                "name": "Grace Beauty Absolute Kohl Ultimate",
+                "price": 700,
+                "del": 825,
+                "off":"15% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes4.jpg",
+                "numofverify": "65 verified ratings",
+                "color":"Black",
+                "ques":"Details",
+                "ans":"Get yourself this water-resistant, smudge-proof, jet black kohl pencil to create the perfect ‘Smokey Eye’. The Lakmé Absolute Kohl Ultimate has unique moisturizing ceramides that soothe and soften lashes. It's dermatologically tested, safe to apply inside the eye. All the drama in the world will keep your eyes sultry but no tear or heavenly shower will lead this Lakmé Absolute Kohl Ultimate to bleed color on your elegant face. Give your eyes those ultimate, long lasting, jet black lines with Lakmé Absolute Kohl Ultimate that can last upto 16 hours! New and improved with deeper and more intense colour formulation.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity:1.2 g| Commodity: Eye Pencil | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Steady your dominant hand on a table. | Step 2: Draw your eyelid taut and draw a line across your upper lid. | Step 3: You could also use it on your lower waterline for a defined look. | Step 4: Use the attached smudger to achieve a smokey finish.",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes4.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes4.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes4(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes4(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes4(2).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes4(2).jpg"
+                    }
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 5,
+                "url": "grace_beauty_absolute_explore_eye_pencil",
+                "name": "Grace Beauty Absolute Explore Eye Pencil",
+                "price": 500,
+                "del": 650,
+                "off":"23% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes5.jpg",
+                "numofverify": "73 verified ratings",
+                "color":"Mysterious Black",
+                "ques":"Details",
+                "ans":"Break free from the regular and explore the power of more with Lakmé  Absolute Explore Eye Pencils. A transfer proof and waterproof formula that won’t smudge or fade for upto 32 hours and dries in just 15 seconds.These eye pencils have the intensity of a liquid liner and are ophthalmologically tested, suitable to be used with contact lenses and sensitive eyes. Use these pencils on your eyelid or lower lash line to create glamourous eyes that turn every head in the room, is now easier than ever.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity:1.2 g| Commodity: Eye Pencil | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:With one simple swipe, build the desired shape on your upper/lower lash line. | Step 2: Safe to use on waterline. | Step 3: Re-cap securely after use. ",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes5.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes5.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes5(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes5(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes5(2).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes5(2).jpg"
+                    }
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_eyeconic_kajal",
+                "name": "Grace Beauty Eyeconic Kajal",
+                "price": 220,
+                "del": 275,
+                "off":"20% Off",
+                "bestseller":false,
+                "new":true,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes6.jpg",
+                "numofverify": "44 verified ratings",
+                "color":"Classic Brown",
+                "ques":"Details",
+                "ans":"Make an Eyeconic statement with the all-new Lakmé Eyeconic Kajal and experience the power of beautiful eyes! A smudge-proof as well as waterproof kajal for everyday use, the new Lakmé Eyeconic Kajal promises to last up to 22 hours. Say goodbye to touch-ups and a big hello to long-lasting finesse to your eyes, all through the day!  ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity:0.35 g| Commodity: Eye Kajal | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Steady your dominant hand on a table.  | Step 2: Draw your eyelid taut and draw a line across your upper lid.  | Step 3: You could also use it on outside your lower lid for a dramatic look.",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes6.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes6.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes6(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes6(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes6(2).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes6(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes6(3).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes6(3).jpg"
+                    }
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 7,
+                "url": "grace_beauty_lash_boost_extreme_mascara",
+                "name": "Grace Beauty Lash Boost Extreme Mascara",
+                "price": 764,
+                "del": 849,
+                "off":"10% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes7.jpg",
+                "numofverify": "88 verified ratings",
+                "color":"Black",
+                "ques":"Details",
+                "ans":"Experience the ultimate lash transformation with Lakmé Lash Boost Extreme Mascara. Get hyperlifted, impossibly long lashes with its innovative formula and specialized elastometric brush. Whether you're aiming for a natural look or ready to hit the red carpet, this mascara has got you covered. With Lakme Lash Boost Extreme Mascara, you will never miss a lash. The expertly designed cone tipped brush has a combination of 290+ long and short bristles that sculpt and lift even the smallest lash. And the elastometric properties of the brush give increased curling and lengthening benefits; making this mascara the holy grail for hyperlifted lashes. The innovative formula has 91% natural ingredients, including the plant of resurrection which is known to boost lash growth. The formula is also waterproof, ensuring your lashes stay stunning for hours. So, go ahead and glam up your lashes without worry. To achieve hyperlifted, hyper-glam lashes, follow these simple steps: brush the mascara wand from the base to the tips of your lashes, and layer the product to achieve your desired length and lift. It's time to take your lash game to new heights like never before. Elevate your lash game with Lakmé Lash Boost Extreme Mascara, and let your eyes steal the show. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity:10 ml| Commodity: Eye Mascara | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Open the lid and remove the excess product before application.| Step 2: Look straight into the mirror and avoid blinking while applying the product. | Step 3: Start with the upper lid and wiggle the brush at the base of your lashes to separate them. | Step 4: Brush the underside of the lashes in smooth, upward strokes.| Step 5: Brush the upper side of the lashes with downward strokes of your lower eye lid. | Step 6: Layer product to achieve desired length and lift. | Step 7: Leave to dry.",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes7.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes7.jpg"
+                    }
+                   
+                   
+
+                ]
+
+                
+
+            },
+
+            
+            { 
+                "id": 8,
+                "url": "grace_beauty_absolute_3d_eyebrow_definer",
+                "name": "Grace Beauty Absolute 3D Eyebrow Definer ",
+                "price": 700,
+                "del": 825,
+                "off":"15% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes8.jpg",
+                "numofverify": "34 verified ratings",
+                "color":"Graphite",
+                "ques":"Details",
+                "ans":"Ever wondered if your eyebrows could speak volumes? Especially in 3D? Well, say hello to the all-new Lakmé Absolute 3D Brow Definer. It gives you fuller looking brows with minimal effort. It has an efficient formula with a creamy and smooth finish that blends like a dream! Get fuller looking brows that spell 3D with its luxurious finish and defined look. The pencil comes with a built-in spoolie that makes the application process super easy and effective. It gets your arches in place, grooms stray strands and helps define the shape of your brows. The pencil can be sharpened to make sure you get precise and defined strokes that almost mimic the natural strands. Get 3D perfection brows effortlessly with the Lakmé Absolute 3D Brow Definer. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity:1.19 g| Commodity: Eyebrow Definer | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Brush through your brows with the spoolie and get them in shape.| Step 2: Use the sharpened pencil.  | Step 3: Draw strokes in an upward direction all the way from the bottom of your brows till the arches.",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes8.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes8.jpg"
+                    },
+                    {
+                        "original":"/Products/Eyes-Images/eyes8(1).jpg",
+                       "thumbnail":"/Products/Eyes-Images/eyes8(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Eyes-Images/eyes8(2).jpg",
+                       "thumbnail":"/Products/Eyes-Images/eyes8(2).jpg"
+                    }
+                   
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_eyelash_curler_tool",
+                "name": "Grace Beauty Eyelash Curler Tool",
+                "price": 300,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Eyes-Images/ProductEyes10.jpg",
+                "numofverify": "85 verified ratings",
+                "color":"Rose Gold",
+                "ques":"Details",
+                "ans":"EyeLash Curler Tool",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 3 g| Commodity: Eyelash curler tool | Country of Origin : India ",
+                "ques2":"How to Use",
+                "ans2": "Use this tool carefully",
+                "images":[
+                    {
+                    "original":"/Products/Eyes-Images/ProductEyes10.jpg",
+                   "thumbnail":"/Products/Eyes-Images/ProductEyes10.jpg"
+                    }
+
+                ]
+
+            }
+
+        ]
+    },
+
+    {
+        "id": 4,
+        "category_img":"/Products/Skin-Images/skin-category.png",
+        "name":"Skin",
+        "category_url":"skin",
+        "pro_icon": "/Products/Skin-Images/cream.gif",
+        "pro_title": "Skin",
+        "pro":[
+            
+            { 
+                "id": 1,
+                "url": "grace_beauty_9_to_5_vitamin_c_facewash",
+                "name": "Grace Beauty 9 to 5 Vitamin C Facewash",
+                "price": 224,
+                "del":249,
+                "off":"10% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin1.jpg",
+                "numofverify": "115 verified ratings",
+                "color":"Orange",
+                "ques":"Details",
+                "ans":"Introducing the Lakme 9to5 VitC+ Facewash with microcrystalline beads. Lakme’s first vitamin C facewash that is enriched with the power of Vitamin C, microcrystalline beads, lemon extract and menthol for glowing and refreshed skin wash after wash. Vitamin C also known as the beauty vitamin, is a powerhouse of antioxidants which is known to provide a healthy skin barrier that can fight multiple skin problems like ageing, pollution & sun damage, and dullness of skin. Lakme 9to5 VitC+ facewash, harnesses the power of vitamin C along with the potent ingredients like microcrystalline beads that remove dullness and lemon extract with antioxidant properties is designed to refresh and give a healthy looking glow.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 g | Commodity: Facewash | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take coin-sized amount on your palm. | Step 2: Rub to create foam Apply on your face and neck. | Step 3: Massage in gentle circular motions.| Step 4: Rinse with lukewarm water Pat dry your skin.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin1.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin1.jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin1(1).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin1(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin1(2).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin1(2).jpg"
+                    }
+                   
+                ]
+
+                
+
+            },
+
+             
+            { 
+                "id": 2,
+                "url": "grace_beauty_micellar_pure_facewash",
+                "name": "Grace Beauty Micellar Pure Facewash",
+                "price": 269,
+                "del":299,
+                "off":"10% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin2.jpg",
+                "numofverify": "75 verified ratings",
+                "color":"Blue Transparent",
+                "ques":"Details",
+                "ans":"Get upto 2X deep pore cleanse in just a single wash with the new Lakme Micellar Pure Facewash! It has magnetic micelles that go upto 2X deep inside the skin and attract impurities like a magnet to clean skin from deep within. It effortlessly yet gently removes dirt, pollutants and even everyday makeup, making it a fashionista's first step in her morning as well as night routine for a deeply cleansed skin. This creamy facewash cleanses gently yet effectively. It also has niacinamide that brightens skin and hyaluronic acid that leaves skin feeling hydrated even after washing. It is suitable for all skin types, even sensitive skin. Dermatologically tested. Just squeeze a small amount of water in the palm of your hand and work into a rich lather. Gently massage onto wet face and rinse your face thoroughly. Pat dry to reveal deeply cleaned, glowing skin. Get onto Double Cleansing, the latest skincare regime that fashionistas are using to deep cleanse their skin. The first step is to use the Lakme Micellar water that effortlessly melts away makeup and sebum. The second step is to use Lakme Micellar Facewash to wash away dirt, pollutants and other impurities from deep within to give that perfect glam up!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 g | Commodity: Facewash | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Mix small amount with water in the palm of your hand and work into a rich lather. | Step 2:  Gently massage onto wet face. Rinse thoroughly with water. | Step 3: Use daily.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin2.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin2.jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin2(1).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin2(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin2(2).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin2(2).jpg"
+                    }
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_new_drama_face_wash",
+                "name": "Grace Beauty New Drama Face Wash",
+                "price": 249,
+                "bestseller":false,
+                "new":true,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin3.jpg",
+                "numofverify": "54 verified ratings",
+                "color":"Golden",
+                "ques":"Details",
+                "ans":"Watch this creamy cleanser transform into foam and gently wash away dirt, dust, impurities and even makeup. Say goodbye to dullness and hello to radiant drama that's bound to make heads turn. With Dew Drama, your skin becomes the star of its own show, effortlessly captivating everyone around you. Get ready to slay the runway with our game-changing product! Packed with pro-ceramides, it creates a protective skin barrier that battles pollution, and fights off those pesky external enemies. Say goodbye to dullness and roughness and hello to a dewy, glowing complexion that's always on point! It’s also enriched with potent 6% Vitamin E + B3 + F complex. Vitamin F seals in moisture to strengthen skin barrier and protect from environmental aggressors. Vitamin E is a potent antioxidant that promotes calm skin and fights signs of premature aging and last but not the least, Vitamin B3 supports youthful and soft skin. With the dew-al benefits of soft skin and a healthy, youthful glow; it's time to unleash the Dew Drama and let your skin shine brighter than ever! ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 g | Commodity: Facewash | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Splash your face with lukewarm water. | Step 2:  This helps to open up your pores and prepare your skin for cleansing. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin3.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin3.jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin3(1).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin3(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin3(2).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin3(2).jpg"
+                    },
+                    {
+                        "original": "/Products/Skin-Images/skin3(3).jpg",
+                       "thumbnail": "/Products/Skin-Images/skin3(3).jpg"
+                    }
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_blush_&_glow_strawberry_freshness_gel_face_wash",
+                "name": "Grace Beauty Blush & Glow Strawberry Freshness Gel Face Wash",
+                "price": 300,
+                "del": 450,
+                "off":"33% Off",
+                "ratings":4.5,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin4.jpg",
+                "bestseller":true,
+                "new":false,
+                "numofverify": "66 verified ratings",
+                "color":"Strawberry Pink",
+                "ques":"Details",
+                "ans":"Use the Lakme Blush and Glow Strawberry Gel Face Wash to give your skin a gorgeous strawberry-kissed glow, every day. This refreshing gel face wash packs a fruity delight that helps in washing impurities. Imagine a fruity splash of delight every time you washed your face – that’s exactly how refreshing this feels. Enriched with goodness of rich strawberry extracts. The face wash has fruit anti-oxidants and beads that cleanse your skin washing away dirt and other impurities. For the best results. Follow this simple Blush & Glow regime every day for a fruit-kissed glow every day.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 150 g | Commodity: Facewash | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Mix a small amount with water in the palm of your hand and work into a rich lather. | Step 2:   Gently massage onto wet face.| Step 3: Rinse thoroughly with water. |Step 4: Use daily. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin4.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin4.jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin4(1).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin4(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin4(2).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin4(2).jpg"
+                    },
+                    {
+                        "original": "/Products/Skin-Images/skin4(3).jpg",
+                       "thumbnail": "/Products/Skin-Images/skin4(3).jpg"
+                    }
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 5,
+                "url": "grace_beauty_gentle_&_soft_deep_pore_cleanser",
+                "name": "Grace Beauty Gentle & Soft Deep Pore Cleanser",
+                "price": 230,
+                "del": 299,
+                "off":"23% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin5.jpg",
+                "numofverify": "120 verified ratings",
+                "color":"Green Pista",
+                "ques":"Details",
+                "ans":"Nourish your skin while you cleanse it with the Lakme Deep Pore Cleanser. This skin cleanser gently extracts dirt, oil, makeup, and other impurities from your skin after a long day. The natural avocado content in this cleanser replenishes your dry skin with its nourishing qualities. Enriched with the antioxidant properties of Vitamin E, this cleanser conditions your skin leaving it soft and supple. It cleans your clogged pores gently and lets your skin breathe. With the Lakme Deep Pore Cleanser, your skin feels visibly cleansed, purified, and nourished. Make cleansing a vital part of your skincare regime with this cleanser and get a flawless skin. Take a little cleanser on a cotton ball and apply evenly over your face and neck to cleanse the dirt and impurities . wash your face normally after cleansing with the deep pore cleansing milk. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 120 ml | Commodity: Cleanser | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Mix a Apply on the face & neck. | Step 2:  Remove with damp cotton or wool & rinse. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin5.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin5.jpg"
+                    },
+                    {
+                    "original": "/Products/Skin-Images/skin5(1).jpg",
+                   "thumbnail": "/Products/Skin-Images/skin5(1).jpg"
+                    }
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_absolute_pore_fix_toner",
+                "name": "Grace Beauty Absolute Pore Fix Toner",
+                "price": 247,
+                "del": 325,
+                "off":"24% Off",
+                "bestseller":false,
+                "new":true,
+                "ratings":4.6,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin6.jpg",
+                "numofverify": "80 verified ratings",
+                "color":"Purple",
+                "ques":"Details",
+                "ans":"Lakmé Absolute Pore Fix Toner unclogs and tightens your pores to reveal a smooth, clean surface. Lakmé Absolute Pore Fix Toner not only helps remove traces of debris, make-up, and other impurities on your skin but it also addresses specific issues. This toner also helps rejuvenate and energize your tired skin after a long day. God knows we all need it. Daily use of Lakmé’s toner also helps reduce the dryness or appearance of oily skin. Since this toner comes in a mist form, it allows easy application by spraying the product onto a cotton pad. Glide the cotton pad on your face and neck gently in an upward direction. Allow the toner to dry on your face naturally and apply the moisturizer after.  ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 60 ml | Commodity: Toner | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Spray the toner on Cotton Pad. | Step 2:  Swifty glide over face and neck with gentle upward strokes. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin6.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin6.jpg"
+                    }
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 7,
+                "url": "grace_beauty_9_to_5_matte_moist_mattifying_face_toner",
+                "name": "Grace Beauty 9 to 5 Matte Moist Mattifying Face Toner",
+                "price": 212,
+                "del": 249,
+                "off":"15% Off",
+               "bestseller":false,
+               "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin7.jpg",
+                "numofverify": "82 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Toners are an important part of the skin-care equation. Between cleansing and moisturizing, a toner sets the tone for delivering healthy ingredients within the layers of your skin and closes the pores right after making it less prone to environmental aggressors that can often clog your pores and widen them overtime. Worried about widened pores on your skin? Worry no more with Lakmé 9to5 Moist Matte Mattifying Face Toner. Its alcohol-free formula is enriched with green tea extracts – known as a natural anti-oxidant and witch hazel – known as a natural astringent. This toner is designed to help remove the grime your cleanser might have missed and to prep your skin for the next step in your routine. It sprays finely and refreshes skin to tighten pores and give you a matte looking skin instantly without leaving any signs of dryness. Skin is left feeling soft and supple after every use. Its easy to carry spray packaging makes it perfect for your on the go life! Key features: For All Skin Types, It refreshes skin, Instantly hydrates skin, Tightens the pores, Non oily look, Quickly absorbs in skin, Contains Green Tea and witchhazel, Skin looks matte instantly. *No alcohol – Refers to Ethyl alcohol.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 60 ml | Commodity: Face Toner | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Spray the toner on a cotton ball or pad and glide over face and neck with gentle upward strokes, avoiding the eye area.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin7.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin7.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin7(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin7(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin7(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin7(2).jpg"
+                    }
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 8,
+                "url": "grace_beauty_9_to_5_vitamin_C+_serum",
+                "name": "Grace Beauty 9 to 5 Vitamin C+ Serum",
+                "price": 269,
+                "del": 299,
+                "off":"10% Off",
+                "ratings":4.8,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin8.jpg",
+                "bestseller":false,
+                "new":false,
+                "numofverify": "36 verified ratings",
+                "color":"Orange",
+                "ques":"Details",
+                "ans":"Introducing the Lakme 9to5 VitC+ facial serum. Lakme’s first vitamin C serum in a revolutionary light weight formula that is enriched with the richest known source of Vitamin C – Kakadu Plum.This superfood is known to contain 100X more Vitamin C than oranges! Vitamin C also known as the beauty vitamin, is a powerhouse of antioxidants which is known to provide a healthy skin barrier that can fight multiple skin problems like ageing, pollution & sun damage and dullness of skin!Truly magical! Lakme 9to5 VitC+, harnesses the power of this potent vitamin C and is designed to reduce skin dullness by fighting free radicals and promoting skin health.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 15 ml | Commodity: Serum | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Gently apply a small amount to your cleansed face and beck with your fingertips or your palms. | Step 2: Gently massage it in using circular motions for the face serum to fully absorb into your skin. | Step 3: Make sure to use a sunscreen due to the potent nature of the serum.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin8.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin8.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin8(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin8(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin8(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin8(2).jpg"
+                    }
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_absolute_hydra_pro_serum",
+                "name": "Grace Beauty Absolute Hydra Pro Serum",
+                "price": 639,
+                "del": 799,
+                "off":"20% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin9.jpg",
+                "numofverify": "17 verified ratings",
+                "color":"Blue",
+                "ques":"Details",
+                "ans":"Choose Lakmé Absolute Hydra pro serum for fresh and Plump skin. Each concentrated drop of this Lakme’s precious formula melts into your skin to smoothen texture and helps boost your skin's hydration.Its lightweight & fast absorbing formula delivers major hydration and comfort, making it a skincare essential through every season! Lakme Absolute Hydra Pro Serum’s comfortable formula is infused with powerful ingredients including HA-Penta Complex & Glycerine for superior hydration.Lakme Absolute Hydra Pro Serum is infused with hydrating Hyaluronic Acid which is Naturally found in the skin, known to act as a sponge for dry skin cells, moisturizing with up to 1,000 times its weight in water, resulting in more supple and smooth skin.Lakme Absolute Hydra Pro Serum also contains with Pentavitin which is known to strengthen the skin barrier for long-term hydration and glycerine which helps in getting soft, smooth and supple skin!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 30 g | Commodity: Serum | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Twist the cap till it clicks open. | Step 2:  Pump out a coin sized amount of the serum and apply dots over your cleansed face & neck. | Step 3: Gently massage it in using circular motions with your fingers until it is completely absorbed.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin9.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin9.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin9(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin9(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin9(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin9(2).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin9(3).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin9(3).jpg"
+                    }
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 10,
+                "url": "grace_beauty_absolute_youth_infinity_serum",
+                "name": "Grace Beauty Absolute Youth Infinity Serum",
+                "price": 799,
+                "del": 999,
+                "off":"20% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin10.jpg",
+                "numofverify": "67 verified ratings",
+                "color":"Purple",
+                "ques":"Details",
+                "ans":"Made with 89% Pure Pro-Retinol C Complex, this serum helps to give youthful, firmer skin",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 30 ml | Commodity: Night Cremé| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Gently apply a small amount to your cleansed face and beck with your fingertips or your palms. | Step 2: Gently massage it in using circular motions for the face serum to fully absorb into your skin. | Step 3: Make sure to use a sunscreen due to the potent nature of the serum.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin10.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin10.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin10(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin10(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin10(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin10(2).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin10(3).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin10(3).jpg"
+                    }
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 11,
+                "url": "grace_beauty_abs_argan_oil_radiance_night_revival_eye_cream",
+                "name": "Grace Beauty ABS Argan Oil Radiance Night Revival Eye Cream",
+                "price": 599,
+                "del": 749,
+                "off":"20% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.3,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin11.jpg",
+                "numofverify": "24 verified ratings",
+                "color":"Golden",
+                "ques":"Details",
+                "ans":"Meet the range of luxurious face care products from the house of Lakme. This range of skincare products is infused with legendary Moroccon Argan oil, which is known to provide superior nourishment.Introducing the New Lakme Absolute Argan Oil Radiance Night Revival Eye Crème. Infused with Moroccan Argan oil & Opti Glow Complex, this non greasy and non sticky formula, instantly absorbs into your skin and helps reduce dark circles, dullness to give you a bright look. Massaging relaxes eyes.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 15 g| Commodity: Eye Cremé| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Gently open the cap. | Step 2: Squeeze out the creme on to applicator head. | Step 3: Dot the creme under the eye. | Step 4: Massage gently. | Step 5: Lightly pat the excess creme.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin11.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin11.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin11(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin11(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin11(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin11(2).jpg"
+                    }
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 12,
+                "url": "grace_beauty_9_to_5_vitamin_c+_day_cream",
+                "name": "Grace Beauty 9 to 5 Vitamin C+ Day Cream",
+                "price": 297,
+                "del": 349,
+                "off":"15% Off",
+               "bestseller":false,
+               "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin12.jpg",
+                "numofverify": "111 verified ratings",
+                "color":"Orange",
+                "ques":"Details",
+                "ans":"Introducing the Lakme 9to5 VitC+ Day Cream. Lakme’s first vitamin C Day cream that is enriched with the power of Vitamin C, Vitamin E and Shea Butter. Vitamin C also known as the beauty vitamin, is a powerhouse of antioxidants which is known to provide a healthy skin barrier that can fight multiple skin problems like ageing, pollution & sun damage, and dullness of skin. Vitamin E is known to heal and moisturise skin and Shea Butter is known to lock in hydration in the skin for several hours. Lakme 9to5 VitC+, harnesses the power of vitamin C alongwith these potent ingredients and is designed to reduce skin dullness by fighting free radicals and promoting skin health. So, you get healthy, glowing skin. Whats more! It’s easy to carry pack is handbag friendly, that is perfect for your on-the-go lifestyle! Key features: - Light weight on skin - Non greasy feel - Enriched with Vitamin C, Vitamin E and Shea Butter. - Moisturises effectively - Skin feels healthy - Gives skin a glow - Improves skin appearance - Gives smooth skin - Skin feels nourished - Makes skin soft and supple - No skin irritation.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 gm| Commodity: Day Cream| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Store in a dry and cool place from direct sunlight.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin12.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin12.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin12(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin12(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin12(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin12(2).jpg"
+                    }
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 13,
+                "url": "Grace_Beauty_New_Drama_Gel_Creme",
+                "name": "Grace Beauty New Drama Gel Creme",
+                "price": 349,
+                "bestseller":true,
+                "new":false,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin13.jpg",
+                "numofverify": "54 verified ratings",
+                "color":"Dewy",
+                "ques":"Details",
+                "ans":"Get ready to steal the spotlight with Dew Drama collection, featuring a cleanser, moisturizer and serum to complete your daily skincare regime! This lightweight gel crème feels so hydrating but instantly disappears without forming an layer on your skin. Say goodbye to dullness and hello to radiant drama that's bound to make heads turn. With Dew Drama, your skin becomes the star of its own show, effortlessly captivating everyone around you. Get ready to slay the runway with our game-changing product! Packed with pro-ceramides, it creates a protective skin barrier that battles pollution, and fights off those pesky external enemies. Say goodbye to dullness and roughness and hello to a dewy, glowing complexion that's always on point! It’s also enriched with potent 6% Vitamin E + B3 + F complex. Vitamin F seals in moisture to strengthen skin barrier and protect from environmental aggressors. Vitamin E is a potent antioxidant that promotes calm skin and fights signs of premature aging and last but not the least, Vitamin B3 supports youthful and soft skin. With the dew-al benefits of soft skin and a healthy, youthful glow; it's time to unleash the Dew Drama and let your skin shine brighter than ever! ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 gm| Commodity: Gel Cream| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Cleanse with Lakme Dew Drama Facewash AM or PM. | Step 2: Treat with Lakme Dew Drama Serum AM or PM. | Step 3: Moisturise with Dew Drama AM or PM.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin13.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin13.jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin13(1).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin13(1).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin13(2).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin13(2).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin13(3).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin13(3).jpg"
+                    }
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 14,
+                "url": "grace_beauty_hydra_pro_day_and_night_combo",
+                "name": "Grace Beauty Hydra Pro Day and Night Combo",
+                "price": 927,
+                "del": 1325,
+                "off":"30% Off",
+               "bestseller":false,
+               "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin14.jpg",
+               
+                "numofverify": "123 verified ratings",
+                "color":"Blue + White",
+                "ques":"Details",
+                "ans":"Feel an Instant rush of hydration with Lakme Hydra Pro Range. Lakme Absolute Hydra Pro Gel Crème locks in hydration and improves skin texture, reduces moisture loss giving your skin a dewy – fresh, hydrated look. This lightweight gel formula is infused with revolutionary water bank molecule, hyaluronic acid, it instantly plumps up skin. It is clinically proven to instantly boost skin hydration* by 70% and lock in hydration for 72 hours. For Superior results use Lakme Absolute Hydra Pro Gel Crème during the day and Overnight gel before going to bed to get supple, fresh looking skin.Feel an Instant rush of hydration with Lakme Hydra Pro Range. WAKE UP to hydrated, Plump Skin!Lakme Absolute Hydra Pro Overnight Gel helps boosts skin’s hydration ability while you’re asleep.So you wake up to plump, hydrated skin that’s ready for the day. Luxurious gel formula is infused with advanced HA-PENTA complex & Hyaluronic acid. Hyaluronic acid is the revolutionary water bank molecule for skin and Pentavitin is proven to hydrate skin deeply. For Superior results use Lakme Absolute Hydra Pro Gel Crème during the day and Hydra Pro Overnight gel before going to bed to get supple and fresh-looking skin. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 gm| Commodity: Gel Cream| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply as dots all over your face. | Step 2: Gently massage in circular movements until it is completely absorbed. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin14.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin14.jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin14(1).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin14(1).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin14(2).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin14(2).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin14(3).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin14(3).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin14(4).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin14(4).jpg"
+                    }
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 15,
+                "url": "grace_beauty_youth_infinity_skin_firming_day_creme",
+                "name": "Grace Beauty Youth Infinity Skin Firming Day Creme",
+                "price": 636,
+                "del": 949,
+                "off":"33% Off",
+               "bestseller":false,
+               "new":false,
+                "ratings":4.6,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin15.jpg",
+                "numofverify": "72 verified ratings",
+                "color":"Purple",
+                "ques":"Details",
+                "ans":"Get a youthful glow on your skin with the Lakmé  Youth Infinity Skin Firming Day Creme. Endowed with anti-ageing properties, it enables your skin to look younger after every use and removes wrinkles and blemishes from your skin. The luminizing pearls instantly brighten your skin tone to give you a flawless look while the Insta-collagen-boosters help improve elasticity and promote skin tightening. With SPF 15 ++ it moisturises skin and arrests ageing by protecting it from the sun.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 g| Commodity: Cream| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take a dollop of the crème in your palm. | Step 2:Use your ring finger and apply it evenly across your face.| Step 3: Gently massage the crème with your 2 fingers index and middle into your skin in an upward direction. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin15.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin15.jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin15(1).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin15(1).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin15(2).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin15(2).jpg"
+                    }
+
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 16,
+                "url": "grace_beauty_youth_infinity_skin_firming_night_creme",
+                "name": "Grace Beauty Youth Infinity Skin Firming Night Creme",
+                "price": 965,
+                "del": 1049,
+                "off":"8% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin16.jpg",
+                "numofverify": "49 verified ratings",
+                "color":"Purple",
+                "ques":"Details",
+                "ans":"Flaunt flawless skin with the Youth Infinity Skin Firming Night Creme from Lakme. Formulated with Insta-Collagen Boosters, this anti-ageing cream tightens your skin elasticity and the luminizing pearls give you a brighter look instantly. The cream works on your skin while you sleep to give you a rejuvenated look in the morning. Dermatologically tested, this night creme is non-comedogenic and is recommended by salon experts. Perfect for all skin types, this cream gives you soft, supple and glowing skin with regular use, and this 50gm pack is convenient to carry even when your travel! Add  Lakme Youth Infinity Skin Firming Night Creme to your precious skin products, right away! Repairs and regenerates your skin through the night. For best results, use the product on an everyday basis. In the unlikely event of skin irritation, stop using and consult a doctor immediately. Avoid contact with eyes. Wash your eyes thoroughly with clean water in case of contact. Dot across your face and neck. Gently massage in an upward and outward spiral motion until it's absorbed. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 g| Commodity: Night Creme| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Lightly scoop out the crème on to your palm. | Step 2:Dot your forehead, cheeks, nose and chin. | Step 3: Gently massage the crème with your fingers in an upward and outward direction in a spiral motion.| Step 4: Make sure to cover every area of your face. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin16.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin16.jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin16(1).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin16(1).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin16(2).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin16(2).jpg"
+                    }
+
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 17,
+                "url": "grace_beauty_peach_milk_soft_creme",
+                "name": "Grace Beauty Peach Milk Soft Creme",
+                "price": 440,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin17.jpg",
+                "numofverify": "109 verified ratings",
+                "color":"Peach",
+                "ques":"Details",
+                "ans":"Is your skin loosing moisture as the day goes by ? Lakmé brings to you the goodness of peaches and milk in a creme for the very first time! This whipped cream formula has a soothing fragrance which will make you fall in love with it instantly. This deeply nourishing formula easily absorbs into the skin to lock moisture for 12 hours to give you soft, smooth glowing skin. Apply the crème smoothly over face and neck. Use it in the day|ight to get beautiful skin around the clock. This crème can be applied under make up.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 g| Commodity: Soft Cremé| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply on cleansed face by gently massaging onto face and neck with upward strokes. | Step 2: Avoid contact with eyes. | Step 3: Wash thoroughly with clean water in case of contact.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin17.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin17.jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin17(1).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin17(1).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin17(2).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin17(2).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin17(3).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin17(3).jpg"
+                        }
+
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 18,
+                "url": "grace_beauty_peach_milk_moisturizer_spf-24_pa_sunscreen_lotion",
+                "name": "Grace Beauty Peach Milk Moisturizer SPF-24 PA Sunscreen Lotion",
+                "price": 299,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin18.jpg",
+                "numofverify": "89 verified ratings",
+                "color":"Peach",
+                "ques":"Details",
+                "ans":"This winter, keep everyone guessing the secret behind your blush. Indulge in Lakmé Fruit Moisture, a range of moisturizers and crèmes formulated with Nutritive Moisture Technology. A moisturizer that’s perfect of dry skin, Lakmé Peach Milk Moisturizer is everything you need to keep your skin feeling and looking nourished during the cold as well as protect it from the harsh rays of the sun.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 120 ml| Commodity: Moisturizer | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Take a dollop of the moisturizer in your palm. | Step 2:  Use your ring finger and apply it evenly across your face. | Step 3: Gently rub the crème on your skin with your 2 fingers index and middle.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin18.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin18.jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin18(1).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin18(1).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin18(2).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin18(2).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin183.jpg",
+                       "thumbnail":"/Products/Skin-Images/skin183.jpg"
+                    }
+
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 19,
+                "url": "grace_beauty_9_to_5_naturale_day_creme_spf-20",
+                "name": "Grace Beauty 9 to 5 Naturale Day Creme SPF-20",
+                "price": 279,
+                "del":375,
+                "off": "26% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin19.jpg",
+                "numofverify": "50 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Brighten up your mornings with this day cream for a fresh, invigorating glow that lasts till sundown.Aloe-infused Lakmé 9to5 Naturale Day Crème helps beat dry and dull skin. Its light texture moisturizes the face with a natural glow and SPF 20 protects skin from UV damage. An essential for your daily beauty routine.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 g| Commodity: Day Creme | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Squeeze out a pea-sized amount of cream and dab it onto your face in small dots. | Step 2: Gently massage in upward, circular motion to blend it.| Step 3: Especially focus on dry patches and dab off any excess cream with a tissue.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin19.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin19.jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin19(1).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin19(1).jpg"
+                    },
+                    {
+                    "original":"/Products/Skin-Images/skin19(2).jpg",
+                   "thumbnail":"/Products/Skin-Images/skin19(2).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin19(3).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin19(3).jpg"
+                    }
+
+                   
+                   
+                   
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 20,
+                "url": "grace_beauty_9_to_5_naturale_aloe_vera_gel",
+                "name": "Grace Beauty 9 to 5 Naturale Aloe Vera Gel",
+                "price": 340,
+                "del":425,
+                "off": "20% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin20.jpg",
+                "numofverify": "62 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Nourish your skin, especially if it’s stressed, with the goodness of aloe vera. This lightweight and non-sticky gel gives a soothing effect, provides the perfect base for makeup and protects your skin from daily and harsh exposure to city pollution. Ideal for all skin types, it’s the perfect solution to get that fresh and glowing look, especially on no makeup days.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 g| Commodity: Aloe Vera Gel | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Squeeze out your gel onto your fingertips. | Step 2: Apply it in dots and then massage in an upward, outward motion.| Step 3:  Extend application to your neck for thorough treatment..",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin20.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin20.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin19(3).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin19(3).jpg"
+                    }
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 21,
+                "url": "grace_beauty_9_to_5_naturale_aloe_cleansing_wipes",
+                "name": "Grace Beauty 9 to 5 Naturale Aloe Cleansing Wipes",
+                "price": 135,
+                "del":150,
+                "off": "10% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin21.jpg",
+                "numofverify": "102 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Lakmé 9 to 5 Naturale Aloe cleansing wipes are soft and non-alcoholic with formulations that deeply cleanse the skin instantly. Being made with Pure Aloe vera, these wipes are perfect for effective Cleansing on the go. Lakmé 9to5 Naturale Aloe cleansing wipes are also eco-friendly; all thanks to the 100 percent biodegradable fabric used in making these face wipes. Enriched with the goodness of aloe vera, it not only instantly hydrates your skin but leaves your skin feeling fresh. Formula with Pure Aloe vera not only hydrate but also help in reducing oil from your skin. Aloe vera known to have cooling, refreshing, moisturizing qualities. It is known to give glowing skin. The wipes are packed in a resealable label making it easy for you to pull a wipe and later reseal the pack. The convenient, resealable, packaging prevents the wipes from drying, locks-in moisture and helps retain freshness.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 25 Wipes| Commodity: Aloe Vera Wipes | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Open the resealable sticker.. | Step 2: Pull out a wipe and gently wipe over face and neck.| Step 3:  Reseal the pack after use. | Step 4: :Discard the wipe after single use.| Step 5: Avoid getting into your eyes.| Step 6: Wash your eyes thoroughly with clean water in case of eye contact.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin21.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin21.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin21(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin21(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin21(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin21(2).jpg"
+                    }
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 22,
+                "url": "grace_beauty_sun_expert_tinted_sunscreen_spf-50",
+                "name": "Grace Beauty Sun Expert Tinted Sunscreen SPF-50",
+                "price": 467,
+                "del":525,
+                "off": "11% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin22.jpg",
+                "numofverify": "87 verified ratings",
+                "color":"Mandarin",
+                "ques":"Details",
+                "ans":"Sunscreens making your face look white and patchy? Lakmé Sun Expert brings to you a tinted sunscreen, our revolutionary sun protection formula that blends into your skin for an invisible, natural finish. SPF 50 shields up to 97% of UVB rays causing sunburn and PA+++ shields from UVA rays that cause dark spots, premature aging and skin tanning. Infused with cucumber and lemongrass extracts this ultra matte, tinted sun screen feels light and non-sticky on skin and gives an even toned look this is perfect for everyday.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 g| Commodity: Sunscreen | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Smooth on to cleansed face and exposed part of the skin 20 minutes before sun exposure.| Step 2:  Re-apply every 3-4 hours for maximum protection. Avoid contact with eyes.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin22.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin22.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin22(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin22(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin22(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin22(2).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin22(3).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin22(3).jpg"
+                    }
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 23,
+                "url": "grace_beauty_sun_expert_de-tan_scrub",
+                "name": "Grace Beauty Sun Expert De-Tan Scrub",
+                "price": 124,
+                "del":155,
+                "off": "20% Off",
+                "bestseller":false,
+                "new":true,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin23.jpg",
+                "numofverify": "51 verified ratings",
+                "color":"Mandarin",
+                "ques":"Details",
+                "ans":"Sun exposure making your skin look tanned and dull? Revive your skin's glow with LSE De-Tan Scrub. Formulated with Oatmeal extract, 100% Natural walnut exfoliant, it helps in deep cleansing pores, removed dirt, pollution and reduces tan while being gentle on skin. The dual-purpose formula can be used as a scrub   also left on skin as a mask leaving skin looking & feeling soft and bright. Regular usage will leave your skin refreshed and glowing. It is dermatologically tested and non-comedogenic.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 g| Commodity: Tan Scrub | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Moisten face with water dispense product in on to fingertips and massage over face in circular motion for 3-4 mins.| Step 2: Rinse off with water. If the product is being used as a mask, leave for 5-7 mins. | Step 3: Gently massage and rinse off with water.",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin23.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin23.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin23(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin23(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin23(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin23(2).jpg"
+                    }
+                 
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 24,
+                "url": "grace_beauty_9_to_5_vitamin_c+_scrub",
+                "name": "Grace Beauty 9 to 5 Vitamin C+ Scrub",
+                "price": 399,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.6,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin24.jpg",
+                "numofverify": "31 verified ratings",
+                "color":"Mandarin",
+                "ques":"Details",
+                "ans":"Hoping to shine from within? Find your light with our all-new Lakmé 9To5 Vitamin C+ Scrub! Rediscover the radiance of your skin with an absolutely new and refreshing formula. This Scrub not just helps unclog your pores, but also rejuvenates your skin from within, providing healthy glowing skin like never before! Experience the mighty richness of walnut shell powder and revitalizing Licorice extract that helps exfoliate skin giving your skin a healthy glow. It's time to pamper your skin with this creamy, non-drying and gentle scrub enriched with the goodness of Vitamin C that refreshes your skin leaving it soft. Wondering how to use it? Dampen your face and neck, apply an adequate amount of scrub and massage gently in circular motions with your fingertips. Rinse thoroughly after, for visibly clear and smooth skin. Use twice a week. A Smooth routine for smoother skin with the goodness of Lakmé 9To5 Vitamin C+ Scrub, your new exfoliation expert! Pro tip: For best results, build your regime with the Lakmé Vitamin C+ range. What are you waiting for? Get ready to get healthy glowing skin the right way with Lakmé 9To5 Vitamin C+ Scrub today!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 g| Commodity:  Scrub | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Dampen your face and neck, apply an adequate amount of scrub and massage gently in circular motions with your fingertips.| Step 2: Rinse thoroughly after, for visibly clear and smooth skin. Use twice a week. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin24.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin24.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin24(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin24(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin24(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin24(2).jpg"
+                    }
+                 
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 25,
+                "url": "grace_beauty_blush_&_glow_orange-walnut_gel_scrub",
+                "name": "Grace Beauty Blush & Glow Orange-Walnut Gel Scrub",
+                "price": 100,
+                "del":125,
+                "off":"20% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin25.jpg",
+                "numofverify": "95 verified ratings",
+                "color":"Mandarin",
+                "ques":"Details",
+                "ans":"Hoping to shine from within? Find your light with our all-new Lakmé 9To5 Vitamin C+ Scrub! Rediscover the radiance of your skin with an absolutely new and refreshing formula. This Scrub not just helps unclog your pores, but also rejuvenates your skin from within, providing healthy glowing skin like never before! Experience the mighty richness of walnut shell powder and revitalizing Licorice extract that helps exfoliate skin giving your skin a healthy glow. It's time to pamper your skin with this creamy, non-drying and gentle scrub enriched with the goodness of Vitamin C that refreshes your skin leaving it soft. Wondering how to use it? Dampen your face and neck, apply an adequate amount of scrub and massage gently in circular motions with your fingertips. Rinse thoroughly after, for visibly clear and smooth skin. Use twice a week. A Smooth routine for smoother skin with the goodness of Lakmé 9To5 Vitamin C+ Scrub, your new exfoliation expert! Pro tip: For best results, build your regime with the Lakmé Vitamin C+ range. What are you waiting for? Get ready to get healthy glowing skin the right way with Lakmé 9To5 Vitamin C+ Scrub today!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 g| Commodity: Gel Scrub | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Dampen your face and neck, apply an adequate amount of scrub and massage gently in circular motions with your fingertips.| Step 2: Rinse thoroughly after, for visibly clear and smooth skin. Use twice a week. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin25.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin25.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin25(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin25(1).jpg"
+                    }
+                    
+                
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 26,
+                "url": "grace_beauty_blush_&_glow_watermelon_sheet_mask",
+                "name": "Grace Beauty Blush & Glow Watermelon Sheet Mask",
+                "price": 100,
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin26.jpg",
+                "numofverify": "122 verified ratings",
+                "color":"Red",
+                "ques":"Details",
+                "ans":"Lakme brings to you its first range of exciting Sheet Masks from blush and glow. If you are facing dull, dry, patchy skin that is yearning for some hydration that is infused with the goodness of your favourite fruits. If your skin wants to get a glow that feels like a fruit facial. Our sheet masks are meant to give you exactly that! Now soak your face in the goodness of 100% pure fruit extracts with the range of Lakme Blush & Glow Watermelon Sheet Masks. As you leave on this delightfully refreshing sheet mask, your face gets a burst of freshness and a gorgeous fruit-kissed glow. In just 15 minutes you feel rejuvenated like just out of a fruit facial. What’s more, the light, breathable fabric fits your face perfectly and smells oh! so delicious. It’s the ultimate way to pamper and nourish your skin and make it look fresh and feel soft and supple. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 93 g| Commodity: Mask | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Cleanse Face Thoroughly.| Step 2: Remove Sheet Mask and spread it over face.| Step 3: Leave the mask on for 15 minutes.| Step 4: Remove the sheet mask and enjoy your skin. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin26.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin26.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin26(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin26(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin26(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin26(2).jpg"
+                    }
+                    
+                
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 27,
+                "url": "grace_beauty_skin_solutions_sheet_mask_revitalizing_with_vitamin_c",
+                "name": "Grace Beauty Skin Solutions Sheet Mask Revitalizing with Vitamin C",
+                "price": 150,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin27.jpg",
+                "numofverify": "100 verified ratings",
+                "color":"Orange",
+                "ques":"Details",
+                "ans":"Infused with 95% pure vitamin c complex~, for healthy & glowing skin ~ Refers to sodium ascorbyl phosphate and vitamin e acetate.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 25 ml| Commodity: Mask | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Cleanse Face Thoroughly.| Step 2: Remove Sheet Mask and spread it over face.| Step 3: Leave the mask on for 15 minutes.| Step 4: Remove the sheet mask and enjoy your skin. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin27.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin27.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin27(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin27(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin27(2).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin27(2).jpg"
+                    }
+                    
+                
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 28,
+                "url": "grace_beauty_skin_solutions_sheet_mask_hydrating_with_hyaluronic_acid",
+                "name": "Grace Beauty Skin Solutions Sheet Mask Hydrating with Hyaluronic Acid",
+                "price": 150,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin28.jpg",
+               
+                "numofverify": "85 verified ratings",
+                "color":"Blue",
+                "ques":"Details",
+                "ans":"Infused with 95% pure hyaluronic acid & pentavitin, for supple and hydrated skin.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 25 ml| Commodity: Mask | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Cleanse Face Thoroughly.| Step 2: Remove Sheet Mask and spread it over face.| Step 3: Leave the mask on for 15 minutes.| Step 4: Remove the sheet mask and enjoy your skin. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin28.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin28.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin28(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin28(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin27(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin27(1).jpg"
+                    }
+                    
+                
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 29,
+                "url": "grace_beauty_skin_solutions_sheet_mask_anti-ageing_with_pro-retinol_c_complex",
+                "name": "Grace Beauty Skin Solutions Sheet Mask Anti-Ageing with Pro-Retinol C Complex",
+                "price": 150,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin29.jpg",
+                "numofverify": "58 verified ratings",
+                "color":"Purple",
+                "ques":"Details",
+                "ans":" Infused with 89% pure pro retinol c complex~, for supple and youthful skin ~ Refers to retinyl propionate and cetyl alcohol",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 25 ml| Commodity: Mask | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Cleanse Face Thoroughly.| Step 2: Remove Sheet Mask and spread it over face.| Step 3: Leave the mask on for 15 minutes.| Step 4: Remove the sheet mask and enjoy your skin. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin29.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin29.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin29(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin29(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin27(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin27(1).jpg"
+                    }
+                    
+                
+
+                ]
+                
+
+            },
+
+            { 
+                "id": 30,
+                "url": "grace_beauty_skin_solutions_sheet_mask_brightening_with_niacinamide",
+                "name": "Grace Beauty Skin Solutions Sheet Mask Brightening with Niacinamide",
+                "price": 150,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Skin-Images/ProductSkin30.jpg",
+                "numofverify": "120 verified ratings",
+                "color":"White",
+                "ques":"Details",
+                "ans":" Infused with tri vitamin complex and 98% pure niacinamide, for bright and radiant skin",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 25 ml| Commodity: Mask | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Cleanse Face Thoroughly.| Step 2: Remove Sheet Mask and spread it over face.| Step 3: Leave the mask on for 15 minutes.| Step 4: Remove the sheet mask and enjoy your skin. ",
+                "images":[
+                    {
+                    "original":"/Products/Skin-Images/ProductSkin30.jpg",
+                   "thumbnail":"/Products/Skin-Images/ProductSkin30.jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin30(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin30(1).jpg"
+                    },
+                    {
+                        "original":"/Products/Skin-Images/skin27(1).jpg",
+                       "thumbnail":"/Products/Skin-Images/skin27(1).jpg"
+                    }
+                    
+                
+
+                ]
+
+                
+
+            }
+
+
+        ]
     }
 ]
