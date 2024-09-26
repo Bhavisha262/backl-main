@@ -847,9 +847,9 @@ app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
 
-// app.listen(3025, () => {
-// console.log("Server Connected")
-// })
+app.listen(3025, () => {
+console.log("Server Connected")
+})
 
 //Run the app with the following command
 //node app.js
