@@ -777,6 +777,38 @@ app.get('/order-admin-table',async(req,res)=> {
     res.json({data:orderdata})
     
 });
+
+app.post('/forgotpassword',async(req,res)=>{
+    const{name,email} = req.body
+    
+    const forgotpassword = await register.create({
+    name,
+    email,
+    });
+    
+    const transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: {
+    user: 'bhavishagandharva@gmail.com',
+    pass: 'lzly yedr pmue qjbp',
+    },
+    });
+    
+    const mailOptions = {
+    from: 'bhavishagandharva@gmail.com',
+    to: email,
+    subject: 'To Change Password',
+    html: `
+    <p>Hello ${name}</p>
+    <p>To Change Password</p>
+    <p><a href="http://localhost:3025/changepassword">http://localhost:3025/changepassword</a></p>
+    <p>Thank You,</p>
+    `,
+    };
+    const mail = await transporter.sendMail(mailOptions);
+    await forgotpassword.save();
+    res.json({ success: true, message: ' Link send to Your Mail id'});
+});
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
