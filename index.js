@@ -444,6 +444,38 @@ app.post('/add-to-cart', async (req, res) => {
     res.status(500).json({ success: false, error: 'Internal Server Error' });
     }
 });
+
+app.post('/remove-from-cart', async (req, res) => {
+    const { categoryid,productid } = req.body;
+    
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({ message: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+    return res.status(401).json({ message: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOneAndUpdate(
+    { email: decoded.email },
+    { $pull: { cart: { categoryid,productid} } },
+    { new: true }
+    );
+    
+    if (!user) {
+    return res.status(404).json({ message: 'User not found' });
+    }
+    
+    res.json({ success: true, message: 'Thanks Product removed from cart', cartInfo: user.cart });
+    });
+    } catch (error) {
+    console.error('Error removing from cart:', error);
+    res.status(500).json({ success: false, error: 'Internal Server Error' });
+    }
+});
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
