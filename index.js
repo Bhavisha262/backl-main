@@ -312,7 +312,11 @@ app.post('/new-account',async(req,res)=> {
     res.json({ success: true, message: 'Thanks for registering with Grace Beauty.' });
 });
 
-
+app.get('/new-admin-table',async(req,res)=> {
+const newdata = await NewAccount.find()
+res.json({data:newdata}) 
+});
+    
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
