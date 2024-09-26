@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const express = require('express');
 const path = require('path');
 const nodemailer = require('nodemailer');
+const fs = require('fs');
 const cors = require('cors');
 const { default: mongoose } = require('mongoose');
 const { type } = require('os');
