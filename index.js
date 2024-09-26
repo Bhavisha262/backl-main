@@ -371,6 +371,38 @@ app.post('/user', async(req,res)=> {
     res.json({ success: true, message: 'Thanks.Login Successful',data:token, cartInfo: existingUser1.cart, wishInfo: existingUser1.wish ,orderInfo: existingUser1.order });
 });
     
+app.get('/api/user', async (req, res) => {
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({ message: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+    return res.status(401).json({ message: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOne({ email: decoded.email });
+    if (!user) {
+    return res.status(404).json({ message: 'User not found' });
+    }
+    
+    const accountInfo = {
+    name: user.name,
+    email: user.email,
+    mobile: user.number,
+    password: user.password,
+    };
+      res.json({ accountInfo:accountInfo });
+    });
+    } catch (error) {
+    console.error('Error fetching cart items:', error);
+    res.status(500).json({ message: 'Internal Server Error' });
+    }
+});
+
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
