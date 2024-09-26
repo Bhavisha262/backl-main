@@ -2,6 +2,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
 const nodemailer = require('nodemailer');
+const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
 const fs = require('fs');
 const cors = require('cors');
 const { default: mongoose } = require('mongoose');
@@ -317,6 +319,42 @@ const newdata = await NewAccount.find()
 res.json({data:newdata}) 
 });
     
+app.post('/update-account-data', async (req, res) => {
+    const { name,email,number,password } = req.body;
+    
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({success: false,  alert: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+    return res.status(401).json({success: false, alert: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOne({ email: decoded.email });
+    if (!user) {
+    return res.status(404).json({success: false, alert: 'User not found' });
+    }
+    
+    const hashedPassword = await bcrypt.hash(password, 10);
+    user.name = name;
+    user.email = email;
+    user.number = number;
+    
+    user.password=hashedPassword
+    await user.save();
+    
+    res.json({ success: true, message: 'Thanks Your Information has Been Updated' });  
+    
+    });
+    } catch (error) {
+    console.error('Error fetching user address:', error);
+    res.status(500).json({ success: false, error: 'Internal Server Error' });
+    }
+});
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
