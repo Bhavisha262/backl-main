@@ -618,6 +618,52 @@ app.get('/get-shipping-info', async (req, res) => {
     }
 });
 
+app.post('/save-order-info', async (req, res) => {
+
+    const { orderDate } = req.body;
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({ error: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+    return res.status(401).json({ error: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOne({ email: decoded.email });
+    if (!user) {
+    return res.status(404).json({ error: 'User not found' });
+    }
+    
+    user.cart.forEach(item => {
+    user.order.push({
+    orderDate,
+    categoryid: item.categoryid,
+    productid: item.productid,
+    img:item.img,
+    name:item.name,
+    price:item.price,
+    quantity: item.quantity,
+    
+    });
+    });
+    user.cart = [];
+    await user.save();
+    
+    res.json({
+    success: true,
+    message: 'Thanks! Your Order has Been Confirmed',
+    orderInfo: user.order,
+    cartInfo: user.cart
+    });
+    });
+    } catch (error) {
+    console.error('Error adding to order:', error);
+    res.status(500).json({ success: false, error: 'Internal Server Error' });
+    }
+});
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
