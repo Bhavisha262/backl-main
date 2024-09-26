@@ -176,6 +176,54 @@ require: true,
 });
 const User = mongoose.model("user",  UserSchema);
 
+app.get('/api', (req, res) => {
+    const filePath = path.join(__dirname, 'data.json');
+    fs.readFile(filePath, 'utf8', (err, data) => {
+    if (err) {
+    console.error(err);
+    return res.json({ success: false, error: 'Internal Server Error' });
+    }
+      
+    const jsonData = JSON.parse(data);
+    const updatedJson = jsonData.map(item => {
+    if (item.category_img) {
+    item.category_img = 'http://' + req.get('host') + item.category_img;
+    }
+    
+    if (item.pro_icon) {
+      item.pro_icon = 'http://' + req.get('host') + item.pro_icon;
+    }
+    
+    item.pro = item.pro.map(product => {
+    if (product.pro_main_img) {
+      product.pro_main_img = 'http://' + req.get('host') + product.pro_main_img;
+    }
+    
+    if (product.images) {
+    product.images = product.images.map(a => {
+    if (a.original) {
+      a.original = 'http://' + req.get('host') + a.original;
+    }
+    if (a.thumbnail) {
+      a.thumbnail = 'http://' + req.get('host') + a.thumbnail;
+    }
+    return a
+    });
+    }
+    
+    return product;
+    });
+    
+    return item;
+    });
+    
+    
+    res.json({ success: true, data: updatedJson });
+    
+    
+    });
+});
+
 
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
