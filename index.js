@@ -809,6 +809,40 @@ app.post('/forgotpassword',async(req,res)=>{
     await forgotpassword.save();
     res.json({ success: true, message: ' Link send to Your Mail id'});
 });
+
+app.post('/changepassword',async(req,res)=>{
+    const{email,password} = req.body
+    const user = await register.findOne({email})
+    if(!user){
+    return res.status(404).json({ success: false, message: 'User not found' });
+    }
+    const hashedPassword = await bcrypt.hash(password, 10);
+    user.password=hashedPassword
+    
+    const transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: {
+    user: 'bhavishagandharva@gmail.com',
+    pass: 'lzly yedr pmue qjbp',
+    },
+    });
+    
+    const mailOptions = {
+    from: 'bhavishagandharva@gmail.com',
+    to: email,
+    subject: 'Change Password Successfully!',
+    html: `
+    <p>Hello</p>
+    <p>Change Password Successfully</p>
+    <p>Your Password Change</p>
+    <p>Thank You,</p>
+    `,
+    };
+    const mail = await transporter.sendMail(mailOptions);
+    await user.save();
+    res.json({ success: true, message: ' Password Change Successfully'});
+});
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
