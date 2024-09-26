@@ -17,7 +17,7 @@ mongoose
 .then(() => console.log("Mongodb Connected"))
 .catch((err) => console.log("Mongo Error", err));
 app.use(cors());
-// app.use(express.static(path.join(__dirname, 'Assets')));
+app.use(express.static(path.join(__dirname, 'Assets')));
 app.use(bodyParser.json());
 
 const ContactSchema = new mongoose.Schema({
