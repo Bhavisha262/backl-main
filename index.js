@@ -355,6 +355,22 @@ app.post('/update-account-data', async (req, res) => {
     }
 });
 
+app.post('/user', async(req,res)=> {
+    const{email,password}=req.body
+    console.log(email+password)
+    const existingUser1 = await NewAccount.findOne({ email });
+    if (!existingUser1) {
+    return res.json({ success: false, error: 'Invalid User.' });
+    }
+    const passwordMatch = await bcrypt.compare(password, existingUser1.password);
+    if (!passwordMatch) {
+      return res.json({ success: false, error: 'Invalid  password' });
+    }
+    const token = jwt.sign({ email }, 'secret-key', { expiresIn: '24h' });  
+    console.log(token)
+    res.json({ success: true, message: 'Thanks.Login Successful',data:token, cartInfo: existingUser1.cart, wishInfo: existingUser1.wish ,orderInfo: existingUser1.order });
+});
+    
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
