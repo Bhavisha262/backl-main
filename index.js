@@ -1,6 +1,5 @@
-
-const bodyParser = require('body-parser');
 const express = require('express');
+const bodyParser = require('body-parser');
 const path = require('path');
 const nodemailer = require('nodemailer');
 const fs = require('fs');
@@ -265,7 +264,13 @@ app.post('/contact-us',async(req,res)=> {
     console.log('Email sent:', info.response);
     res.json({success:true,message:"Thanks for Contacting Grace Beauty !"})
     console.log(result)
-})
+});
+
+app.get('/contact-admin-table',async(req,res)=> {
+const contactdata = await Contact.find()
+res.json({data:contactdata})
+});
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
