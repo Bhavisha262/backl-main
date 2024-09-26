@@ -190,25 +190,25 @@ app.get('/api', (req, res) => {
     const jsonData = JSON.parse(data);
     const updatedJson = jsonData.map(item => {
     if (item.category_img) {
-    item.category_img = 'https://backl-main.vercel.app/' + item.category_img;
+    item.category_img = 'http://' + req.get('host') + item.category_img;
     }
     
     if (item.pro_icon) {
-      item.pro_icon = 'https://backl-main.vercel.app/' + item.pro_icon;
+      item.pro_icon = 'http://' + req.get('host') + item.pro_icon;
     }
     
     item.pro = item.pro.map(product => {
     if (product.pro_main_img) {
-      product.pro_main_img = 'https://backl-main.vercel.app/' + product.pro_main_img;
+      product.pro_main_img = 'http://' + req.get('host') + product.pro_main_img;
     }
     
     if (product.images) {
     product.images = product.images.map(a => {
     if (a.original) {
-      a.original = 'https://backl-main.vercel.app/' + a.original;
+      a.original = 'http://' + req.get('host') + a.original;
     }
     if (a.thumbnail) {
-      a.thumbnail = 'https://backl-main.vercel.app/' + a.thumbnail;
+      a.thumbnail = 'http://' + req.get('host') + a.thumbnail;
     }
     return a
     });
