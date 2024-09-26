@@ -271,6 +271,48 @@ const contactdata = await Contact.find()
 res.json({data:contactdata})
 });
 
+app.post('/new-account',async(req,res)=> {
+    const{name,number,email,password}=req.body
+    const existingUser = await NewAccount.findOne({email});
+    
+    if (existingUser){
+    return res.json({success: false,error: 'Email Id Already Registered ! Please Login...'})
+    }
+    const hashedPassword = await bcrypt.hash(password,10);
+    const result = await NewAccount.create({
+    name,
+    email,
+    number,
+    password:hashedPassword,
+    });
+    
+    console.log(result)
+    const transporter = nodemailer.createTransport({
+      service:'gmail',
+      auth:{
+        user: 'bhavishagandharva@gmail.com',
+        pass: 'lzly yedr pmue qjbp',
+      }
+    });
+    const mailOptions = {
+    from:'bhavishagandharva@gmail.com',
+    to: email,
+    subject: 'Welcome to Grace Beauty...',
+    html: `
+    <p>Hello ${name}</p>
+    <p>Thank you for registering with Grace Beauty. We are excited to have you on board!</p>
+    <p>Best regards,</p>
+    <p>Grace Beauty Team</p>
+    `,
+    };
+    
+    
+    const info =  await transporter.sendMail(mailOptions);
+    console.log('Email sent:', info.response);
+    res.json({ success: true, message: 'Thanks for registering with Grace Beauty.' });
+});
+
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
