@@ -589,6 +589,35 @@ app.post('/save-shipping-info', async (req, res) => {
     res.status(500).json({ success: false, error: 'Internal Server Error' });
     }
 });
+
+app.get('/get-shipping-info', async (req, res) => {
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({ message: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+    return res.status(401).json({ message: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOne({ email: decoded.email });
+    if (!user) {
+    return res.status(404).json({ message: 'User not found' });
+    }
+    
+    const shippingInfo = user.shippingInfo  || {};
+    
+    res.json({ success: true, data:shippingInfo  });
+    console.log(shippingInfo )
+    });
+    } catch (error) {
+    console.error('Error fetching user address', error);
+    res.status(500).json({ success: false, error: 'Internal Server Error' });
+    }
+});
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
