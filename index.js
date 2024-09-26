@@ -133,12 +133,12 @@ const NewAccountSchema = new mongoose.Schema({
     },
     categoryid: {
     type: Number,
-    required:true,
+    require:true,
     },
     productid:
     {
     type: Number,
-    required:true,
+    require:true,
     },
     img:
     {
@@ -162,12 +162,27 @@ const NewAccountSchema = new mongoose.Schema({
 });
 const NewAccount = mongoose.model("new-account",  NewAccountSchema);
 
+const UserSchema = new mongoose.Schema({
+  
+email: {
+type: String,
+require: true,
+},
+
+password: {
+type: String,
+require: true,
+},
+});
+const User = mongoose.model("user",  UserSchema);
+
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
 
 app.listen(3025, () => {
-console.log("server connected")
+console.log("Server Connected")
 })
 
 //Run the app with the following command
