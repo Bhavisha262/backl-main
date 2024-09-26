@@ -706,6 +706,45 @@ app.post('/increase-quantity', async (req, res) => {
     }
 });
 
+app.post('/decrease-quantity', async (req, res) => {
+    const { categoryid, productid } = req.body;
+    
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({ message: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+      return res.status(401).json({ message: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOne({ email: decoded.email });
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+    
+    const productInCart = user.cart.find(item => item.categoryid === categoryid && item.productid === productid );
+    if (productInCart) {
+    
+    if (productInCart.quantity >1) {
+    productInCart.quantity = productInCart.quantity - 1;
+    }  else {
+    return res.json({success:false, error: 'Maximum quantity 1' });
+    }
+    } else {
+    return res.json({success:false, error: 'Product not found in cart' });
+    }
+    await user.save();
+    res.json({ success: true, message: ' Thanks Quantity decreased', cartInfo: user.cart });
+    });
+    } catch (error) {
+    console.error('Error decreasing quantity:', error);
+    res.status(500).json({ success: false, error: 'Internal Server Error' });
+    }
+});
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
