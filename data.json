@@ -2868,5 +2868,2225 @@
 
 
         ]
+    },
+
+    {
+        "id": 5,
+        "category_img":"/Products/Nails-Images/nails-category.png",
+        "name":"Nails",
+        "category_url":"nails",
+        "pro_icon": "/Products/Nails-Images/Nail-polish.gif",
+        "pro_title": "Nails",
+        "pro":[
+            
+            { 
+                "id": 1,
+                "url": "grace_beauty_absolute_gel_stylist_nail_colour",
+                "name": "Grace Beauty Absolute Gel Stylist Nail Colour",
+                "price": 213,
+                "del":250,
+                "off":"8% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Nails-Images/ProductNails1.jpg",
+                "numofverify": "86 verified ratings",
+                "color":"Tawny Brown",
+                "ques":"Details",
+                "ans":"Lakmé Absolute Gel Stylist Presenting the Lakmé Absolute Gel Stylist Nail Color range - an exclusive collection of 15 glossy shades, now in an all-new bottle. It gives you long lasting gel-like nails and an extremely high gloss finish with every application. Choose from a wide range inclusive of nudes, reds, pinks, glitter and metallic shades that you can wear every day, or during festivities. Its new design includes the innovative applicator that glides easily onto your nails to a deliver glossy finish in one quick swipe. Get lasting rich color payoff with an intense glossy finish in 15 shades. Complete your gel nails look with the Top Coat.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 12 ml | Commodity: Nail Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Twist cap and remove the excess product while removing the brush out. | Step 2: Place on the centre part of the nail just below the cuticle and drag below. | Step 3: Repeat process on both sides of the centre line, leaving no empty spots on the nail. | Step 4: Wait a couple of minutes and repeat the process - 2 coats are recommended.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails1.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails1.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails1(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails1(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails1(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails1(2).jpg"
+                    }
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 2,
+                "url": "grace_beauty_9_to_5_primer+gloss_nail_colour",
+                "name": "Grace Beauty 9 to 5 Primer + Gloss Nail Colour",
+                "price": 180,
+                "del":190,
+                "off":"5% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Nails-Images/ProductNails2.jpg",
+                "numofverify": "206 verified ratings",
+                "color":"Berry Business",
+                "ques":"Details",
+                "ans":"Get everyday perfect nails with Lakme 9to5 Primer + Gloss Nail Color. Presenting the all new Lakme 9to5 Primer + Gloss Nail Color range with colors that dry quickly| giving your nails a long lasting intense glossy shine. Now coat your nails with vibrant color and an intense glossy shine that stays through your busy work days.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 6 ml | Commodity: Nail Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Shake Well. Apply two coats.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails2.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails2.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails2(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails2(1).jpg"
+                    }
+                 
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_absolute_gel_stylist_glitterati_collection",
+                "name": "Grace Beauty Absolute Gel Stylist Glitterati Collection",
+                "price": 300,
+                "del":325,
+                "off":"8% Off",
+                "bestseller":false,
+                "new":true,
+                "ratings":5,
+                "pro_main_img":"/Products/Nails-Images/ProductNails3.jpg",
+                "numofverify": "300 verified ratings",
+                "color":"Amethyst",
+                "ques":"Details",
+                "ans":"Sparkles, glitter and shimmer; anything that shines bright can and will never go out of style! Glitter is making a comeback on the runway, and you can ‘nail’ this showstopping trend with the newest Lakmé Absolute Gliteratti Collection. This collection of amazing glitter shades gives you stunning gel-like nails and a scintillate finish with just one Swipe! The new Lakmé Absolute Glitterati shades have a rich color delivery with a reflective shimmer finish, that is perfect for minimal or maximal glam. These nail colors have been launched to help you recreate that high-fashion drama and lustre in your everyday life. The Lakmé Absolute Gliteratti collection is a perfect addition to any women’s makeup kit. When in doubt, we say, glitter it out! There’s many reasons to fall in LOVE: A rich intense glitter payoff with a gel-like finish is perfect for a showstopper-like gleam. With immense sparkle and high shine these nail colours could elevate your look on any occasion. Day in or night out- when you’re the sparkling main character, you are the moment! So girls, what are you waiting for? Make glitter your signature color unapologetically, with Lakmé.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 12 ml | Commodity: Nail Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Shake Well. Apply two coats.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails3.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails3.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails3(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails3(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails3(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails3(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails3(3).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails3(3).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails3(4).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails3(4).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails3(5).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails3(5).jpg"
+                    }
+                 
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_nail_color_remover",
+                "name": "Grace Beauty Nail Color Remover",
+                "price": 95,
+                "del":99,
+                "off":"4% Off",
+                "ratings":5,
+                "pro_main_img":"/Products/Nails-Images/ProductNails4.jpg",
+                "bestseller":true,
+                "new":false,
+                "numofverify": "146 verified ratings",
+                "color":"Lavender",
+                "ques":"Details",
+                "ans":"Lakmé Nail Color Remover prevents excessive dryness around the nails| removes color completely & strengthens the nails. It's the one product you need between your manicures! Get this small bottle of Lakmé’s Nail Color Remover right away! You do not need to use too much of the product to remove the nail paint color. The bottle has a plastic stopper with a small hole in it| hence making it easier to control the quantity of the product| when using it. As it in richly enriched with Vitamin E| it prevents excessive drying around the nails. The Lakmé Nail Color Remover completely removes the nail paint till the last bit of its color.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 27 ml | Commodity: Nail Color Remover | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Dab onto cotton to wipe off nail color thoroughly yet gently.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails4.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails4.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails4(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails4(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails4(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails4(2).jpg"
+                    }
+                    
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 5,
+                "url": "grace_beauty_gloss_touch_set_of_4",
+                "name": "Grace Beauty Gloss Touch Set of 4",
+                "price": 299,
+                "del":499,
+                "off":"40% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Nails-Images/ProductNails5.jpg",
+                "numofverify": "236 verified ratings",
+                "color":"Red Parade",
+                "ques":"Details",
+                "ans":"RENEE Gloss Touch Nail paint is a uniquely formulated nail enamel that adds impeccable shine and gel-like finish to your nails. Available in an array of shades right from bright reds and pinks to pastels and monochromes, these nail paints are chip resistant and do not stain your nails after removal.  Apart from including a number of shades, our nail paints are made with utmost care and have a smooth consistency and rich color pigments to give your nails a glossy finish in just few strokes and they do not  several coats too.  RENEE Gloss Touch nail paints will totally reinvent your nail art game and help you get salon-like manicures and pedicures at home. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 20 ml | Commodity: Nail Color  | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Start by applying RENEE Nail Base Coat on clean, dry nails with cuticles pushed back. Apply the first coat with a stroke down the center of the nail, followed by a stroke along each side of the nail. Let it dry for 5-10 minutes and apply a second coat. Seal the nail paint with a top coat for a long-lasting and super-glossy finish.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails5.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails5.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails5(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails5(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails5(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails5(2).jpg"
+                    }
+                    
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_twist_&_erase_nail_polish_remover",
+                "name": "Grace Beauty Twist & Erase Nail Polish Remover",
+                "price": 199,
+                "del":189,
+                "off":"5% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Nails-Images/ProductNails6.jpg",
+                "numofverify": "147 verified ratings",
+                "color":"Black",
+                "ques":"Details",
+                "ans":"Tired of messy & long nail polish removing regimes? Here’s RENÉE Twist & Erase Nail paint remover for quick & hassle-free squeaky-clean nails! No need of multiple cotton pads or balls, just dip & twist your finger and get nail-polish-free & moisturised nails in seconds. Formulated with a potent acetone-free formula, this nail polish remover is enriched with Argan oil and Vitamin E is a specially formulated product that helps to remove nail polish while nourishing and protecting the nails. The key ingredients in this nail polish remover are Argan oil and Vitamin E, which are known for their moisturizing and nourishing properties. Argan oil is rich in antioxidants and fatty acids that help to strengthen the nails and protect them from damage. Vitamin E is also a powerful antioxidant that helps to protect the nails and cuticles from environmental stressors. Together, these ingredients work to gently remove nail polish while moisturizing and nourishing the nails. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 60 ml | Commodity: Nail Remover | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Dip finger into the centre of the sponge inside & twist the finger until nail polish comes off. Repeat if necessary.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails6.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails6.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails6(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails6(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails6(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails6(2).jpg"
+                    }
+                    
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 7,
+                "url": "grace_beauty_top_coat",
+                "name": "Grace Beauty Top Coat",
+                "price": 139,
+                "del":149,
+                "off":"7% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Nails-Images/ProductNails7.jpg",
+                "numofverify": "82 verified ratings",
+                "color":"Transparent",
+                "ques":"Details",
+                "ans":"Upgrade your mani game with RENEE Top Coat. Don't let chipped nails steal your spotlight. RENEE's formula locks down your color with its special formula that extends the nail paint wear and adds a brilliant gel like shine. Just swipe it on and change the way you look at nail paints.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 10 ml | Commodity: Top Coat | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Apply the first coat at the center of the nail, follow-up with strokes on each side of the nail. Let it dry & apply a second coat if d.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails7.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails7.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails7(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails7(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails7(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails7(2).jpg"
+                    }
+                    
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 8,
+                "url": "grace_beauty_base_coat",
+                "name": "Grace Beauty Base Coat",
+                "price": 139,
+                "del":149,
+                "off":"7% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Nails-Images/ProductNails8.jpg",
+                "numofverify": "82 verified ratings",
+                "color":"Beige",
+                "ques":"Details",
+                "ans":"RENEE Base Coat sets the stage for your nail art masterpiece, guaranteeing a sleek canvas for vibrant colors. Apply it before your nail polish to achieve a flawless base that boosts the lasting power and brilliance of your manicure.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 10 ml | Commodity: Base Coat | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Apply the first coat at the center of the nail, follow-up with strokes on each side of the nail. Let it dry & apply a second coat if d.",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails8.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails8.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails8(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails8(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails8(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails8(2).jpg"
+                    }
+                    
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_metallicious_nail_paint",
+                "name": "Grace Beauty Metallicious Nail Paint",
+                "price": 139,
+                "del":149,
+                "off":"7% Off",
+                "bestseller":true,
+                "new":false,
+
+                "ratings":4.9,
+                "pro_main_img":"/Products/Nails-Images/ProductNails9.jpg",
+                "numofverify": "167 verified ratings",
+                "color":"Christmas Red",
+                "ques":"Details",
+                "ans":"Unleash your inner boldness and showcase your fearless spirit with RENEE Metallicious Nail Paint, where your nails will radiate unparalleled brilliance with alluring metallic shades. Embrace the power of these striking nail paints, crafted with a long-lasting and high-coverage formula, ensuring your nails exude an irresistible metallicicious charm that captivates onlookers.Dare to be different and explore a captivating range of metallic shades that elevate your nail game to new heights, proving your mettle with every stroke. The rich colors with metallic shine create an awe-inspiring effect, giving your nails a glamorous and dazzling appearance fit for any occasion.The convenience of one-stroke application allows you to effortlessly embrace the metallicicious allure, whether you're a nail art enthusiast or someone looking for a quick and glamorous transformation. Say goodbye to tedious and time-consuming manicures, and indulge in the ease and efficiency of achieving metallic perfection.Enjoy the confidence of flaunting your metallicious nails for an extended period, as the long-lasting formula ensures your manicure remains intact and vibrant, enduring the challenges of your daily activities. Embrace a manicure that doesn't fade away quickly, granting you the freedom to seize the day without worry.Safety and nail health are paramount in RENEE Metallicious Nail Paint's design, as the formulation is carefully crafted to be acetone-free and paraben-free. Your nails deserve to be pampered with a gentle and caring formula that prioritizes their health while still delivering a stunning and enduring metallic finish.Unleash your true brilliance with RENEE Metallicious Nail Paint and embrace a world of fearless shades that accentuate your confidence and individuality. Dare to shine with metallicicious glamour, and let your nails become a captivating testament to your fearless spirit and impeccable taste.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 10 ml | Commodity: Nail Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Apply the first coat at the center of the nail, follow-up with strokes on each side of the nail. Let it dry & apply a second coat if d",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails9.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails9.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails9(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails9(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails9(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails9(2).jpg"
+                    }
+                    
+                   
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 10,
+                "url": "grace_beauty_nail_paint_rose_perfection_combo_of_4",
+                "name": "Grace Beauty Nail Paint-Rose Perfection Combo of 4",
+                "price": 515,
+                "del":596,
+                "off":"14% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Nails-Images/ProductNails10.jpg",
+                "numofverify": "342 verified ratings",
+                "color":"Rose Perfection",
+                "ques":"Details",
+                "ans":"RENEE Metallicious Nail Paint - Prove your mettle with fearless shades from RENÉE Metallicious Nail Paint. Created in alluring metallic shades with long-lasting & high-coverage formula, these nail paints will make your nails oh-so metallicious! | RENEE Mattitude Nail Paint - Make a statement with matte shades using RENÉE Mattitude Nail Paint. Formulated with quick drying & rich color, these long-lasting nail paints will help you flaunt your unique mattitude. | RENEE Hyper Gel Nail Paint -  Get ready to slay the nail game with RENÉE Hyper Gel Nail Paint. Crafted with high-coverage & gel-like formula, these long-lasting nail paints will help you get salon-like nails at home. | RENEE Glitterati Nail Paint - Flaunt your nails with a striking gleam using RENÉE Glitterati Nail Paint. With high coverage & long-lasting formula, these nail paints add a dash of glitter elevating your nail-game like a starry sky. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 10 ml | Commodity: Nail Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Apply the first coat at the center of the nail, follow-up with strokes on each side of the nail. Let it dry & apply a second coat if d",
+                "images":[
+                    {
+                    "original":"/Products/Nails-Images/ProductNails10.jpg",
+                   "thumbnail":"/Products/Nails-Images/ProductNails10.jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails10(1).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails10(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Nails-Images/Nails10(2).jpg",
+                   "thumbnail": "/Products/Nails-Images/Nails10(2).jpg"
+                    }
+                    
+                   
+
+                ]
+
+                
+
+            }
+        ]
+    },
+
+    {
+        "id": 6,
+        "category_img":"/Products/Hair-Images/hair-category.png",
+        "name":"Hair",
+        "category_url":"hair",
+        "pro_icon": "/Products/Hair-Images/hairbrush.gif",
+        "pro_title": "Hair",
+        "pro":[
+            
+            { 
+                "id": 1,
+                "url": "grace_beauty_onion_shampoo_for_hairfall_control",
+                "name": "Grace Beauty Onion Shampoo For Hairfall Control",
+                "price": 507,
+                "del":845,
+                "off":"40% Off",
+                "bestseller":false,
+                "new":true,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Hair-Images/ProductHair1.avif",
+                "numofverify": "79 verified ratings",
+                "color":"Purple-Pink",
+                "ques":"Details",
+                "ans":"Introducing Mamaearth Onion Shampoo for stronger, smoother and healthier hair. The new formula improves deep cleansing action by providing 22% more foam without any sulfates or toxins. With up to 8 times more detangling action and 4 times more conditioning effect, it’s time to welcome healthier hair with the time-tested goodness of Onion. Mamaearth Onion Hair Shampoo helps you combat hair fall with its natural goodness. Onion, rich in sulfur, potassium & antioxidants, reduces hair fall & accelerates hair growth. Plant Keratin replenishes and strengthens hair, repairing its natural structure. It makes hair smooth and frizz-free. And because of our no toxins and no harmful chemicals philosophy, you won’t find any Silicones, Parabens, mineral oil & dyes in our Onion Hair Shampoo.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 650 ml | Commodity: Hair Shampoo | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Gently massage Onion Shampoo on wet hair and scalp with fingertips, to work into a lather. | Step 2: Rinse thoroughly, and follow it up with our silicone-free Onion Conditioner. ",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair1.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair1.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair1(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair1(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair1(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair1(2).avif"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 2,
+                "url": "grace_beauty_lemon_anti-dandruff_shampoo_for_dandruff",
+                "name": "Grace Beauty Lemon Anti-Dandruff Shampoo for Dandruff",
+                "price": 340,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Hair-Images/ProductHair2.avif",
+                "numofverify": "63 verified ratings",
+                "color":"Lemon-yellow",
+                "ques":"Details",
+                "ans":"Got an itchy & flaky scalp? Time to go tough on dandruff with Mamaearth Lemon Anti-Dandruff Shampoo. Crafted with the natural goodness of Lemon & Ginger, the shampoo gently cleanses flakes & excess oil from your scalp, keeping you 100%* dandruff and itch-free. Lemon has anti-fungal properties which help combat dandruff and Ginger soothes itchiness & irritation. It also contains Zinc Pyrithione, another power-packed ingredient that is proven to limit fungal growth and prevent dandruff. The best part? Our Lemon Anti-Dandruff Shampoo does all this without drying out your tresses, making them softer & shinier. And it’s Made Safe certified which means no toxins or harmful chemicals, just nature’s goodness.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 250 ml | Commodity: Hair Shampoo | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take a coin-sized amount. | Step 2: Apply on your hair and work up a lather.| Step 3: Rinse it off thoroughly. ",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair2.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair2.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair2(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair2(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair2(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair2(2).avif"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_rosemary_anti-hair_fall_shampoo",
+                "name": "Grace Beauty Rosemary Anti-Hair Fall Shampoo",
+                "price": 549,
+                "bestseller":true,
+                "new":false,
+
+                "ratings":4.7,
+                "pro_main_img":"/Products/Hair-Images/ProductHair3.avif",
+                "numofverify": "71 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"Struggling with excessive hair loss? Mamaearth Rosemary Anti-Hair Fall Shampoo to the rescue! Crafted with the natural goodness of Rosemary, a super potent herb that’s proven to stimulate hair growth. The shampoo is also infused with Methi Dana - a time-tested ingredient that helps control hair fall. In turn, the Rosemary Anti-Hair Fall Shampoo gives you up to 94% stronger hair* and results in up to 93% less hair fall*. Rosemary strengthens weakened hair follicles and promotes hair growth while Methi Dana is extremely effective in controlling hair fall. It also strengthens the hair follicles and curbs hair shedding. The Rosemary Anti-Hair Fall Shampoo gently cleanses your scalp and hair while fortifying your locks with its nutrient-rich formulation. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 400 ml | Commodity: Hair Shampoo | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take a coin-sized amount of the Rosemary Anti-Hair Fall Shampoo | Step 2: Apply on your scalp and work up a lather.| Step 3: Rinse it off thoroughly. ",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair3.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair3.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair3(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair3(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair3(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair3(2).avif"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_onion_conditioner_for_hairfall_control",
+                "name": "Grace Beauty Onion Conditioner For Hairfall Control",
+                "price": 559,
+                "bestseller":false,
+                "new":true,
+
+                "ratings":4.7,
+                "pro_main_img":"/Products/Hair-Images/ProductHair4.avif",
+                "numofverify": "71 verified ratings",
+                "color":"Purple-Pink",
+                "ques":"Details",
+                "ans":"Introducing new & improved Mamaearth Onion Conditioner for even stronger, smoother, and shinier hair. It’s time to welcome healthier hair with the time-tested goodness of Onion. Onion, rich in Sulphur, potassium & antioxidants, reduces hair fall & accelerates hair growth. Coconut has nourishing properties and it penetrates deep into the follicles to promote hair growth & scalp health. The natural goodness of Sweet Almond Oil nourishes and strengthens the hair and is optimal for controlling hair fall.And because of our no toxins and no harmful chemicals philosophy, you won’t find any Silicones, Parabens, mineral oil & dyes in our Onion Hair Conditioner.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 400 ml | Commodity: Hair Conditioner | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: After shampooing, take an adequate amount of Conditioner. | Step 2: Apply it on damp hair, from mid-length all the way down to the tips.| Step 3:Leave on for 2-3 minutes. Rinse thoroughly.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair4.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair4.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair4(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair4(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair4(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair4(2).avif"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 5,
+                "url": "grace_beauty_lemon_anti-dandruff_conditioner_for_soft_&_smooth_hair",
+                "name": "Grace Beauty Lemon Anti-Dandruff Conditioner for Soft & Smooth Hair",
+                "price": 349,
+                "bestseller":true,
+                "new":false,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Hair-Images/ProductHair5.avif",
+                "numofverify": "105 verified ratings",
+                "color":"Lemon-Yellow",
+                "ques":"Details",
+                "ans":"When life gives you lemons, you get frizz-free & smooth hair! Introducing Mamaearth Lemon Anti-Dandruff Conditioner that nourishes and conditions your hair without weighing it down. Crafted with the natural goodness of Lemon & Ginger, the conditioner keeps dandruff at bay & tames frizziness. Also infused with Coconut Oil, it conditions the strands making them softer, smoother & shinier. What’s more, the potent ingredient, Zinc Pyrithione in the conditioner fights dandruff effectively, leaving you with frizz-free & smooth hair.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 250 ml | Commodity: Hair Conditioner| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: After shampooing, take an adequate amount of Conditioner. | Step 2: Apply it on damp hair, from mid-length all the way down to the tips.| Step 3:Leave on for 2-3 minutes. Rinse thoroughly.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair5.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair5.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair2(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair2(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair5(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair5(1).avif"
+                    }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_rosemary_anti-hair_fall_conditioner",
+                "name": "Grace Beauty Rosemary Anti-Hair Fall Conditioner",
+                "price": 349,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.7,
+                "pro_main_img":"/Products/Hair-Images/ProductHair6.avif",
+                "numofverify": "36 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"Stressed about hair breakage & hair loss? We’ve got your back. Meet Mamaearth Rosemary Anti-Hair Fall Conditioner that gives you up to 94% stronger hair* and results in up to 93% less hair fall*. Crafted with the natural goodness of Rosemary and Methi Dana, it deeply conditions and strengthens your hair while preventing hair breakage. Rosemary penetrates deep into the hair shaft and seals in moisture while Methi Dana replenishes weakened hair strands with antioxidants, proteins and vital nutrients, strengthening and nourishing them.Also infused with the goodness of Coconut and Almond Oils, the Rosemary Anti-Hair Fall Conditioner repairs dry and brittle hair while taming frizz. It also moisturizes and nourishes each strand resulting in up to 94% smoother* and up to 95% frizz-free hair.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 250 ml | Commodity: Hair Conditioner| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: After shampooing, take an adequate amount of Conditioner. | Step 2: Apply it on damp hair, from mid-length all the way down to the tips.| Step 3:Leave on for 2-3 minutes. Rinse thoroughly.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair6.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair6.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair6(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair6(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair6(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair6(2).avif"
+                    }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 7,
+                "url": "grace_beauty_onion_hair_oil_for_hairfall_control",
+                "name": "Grace Beauty Onion Hair Oil for Hairfall Control ",
+                "price": 599,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.9,
+                "pro_main_img":"/Products/Hair-Images/ProductHair7.avif",
+                "numofverify": "126 verified ratings",
+                "color":"Purple-Pink",
+                "ques":"Details",
+                "ans":"Introducing your favorite Mamaearth Onion Hair Oil with a new & improved formula for even stronger, smoother, and shinier hair. With its lightweight and non-sticky formulation and oh-so-good fragrance, this natural and toxin-free hair loss oil helps you have stronger and healthier hair with the Goodness of Nature.Onion hair oil, rich in Sulphur, Potassium & antioxidants, reduces hair fall & accelerates hair regrowth. One of the newest breakthrough ingredients in hair growth, Redensyl, unblocks hair follicles & also boosts new hair growth. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 250 ml | Commodity: Hair Oil| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Part your hair in two halves and apply the oil directly to the scalp using the comb applicator. | Step 2: The built-in applicator ensures that the oil reaches the roots directly.| Step 3:Leave on for 2-3 minutes. Leave it overnight or for a few hours.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair7.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair7.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair7(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair7(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair7(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair7(2).avif"
+                    }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 8,
+                "url": "grace_beauty_hibiscus_damage_repair_hair_oil",
+                "name": "Grace Beauty Hibiscus Damage Repair Hair Oil",
+                "price": 419,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Hair-Images/ProductHair8.avif",
+                "numofverify": "98 verified ratings",
+                "color":"Red",
+                "ques":"Details",
+                "ans":"Think of hair damage and one first thinks of hair fall and breakage. Let's drop a truth bomb. Hair damage is more than just hair fall. Dullness, dryness, and frizziness - all these are also signs of hair damage. Introducing Mamaearth Hibiscus Damage Repair Hair Oil - the savior to help your hair recoup from the damage caused by pollution, heat styling and chemical treatments. In fact, this oil starts its work right from the first application. Infused with Hibiscus a.k.a. Japa Pushpa in Sanskrit, the hair oil protects your mane from drying and forms a protective layer to prevent surface damage. Rich sources of calcium, iron and phosphorus, Curry Leaves aid in restoring hair to its glory by locking in nourishment and making your hair healthier, stronger and softer. Our hair oil is also lightweight and non-sticky, making it easy to wash off. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 150 ml | Commodity: Hair Oil| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Part your hair in two halves and apply the oil directly to the scalp using the comb applicator. | Step 2: The built-in applicator ensures that the oil reaches the roots directly.| Step 3:Leave on for 2-3 minutes. Leave it overnight or for a few hours.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair8.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair8.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair8(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair8(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair8(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair8(2).avif"
+                    }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_rosemary_hair_growth_oil",
+                "name": "Grace Beauty Rosemary Hair Growth Oil ",
+                "price": 499,
+                "bestseller":true,
+                "new":false,
+
+                "ratings":5,
+                "pro_main_img":"/Products/Hair-Images/ProductHair9.avif",
+                "numofverify": "198 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"Losing sleep over hair thinning and hair loss?  We feel you. Whether it is environmental aggressors, poor lifestyle, or stress that has led you here, nature has all the answers. Meet Mamaearth Rosemary Hair Growth Oil that's clinically proven to grow new hair in 12 Weeks*. It promotes hair growth & strengthens weakened hair follicles, while also controlling hair fall. Rosemary Hair Growth Oil is crafted with the natural goodness of Rosemary, a herb that is known to penetrate deep into the scalp and stimulate hair growth. Also infused with Methi Dana, a time-tested ingredient for hair fall control. This hair oil also fortifies weakened roots and hair follicles, making way for new hair growth. It also revitalizes and nourishes the scalp thus controlling hair fall. That’s not all, the Rosemary Hair Growth Oil also comes packed with Curry Leaves & Bhringraj, two natural ingredients that are known to replenish your hair with essential nutrients such as proteins, amino acids, and antioxidants. The result? Enhanced hair growth and a fuller hairline in no time!   of hair damage and one first thinks of hair fall and breakage. Let's drop a truth bomb. Hair damage is more than just hair fall. Dullness, dryness, and frizziness - all these are also signs of hair damage. Introducing Mamaearth Hibiscus Damage Repair Hair Oil - the savior to help your hair recoup from the damage caused by pollution, heat styling and chemical treatments. In fact, this oil starts its work right from the first application. Infused with Hibiscus a.k.a. Japa Pushpa in Sanskrit, the hair oil protects your mane from drying and forms a protective layer to prevent surface damage. Rich sources of calcium, iron and phosphorus, Curry Leaves aid in restoring hair to its glory by locking in nourishment and making your hair healthier, stronger and softer. Our hair oil is also lightweight and non-sticky, making it easy to wash off. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 ml | Commodity: Hair Oil| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Part your hair in two halves and apply the oil directly to the scalp using the comb applicator. | Step 2: The built-in applicator ensures that the oil reaches the roots directly.| Step 3:Leave on for 2-3 minutes. Leave it overnight or for a few hours.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair9.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair9.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair91.avif",
+                   "thumbnail": "/Products/Hair-Images/hair91.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair9(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair9(2).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair6(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair6(2).avif"
+                     }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 10,
+                "url": "grace_beauty_onion_hair_mask_for_hairfall_control",
+                "name": "Grace Beauty Onion Hair Mask for Hairfall Control ",
+                "price":499,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":5,
+                "pro_main_img":"/Products/Hair-Images/ProductHair10.avif",
+                "numofverify": "198 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"Mamaearth Onion Hair Mask works on the roots to strengthen your hair, reduce hair fall, and promote overall hair & scalp health. Onion Oil replenishes the scalp, restoring nutrients lost due to exposure to pollution, harsh weather & harmful chemicals used in hair care products. It cools the scalp, reducing itch & irritation. Made from all natural ingredients, Mamaearth Onion Hair Mask for hair fall control is free of harmful chemicals like Parabens, Mineral Oil, Silicones.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 ml | Commodity: Hair Mask| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Part your hair into two sections. | Step 2: Apply adequate amount of Hair Mask to wet hair & scalp.| Step 3: Leave the Mask on for 10-15 minutes before washing it off with a sulfate-free shampoo. | Step 4: For best results, use 2-3 times a week.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair10.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair10.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair10(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair10(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair10(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair10(2).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair10(3).avif",
+                   "thumbnail": "/Products/Hair-Images/hair10(3).avif"
+                     }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 11,
+                "url": "grace_beauty_argan_hair_mask_for_frizz-free_&_stronger_hair",
+                "name": "Grace Beauty Argan Hair Mask for Frizz-free & Stronger Hair",
+                "price": 599,
+                "bestseller":false,
+                "new":true,
+
+                "ratings":5,
+                "pro_main_img":"/Products/Hair-Images/ProductHair11.avif",
+                "numofverify": "193 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Is frizzy hair not letting you experiment with amazing hairstyles? Is dry hair leading to hair fall? We have a solution.Mamaearth Argan Hair Mask is specially formulated to treat frizzy and damaged hair while making them stronger. It contains natural ingredients such as Argan Oil that deeply conditions the hair and makes it frizz-free. Rosemary Oil restores the scalp’s moisture and promotes healthy growth. Avocado Oil reduces hair fall by strengthening hair follicles and milk protein repairs hair tissues.Mamaearth Onion Hair Mask works on the roots to strengthen your hair, reduce hair fall, and promote overall hair & scalp health. Onion Oil replenishes the scalp, restoring nutrients lost due to exposure to pollution, harsh weather & harmful chemicals used in hair care products. It cools the scalp, reducing itch & irritation. Made from all natural ingredients, Mamaearth Onion Hair Mask for hair fall control is free of harmful chemicals like Parabens, Mineral Oil, Silicones.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 ml | Commodity: Hair Mask| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Part your hair into two sections. | Step 2: Apply adequate amount of Hair Mask to wet hair & scalp.| Step 3: Leave the Mask on for 10-15 minutes before washing it off with a sulfate-free shampoo. | Step 4: For best results, use 2-3 times a week.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair11.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair11.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair11(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair11(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair11(2)avif",
+                   "thumbnail": "/Products/Hair-Images/hair11(2).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair11(3).avif",
+                   "thumbnail": "/Products/Hair-Images/hair11(3).avif"
+                     }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 12,
+                "url": "grace_beauty_rice_water_hair_mask_for_smoothening_hair_and_damage_repair",
+                "name": "Grace Beauty Rice Water Hair Mask For Smoothening Hair and Damage Repair",
+                "price": 599,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":5,
+                "pro_main_img":"/Products/Hair-Images/ProductHair12.avif",
+                "numofverify": "158 verified ratings",
+                "color":"Yellow",
+                "ques":"Details",
+                "ans":"Welcome time-tested East Asian Tradition to your rescue. It’s time to revive your hair back to its glory with the natural goodness of Fermented Rice Water. Say bye to split ends, and damaged hair and say hello to healthy and super long tresses. Mamaearth Rice Water Hair Mask with Fermented Rice Water, Keratin and Milk Protein helps you achieve hair goals by repairing your hair, making them healthier, manageable, and longer. Rich in minerals, vitamins, and amino acids, Fermented Rice Water Hair Mask helps repair damaged hair, while Keratin makes your hair smoother.Is frizzy hair not letting you experiment with amazing hairstyles? Is dry hair leading to hair fall? We have a solution.Mamaearth Argan Hair Mask is specially formulated to treat frizzy and damaged hair while making them stronger. It contains natural ingredients such as Argan Oil that deeply conditions the hair and makes it frizz-free. Rosemary Oil restores the scalp’s moisture and promotes healthy growth. Avocado Oil reduces hair fall by strengthening hair follicles and milk protein repairs hair tissues.Mamaearth Onion Hair Mask works on the roots to strengthen your hair, reduce hair fall, and promote overall hair & scalp health. Onion Oil replenishes the scalp, restoring nutrients lost due to exposure to pollution, harsh weather & harmful chemicals used in hair care products. It cools the scalp, reducing itch & irritation. Made from all natural ingredients, Mamaearth Onion Hair Mask for hair fall control is free of harmful chemicals like Parabens, Mineral Oil, Silicones.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 g | Commodity: Hair Mask| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Part your hair into two sections. | Step 2: Apply adequate amount of Hair Mask to wet hair & scalp.| Step 3: Leave the Mask on for 10-15 minutes before washing it off with a sulfate-free shampoo. | Step 4: For best results, use 2-3 times a week.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair12.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair12.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair12(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair12(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair12(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair12(2).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair12(3).avif",
+                   "thumbnail": "/Products/Hair-Images/hair12(3).avif"
+                     }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 13,
+                "url": "grace_beauty_onion_hair_serum",
+                "name": "Grace Beauty Onion Hair Serum",
+                "price": 299,
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Hair-Images/ProductHair13.avif",
+                "numofverify": "111 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"Looking for a hair serum that chases away all your hair problems while keeping them strong and frizz-free? Your search ends now. Good hair days are here with Mamaearth Onion Hair Serum for frizzy and stronger hair. It’s time to trust the goodness of onion – an age-old home remedy to address hair issues like frizz, breakage, and hair fall. Onion – rich in Sulfur – makes your hair strong & reduces breakage. Biotin improves overall hair quality, reduces breakage, and increases thickness. Olive Oil helps in making hair smooth, and frizz-free. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 ml | Commodity: Hair Serum| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take a few drops of the Serum onto your palms. | Step 2: Rub hands together and distribute evenly along the lengths of your towel-dried or dry hair, especially the ends.| Step 3:  Leave it on. For best results, use it after every hair wash.| Step 4: This can also be used prior to combing, on dry hair.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair13.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair13.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair13(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair13(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair13(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair13(2).avif"
+                    }
+             
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 14,
+                "url": "grace_beauty_rosemary_hair_growth_scalp_serum",
+                "name": "Grace Beauty Rosemary Hair Growth Scalp Serum",
+                "price": 599,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":5,
+                "pro_main_img":"/Products/Hair-Images/ProductHair14.avif",
+                "numofverify": "54 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"They say, the secret to hair growth lies in the roots. So we said, let’s prove that right! Introducing Rosemary Hair Growth Scalp Serum - a one-of-a-kind leave-in-scalp serum that acts at the root level to trigger hair growth, improve hair density and control hair fall as well.Serums, the newest kids on the haircare block, seep deep into the scalp and bring it much-needed nutrition. What about our scalp serum? Not only is it power-packed with potent ingredients, it’s also lightweight and non-greasy. 95% Pure Rosemary Oil Extract unclogs scalp pores, goes deep into the hair follicles, and promotes hair growth. 4% AnaGain™ increases hair density and prolongs the life cycle of the hair by stimulating new hair growth and blocking hair loss. RootBioTec™, Cressatine, Caffeine, and Niacinamide reduce hair fall further and promote hair density.  ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 ml | Commodity: Hair Serum| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take a few drops of the Serum onto your palms. | Step 2: Rub hands together and distribute evenly along the lengths of your towel-dried or dry hair, especially the ends.| Step 3:  Leave it on. For best results, use it after every hair wash.| Step 4: This can also be used prior to combing, on dry hair.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair14.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair14.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair14(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair14(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair14(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair14(2).avif"
+                    }
+             
+
+                ]
+
+                
+
+            },
+
+            
+            { 
+                "id": 15,
+                "url": "grace_beauty_rice_wonder_water_for_detangled_hair",
+                "name": "Grace Beauty Rice Wonder Water For Detangled Hair",
+                "price": 349,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Hair-Images/ProductHair15.avif",
+                "numofverify": "82 verified ratings",
+                "color":"Yellow",
+                "ques":"Details",
+                "ans":"Put an end to tangled hair, knots and get the hair you’ve always dreamt of, with the goodness of nature. True to its name - Mamaearth Rice Wonder Water detangles hair in 7 seconds. That’s not all the wonder. Rice water for hair is natural too.Rice Wonder Water is crafted with the East Asian Tradition of Fermented Rice Water that makes hair stronger and reduces breakage. Not only does it detangle hair in 7 seconds, it also instantly improves hair smoothness and appearance thanks to Keratin. Rice is rich in minerals, vitamins, and amino acids which help repair damaged hair. Keratin, a type of protein, prevents frizz, restores shine, and improves hair elasticity, giving you hair that looks and feels flawless.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 ml | Commodity: Hair Serum| Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take an adequate amount of Rice Wonder Water onto your palm. | Step 2: Evenly apply it to the length of your hair.| Step 3:  Leave it on. For best results, use it after every hair wash.| Step 4:  Leave your hair for 7 seconds and comb away the tangles for silky smooth hair.",
+                "images":[
+                    {
+                    "original":"/Products/Hair-Images/ProductHair15.avif",
+                   "thumbnail":"/Products/Hair-Images/ProductHair15.avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair15(1).avif",
+                   "thumbnail": "/Products/Hair-Images/hair15(1).avif"
+                    },
+                    {
+                    "original": "/Products/Hair-Images/hair15(2).avif",
+                   "thumbnail": "/Products/Hair-Images/hair15(2).avif"
+                    }
+             
+
+                ]
+
+                
+
+            }
+           
+        ]
+    },
+
+    {
+        "id": 7,
+        "category_img":"/Products/Baby-Images/baby-category.png",
+        "name":"Baby",
+        "category_url":"baby",
+        "pro_icon": "/Products/Baby-Images/baby.gif",
+        "pro_title": "Baby",
+        "pro":[
+            { 
+                "id": 1,
+                "url": "grace_beauty_coco_soft_shampoo_for_gentle_cleansing",
+                "name": "Grace Beauty Coco Soft Shampoo for Gentle Cleansing ",
+                "price": 449,
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby1.avif",
+                "numofverify": "140 verified ratings",
+                "color":"Blue",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Coco Soft Shampoo & I’m here to gently cleanse & nourish your little one’s hair and scalp. I come with a natural and tear-free formula made with the goodness of nourishing ingredients like Coconut Milk & Calendula. I deeply moisturize & condition the baby’s scalp, improving scalp health and hair texture. Packed with Turmeric, I am anti-inflammatory and antibacterial, helping keep infections and irritation away. I also balance the scalp’s pH levels keeping your little one’s hair healthy.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 400 ml | Commodity: Baby Shampoo | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Pump out the shampoo. | Step 2: Dilute it with water. | Step 3: Apply on scalp and hair & Rinse It Off",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby1.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby1.avif"
+                    },
+                    {
+                    "original": "/Products/Baby-Images/baby1(1).avif",
+                   "thumbnail": "/Products/Baby-Images/baby1(1).avif"
+                    },
+                    {
+                    "original": "/Products/Baby-Images/baby1(2).avif",
+                   "thumbnail": "/Products/Baby-Images/baby1(2).avif"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 2,
+                "url": "grace_beauty_gentle_cleansing_shampoo",
+                "name": "Grace Beauty Gentle Cleansing Shampoo ",
+                "price": 399,
+                "bestseller":false,
+                "new":true,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby2.avif",
+               
+                "numofverify": "170 verified ratings",
+                "color":"Blue",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 400 ml | Commodity: Baby Shampoo | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Pump out the shampoo. | Step 2: Dilute it with water. | Step 3: Apply on scalp and hair & Rinse It Off",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby2.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby2.avif"
+                    }
+                    
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_milky_soft_shampoo",
+                "name": "Grace Beauty Milky Soft Shampoo ",
+                "price": 449,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby3.avif",
+                "numofverify": "145 verified ratings",
+                "color":"Blue",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Milky Soft Shampoo for Babies. I know shampooing can be difficult with the little ones, so I am formulated especially for their delicate scalp and hair. Oats, Calendula, and Milk Protein will naturally balance your baby’s scalp pH level, make their hair soft and tangle-free. I’m tear-free, which means I will gently cleanse without causing any irritation to your little one’s sensitive eyes.I am made of natural ingredients that are safe and gentle. Oats and Milk condition hair and moisturize it, making it soft and smooth. Calendula improves dry scalp conditions while helping the hair grow thicker and longer.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 400 ml | Commodity: Baby Shampoo | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Pump out the shampoo. | Step 2: Dilute it with water. | Step 3: Apply on scalp and hair & Rinse It Off",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby3.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby3.avif"
+                    },
+                    {
+                    "original":"/Products/Baby-Images/baby3(1).avif",
+                   "thumbnail":"/Products/Baby-Images/baby3(1).avif"
+                    },
+                    {
+                        "original":"/Products/Baby-Images/baby3(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby3(2).avif"
+                    }
+                    
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_100%_natural_berry_blast_toothpaste",
+                "name": "Grace Beauty 100% Natural Berry Blast Toothpaste",
+                "price": 149,
+                "bestseller":true,
+                "new":false,
+
+                "ratings":4.9,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby4.avif",
+                "numofverify": "208 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Berry Blast Kids Toothpaste. I love to see your baby smile. I am fluoride and SLS free, so you don’t need to worry if more toothpaste ends up in your baby’s tummy than in the sink. I remove plaque and taste awesome. I am thoughtfully formulated with high-quality ingredients like Xylitol, Aloe & Stevia. Introduce me to your babies, and I will strengthen their gums and be their best friend forever.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 g | Commodity: Baby Oralcare | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Ensure your children brush their teeth every morning & evening using kids toothpaste, or after every meal. | Step 2: Children should use a pea-sized amount of toothpaste for supervised brushing to minimize swallowing. | Step 3: Gently brush gums & teeth in a circular motion.| Step 4: Rinse, gargle & giggle.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby4.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby4.avif"
+                    }
+                    
+                    
+                
+                ]
+
+                
+
+            },
+            
+            { 
+                "id": 5,
+                "url": "grace_beauty_milky_soft_natural_lip_balm",
+                "name": "Grace Beauty Milky Soft Natural Lip Balm",
+                "price": 199,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby5.avif",
+                "numofverify": "52 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Milky Soft Natural Lip Balm crafted especially for your cutie-patootie! I gently hydrate and provide deep nourishment to your bub’s lips. 100% natural and with no harmful chemicals, I heal your munchkin’s chapped lips and leave them moisturized for up to 12 hours.I am loaded with all-natural ingredients like Oats, Milk, and Calendula, and nourish your baby’s tiny soft lips gently. Oats in this baby lip balm have anti-inflammatory properties that soothe your little one’s lips while Milk keeps them hydrated and soft. Calendula in this Baby Lip Balm is rich in Vitamin E & Amino Acids for deep nourishment that also fights dryness.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 4 g | Commodity: Baby Oralcare | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Apply liberally on your baby’s clean lips | Step 2: Re-apply when needed.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby5.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby5.avif"
+                    },
+
+                    {
+                    "original":"/Products/Baby-Images/baby5(1).avif",
+                   "thumbnail":"/Products/Baby-Images/baby5(1).avif"
+                    },
+
+                    {
+                    "original":"/Products/Baby-Images/baby5(2).avif",
+                   "thumbnail":"/Products/Baby-Images/baby5(2).avif"
+                    }
+                    
+                    
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_welcome_baby_essential_kit",
+                "name": "Grace Beauty Welcome Baby Essential Kit",
+                "price": 835,
+                "del": 1193,
+                "off": "30% Off",
+                "bestseller":true,
+                "new":false,
+
+                "ratings":4.6,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby6.avif",
+               
+                "numofverify": "144 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Hi! I am the Welcome Baby Essential Kit and I come with laundry detergent, moisturizing soap bars, dusting powders, body wash and daily lotions that are crafted with the goodness of nature. I am delighted to be a part of your new parenting journey. To help nurture and pamper your bundle of joy, I’m made with nourishing ingredients straight from nature, and I ensure to help you through every step of the way!And because of our no toxins, no harmful chemicals philosophy, you won't find any Silicones, Parabens, mineral oil, and dyes in me.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: All | Commodity: Baby Kit | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Plant-Based Laundry Detergent : Dilute 5 ml detergent into 5 L water. Soak the clothes completely for 30 minutes and then hand wash.| Moisturizing Baby Soap Bar : Gently apply the soap bar on the baby's wet body and face, and gently massage to form lather. Rinse with water. | Dusting Powder for Babies : Dust powder lightly onto the skin of the baby, especially after bath and while changing the diapers. | Easy Tummy Roll-On : Apply directly on the stomach. Reapply in a couple of hours. | Deeply Nourishing Body Wash : Pour some body wash onto wet hands. Gently rub your hands to form a lather, and then apply on to the wet skin of your little one. Rinse with water and pat dry. | Moisturizing Daily Lotion for Babies : Massage onto the baby's skin as often as needed, especially after bathing.  | Natural Anti Mosquito Body Roll-On : Apply directly to exposed skin to repel mosquitoes.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby6.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby6.avif"
+                    }
+
+                  
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 7,
+                "url": "grace_beauty_soothing_massage_oil",
+                "name": "Grace Beauty Soothing Massage Oil",
+                "price": 399,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby7.avif",
+                "numofverify": "66 verified ratings",
+                "color":"Yellow",
+                "ques":"Details",
+                "ans":"Babies bring with them happiness that’s unlike any other feeling! As a mother, you want your baby to always stay healthy and strong. This starts with massaging them for not only stronger bones but also nourished skin. Hi! I am Mamaearth Soothing Massage Oil for Babies. I am made with 100% natural ingredients such as Sesame, Almond, Jojoba, and Coconut Oil. Almond Oil moisturizes while repairing dry skin. Jojoba Oil makes skin soft and nourished while keeping sun damage away. That’s not all. Massage time is also great for bonding with your baby. It’s the best form of love you can give your little one! I am dermatologically tested and hence suitable for your baby’s sensitive skin.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 ml | Commodity: Baby Oil | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Massage on to the baby's skin as often as needed, especially after bathing.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby7.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby7.avif"
+                    },
+
+                    {
+                        "original":"/Products/Baby-Images/baby7(1).avif",
+                       "thumbnail":"/Products/Baby-Images/baby7(1).avif"
+                    },
+
+                  
+                    {
+                        "original":"/Products/Baby-Images/baby7(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby7(2).avif"
+                    }
+
+                    
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 8,
+                "url": "grace_beauty_coco_soft_massage_oil",
+                "name": "Grace Beauty Coco Soft Massage Oil",
+                "price": 399,
+                "bestseller":true,
+                "new":false,
+
+                "ratings":4.9,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby8.avif",
+                "numofverify": "176 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Coco Soft Massage Oil and I'm here to strengthen your bond with your baby. I ensure that massage time is fun and relaxing for your baby and completely safe. I will nourish your baby’s skin with my natural blend of goodness and non-sticky formula.Crafted with Coconut Oil, I deeply moisturize your baby's delicate skin while keeping infections at bay. I am also enriched with Turmeric Oil which brings in anti-inflammatory benefits to protect your baby’s skin from irritation and itchiness, naturally.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 ml | Commodity: Baby Oil | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Massage on to the baby's skin as often as needed, especially after bathing.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby8.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby8.avif"
+                    },
+
+                    {
+                        "original":"/Products/Baby-Images/baby8(1).avif",
+                       "thumbnail":"/Products/Baby-Images/baby8(1).avif"
+                    },
+
+                  
+                    {
+                        "original":"/Products/Baby-Images/baby8(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby8(2).avif"
+                    }
+
+                    
+            
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_dusting_powder",
+                "name": "Grace Beauty Dusting Powder",
+                "price": 399,
+                "bestseller":true,
+                "new":false,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby9.avif",
+                "numofverify": "200 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Dusting Powder for Babies. I am 100% natural, talc-free, and don’t clog the lungs. Organic and natural ingredients help baby’s skin retain moisture while healing and preventing diaper rashes. Organic Oatmeal is a skin protectant. It prevents dry, itchy, and irritated skin by maintaining the skin's moisture barrier. Natural Corn Starch helps absorb extra moisture and is antimicrobial.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 300 g | Commodity: Baby SkinCare | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Dust powder lightly onto the baby’s skin, especially after a bath and before making them wear a diaper.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby9.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby9.avif"
+                    },
+
+                    {
+                        "original":"/Products/Baby-Images/baby9(1).avif",
+                       "thumbnail":"/Products/Baby-Images/baby9(1).avif"
+                    },
+
+                  
+                    {
+                        "original":"/Products/Baby-Images/baby9(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby9(2).avif"
+                    }
+
+                    
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 10,
+                "url": "grace_beauty_milky_soft_mineral_based_sunscreen",
+                "name": "Grace Beauty Milky Soft Mineral Based Sunscreen",
+                "price": 329,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.9,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby10.avif",
+               
+                "numofverify": "310 verified ratings",
+                "color":"Yellow",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Milky Soft Mineral Based Sunscreen and I am here to protect your little one’s skin from sun damage. Crafted with the natural goodness of Milk, Oats, and Calendula, I soothe your baby’s delicate skin & keep it soft, supple, and nourished. To prevent sun damage, I come with SPF 30 & PA+++ broad-spectrum sun protection which means I will shield your baby’s skin from the harsh UVA and UVB rays. That’s not all! I have a lightweight and water-resistant texture which is easy to apply as I get absorbed into the skin quickly and get to work.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 300 g | Commodity: Baby SkinCare | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Take an adequate amount of sunscreen. | Step 2 : Apply on face, neck, and other exposed areas. | Step 3 : Do not apply on wounds.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby10.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby10.avif"
+                    },
+
+                    {
+                        "original":"/Products/Baby-Images/baby10(1).avif",
+                       "thumbnail":"/Products/Baby-Images/baby10(1).avif"
+                    },
+
+                  
+                    {
+                        "original":"/Products/Baby-Images/baby10(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby10(2).avif"
+                    }
+
+                    
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 11,
+                "url": "grace_beauty_milky_soft_face_cream",
+                "name": "Grace Beauty Milky Soft Face Cream",
+                "price": 199,
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.8,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby11.avif",
+               
+                "numofverify": "450 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth's Milky Soft Face Cream. With the goodness of Almond Oil and Murumuru Butter, I moisturize baby's delicate skin and protect it from dryness by forming a skin barrier. Milk protein in me locks in the moisture and soothes baby's delicate skin. Shea and cocoa butter improve skin texture by providing relief from eczema, chapped, dry and itchy skin. I am a dermatologically tested, pH balanced Baby cream",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 60 ml | Commodity: Baby SkinCare | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1 : Take a small amount of cream on your palm. | Step 2 : Apply all over your baby’s face and neck. |  Step 3 : Massage in gentle upward circular motions. |Step 4 : For best results, apply twice a day.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby11.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby11.avif"
+                    },
+
+                    {
+                        "original":"/Products/Baby-Images/baby11(1).avif",
+                       "thumbnail":"/Products/Baby-Images/baby11(1).avif"
+                    },
+
+                  
+                    {
+                        "original":"/Products/Baby-Images/baby11(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby11(2).avif"
+                    }
+
+                    
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 12,
+                "url": "grace_beauty_organic_bamboo_based_baby_wipes",
+                "name": "Grace Beauty Organic Bamboo Based Baby Wipes",
+                "price": 249,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby12.avif",
+                "numofverify": "146 verified ratings",
+                "color":"Blue-Green",
+                "ques":"Details",
+                "ans":"Hi, I am Mamaearth Bamboo Based Baby Wipes for your baby’s everyday needs. I am gentle on your little munchkin’s skin and can be used, from changing diapers to muddy hands to messy meals. These Wet Wipes are Made from 100% Organic Bamboo, I’m soft and ideal for sensitive skin. I am also a pediatrician-tested, hypoallergenic wipe; therefore, I don’t cause any rashes.  Loaded with the natural goodness of Vitamin E, Castor Oil, Aloe Vera & Chamomile, I ensure that I am mild on your baby’s delicate skin while nourishing it. I am also MadeSafe Certified, pH balanced, and wipe away dirt without stripping away natural oils from babies' sensitive skin.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 72 Wipes | Commodity: Baby SkinCare | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1 : Open the lid of the pack and gently draw one sheet out. | Step 2 : Wipe your baby’s skin in gentle swipes. | Step 3 : Close the lid of the pack tightly after use to prevent the wipes from drying out.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby12.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby12.avif"
+                    },
+
+                    {
+                        "original":"/Products/Baby-Images/baby12(1).avif",
+                       "thumbnail":"/Products/Baby-Images/baby12(1).avif"
+                    },
+
+                  
+                    {
+                        "original":"/Products/Baby-Images/baby12(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby12(2).avif"
+                    }
+
+                    
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 13,
+                "url": "grace_beauty_milky_soft_body_wash",
+                "name": "Grace Beauty Milky Soft Body Wash",
+                "price": 449,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby13.avif",
+                "numofverify": "345 verified ratings",
+                "color":"Green",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Milky Soft Body Wash for Babies. I am crafted with nature’s goodness and am extremely gentle on your little one. I will not irritate their eyes or their baby-soft sensitive skin. Made with natural moisturizers, I gently cleanse, hydrate, and nourish your baby’s delicate skin without stripping it of its moisture. Infused with the goodness of natural ingredients like Oats, Milk and Calendula, I gently cleanse, reduce allergic infections and maintain the right pH balance and moisture content. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 400 ml | Commodity: Baby Bath | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1 : Pump out a coin-sized amount of body wash on your hand.| Step 2 : Gently rub it on your baby’s wet body, working into a lather. | Step 3 : Rinse off with water and towel dry.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby13.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby13.avif"
+                    },
+
+                    {
+                        "original":"/Products/Baby-Images/baby13(1).avif",
+                       "thumbnail":"/Products/Baby-Images/baby13(1).avif"
+                    },
+
+                  
+                    {
+                        "original":"/Products/Baby-Images/baby13(2).avif",
+                       "thumbnail":"/Products/Baby-Images/baby13(2).avif"
+                    }
+
+                    
+            
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 14,
+                "url": "grace_beauty_super_strawberry_body_lotion",
+                "name": "Grace Beauty Super Strawberry Body Lotion",
+                "price": 798,
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby14.avif",
+                "numofverify": "45 verified ratings",
+                "color":"Red",
+                "ques":"Details",
+                "ans":"Hi, I am Mamaearth Super Strawberry Body Lotion crafted especially for your li’l one. Enriched with the fruity goodness of Strawberries and nourishing Murumuru Butter, I deeply moisturize your kiddo’s skin, keeping it soft and supple throughout the day. My unique moisturizing formula gently hydrates your child’s skin without causing irritation. Super Strawberry for super soft skin!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 400 ml | Commodity: Baby Body Lotion | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1 : Pump out a generous amount in your palm. | Step 2 : Apply on your child’s body and massage gently.  | Step 3 : Use it daily for best results.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby14.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby14.avif"
+                    }
+                ]
+
+            },
+
+            { 
+                "id": 15,
+                "url": "grace_beauty_nourishing_bathing_bar",
+                "name": "Grace Beauty Nourishing Bathing Bar",
+                "price": 499,
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Baby-Images/ProductBaby15.avif",
+               
+                "numofverify": "132 verified ratings",
+                "color":"White",
+                "ques":"Details",
+                "ans":"Hi! I am Mamaearth Nourishing Bathing Bar Soap for kids. I am incredibly gentle on your kids’ skin while effectively cleansing and keeping bacteria & germs away. My fruity essence will make bath time an enjoyable experience, leaving behind fun-filled memories. Loaded with Glycerin, Basil Oil, Coconut Oil & Almond Oil, I leave your child’s skin soft, supple, moisturized & healthy. I come in five fruity flavors - Mango Bite, Strawberry Souffle, Apple Sorbet, Blueberry Blush, and Orange Bar. I make bath time fun time for your little munchkin!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 75 g * 5 | Commodity: Baby Body Lotion | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1 : Apply soap on your child’s wet body and face and gently massage to form a lather. | Step 2 : Rinse and wash off completely with water.",
+                "images":[
+                    {
+                    "original":"/Products/Baby-Images/ProductBaby15.avif",
+                   "thumbnail":"/Products/Baby-Images/ProductBaby15.avif"
+                    },
+                    {
+                    "original":"/Products/Baby-Images/baby15(1).avif",
+                   "thumbnail":"/Products/Baby-Images/baby15(1).avif"
+                    },
+                    {
+                    "original":"/Products/Baby-Images/baby15(2).avif",
+                   "thumbnail":"/Products/Baby-Images/baby15(2).avif"
+                    }
+                ]
+
+            }
+           
+           
+        ]
+
+    },
+
+    {
+        "id": 8,
+        "category_img":"/Products/Perfumes-Images/perfume-category.png",
+        "name":"Perfumes",
+        "category_url":"perfumes",
+        "pro_icon": "/Products/Perfumes-Images/freshener.gif",
+        "pro_title": "Perfumes",
+        "pro":[
+            { 
+                "id": 1,
+                "url": "grace_beauty_eau_de_parfum_dark_desire",
+                "name": "Grace Beauty Eau De Parfum Dark Desire",
+                "price": 499,
+                "del":599,
+                "off":"17% Off",
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.5,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume1.jpg",
+               
+                "numofverify": "98 verified ratings",
+                "color":"Blue",
+                "ques":"Details",
+                "ans":"Behold! The perfume that will reignite your dark desires is right here. With a captivating aroma and woody hints, RENEE Dark Desire is captivating and unforgettable. It has a unique blend of strong woody and spicy notes of Musk, Cedarwood, Amber and Vanilla along with citrus twist from Mandarin, Grapefruit, Pear, Pink Pepper, Cassis, Red berries and a whiff of refreshing floral notes from Rose, Water Lilly and Jasmine. A perfect combination of bold notes, this fragrance is suitable for all seasons and perfect for your nocturnal adventures.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume1.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume1.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume1(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume1(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume1(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume1(2).jpg"
+                    },
+                    
+                    {
+                    "original":"/Products/Perfumes-Images/perfume1(3).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume1(3).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume1(4).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume1(4).jpg"
+                    }
+                        
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 2,
+                "url": "grace_beauty_eau_de_parfum_bloom",
+                "name": "Grace Beauty Eau De Parfum Bloom",
+                "price": 499,
+                "del":599,
+                "off":"17% Off",
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.9,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume2.jpg",
+               
+                "numofverify": "120 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"Imprint your prey with a floral ambush with RENEE Bloom Eau de parfum. This blooming perfume is a unique combination of notes from Tuberose, Jasmine and Sandalwood along with a spicy trail from Vanilla, Cocoa and Tonka beans with a touch of Almond. Do not underestimate the delicate elements of this fragrance for together they are celebration of floral extravagance which is hard to ignore and sensuously irresistible be it any day or season!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume2.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume2.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume2(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume2(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume2(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume2(2).jpg"
+                    },
+                    
+                    {
+                    "original":"/Products/Perfumes-Images/perfume2(3).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume2(3).jpg"
+                    }
+
+                 
+    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_eau_de_parfum_oud_aspire",
+                "name": "Grace Beauty Eau De Parfum OUD Aspire",
+                "price": 499,
+                "del":599,
+                "off":"17% Off",
+                "bestseller":false,
+                "new":false,
+
+                "ratings":4.9,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume3.jpg",
+               
+                "numofverify": "165 verified ratings",
+                "color":"Golden-Brown",
+                "ques":"Details",
+                "ans":"If you are looking for subtlety, we suggest you move on; as RENEE has introduced a form of ultimate sophistication and exotic grandeur in a bottle with Oud Aspire. This unique fragrance from RENEE is an interlude of top notes from Orange, Raspberry and Caramel; Rose, Agarwood, Olibanum, Patchouli and Violet as heart notes and Amber, Vanilla and Musk as base notes. Together, they form an unforgettable, and long-lasting impression. RENEE Oud Aspire is a bold yet versatile fragrance that complements your charm be it day or night. Just spray it on your pulse points and be ready to be aspired! ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume3.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume3.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume3(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume3(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume3(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume3(2).jpg"
+                    }
+                    
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_red_noir_eau_de_parfum",
+                "name": "Grace Beauty Red Noir Eau De Parfum",
+                "price": 499,
+                "del":599,
+                "off":"17% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume4.jpg",
+                "numofverify": "205 verified ratings",
+                "color":"Red",
+                "ques":"Details",
+                "ans":"Red Noir is a unique fragrance from RENÉE that embodies an uncanny allure, drawing you in with its luxurious notes. It opens with a burst of juicy tangerine, blackcurrant and raspberry notes and settles into heart notes of sensual Peony, Iris and Praline while the base notes from Tonka bean, Patchouli and Vanilla create a warm and intoxicating finish that lingers. With each spritz of Red Noir, you'll be transformed into a confident and appealing version of yourself. Perfect for evening wear or any special occasion, this premium and long-lasting perfume will leave everyone around you in awe.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume4.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume4.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume4(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume4(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume4(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume4(2).jpg"
+                    },
+
+                    {
+                        "original":"/Products/Perfumes-Images/perfume4(3).jpg",
+                       "thumbnail":"/Products/Perfumes-Images/perfume4(3).jpg"
+                    }
+                    
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 5,
+                "url": "grace_beauty_x_villain_eau_de_parfum_premium_fragrance_set",
+                "name": "Grace Beauty x VILLAIN Eau De Parfum Premium Fragrance Set",
+                "price": 699,
+                "del":1398,
+                "off":"50% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume5.jpg",
+               
+                "numofverify": "142 verified ratings",
+                "color":"Pink + Black",
+                "ques":"Details",
+                "ans":"Experience The Floral Fantasy, Imprint your prey with a floral ambush with RENEE Bloom Eau de parfum. This blooming perfume is a unique combination of notes from Tuberose, Jasmine and Sandalwood along with a spicy trail from Vanilla, Cocoa and Tonka beans with a touch of Almond. Do not underestimate the delicate elements of this fragrance for together they are celebration of floral extravagance which is hard to ignore and sensuously irresistible be it any day or season! | Explore your villainous streak with the new signature perfume VILLAIN. This new fragrance with woody & spicy notes keeps body odor at bay and lasts long. wear it daily and unravel your lethal charisma like a true-blue VILLAIN. It is a heady concoction of madness mixed with a hint of wickedness along with several bursts of outrageousness and a tingling spiciness of twisted humor bottled up in intriguing grandeur. This rich fragrance is the quintessential embodiment of evil that’ll lure every eye that meets it. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 150 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume5.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume5.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume5(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume5(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume5(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume5(2).jpg"
+                    },
+
+                    {
+                        "original":"/Products/Perfumes-Images/perfume5(3).jpg",
+                       "thumbnail":"/Products/Perfumes-Images/perfume5(3).jpg"
+                    },
+
+                    {
+                        "original":"/Products/Perfumes-Images/perfume5(4).jpg",
+                       "thumbnail":"/Products/Perfumes-Images/perfume5(4).jpg"
+                    }
+                    
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_flirt_eau_de_parfum",
+                "name": "Grace Beauty Flirt Eau De Parfum",
+                "price": 499,
+                "del":599,
+                "off":"17% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume6.jpg",
+                "numofverify": "150 verified ratings",
+                "color":"Rose Gold",
+                "ques":"Details",
+                "ans":"Here’s your secret weapon for captivating hearts wherever you make an entrance! Wrap yourself in the enchanting aura of RENEE Flirt Eau De Parfum. It kickstarts with a zesty explosion of Mandarin, then takes you on a whirlwind romance with the delicate dance of Rose & Osmanthus. Finally, it settles into the cozy, lingering embrace of Vanilla & Patchouli, that makes you irresistible and impossible to ignore.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume6.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume6.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume6(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume6(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume6(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume6(2).jpg"
+                    },
+
+                    {
+                        "original":"/Products/Perfumes-Images/perfume6(3).jpg",
+                       "thumbnail":"/Products/Perfumes-Images/perfume6(3).jpg"
+                    }
+
+                
+
+                ]
+
+            
+            },
+
+            
+            { 
+                "id": 7,
+                "url": "grace_beauty_madame_eau_de_parfum",
+                "name": "Grace Beauty Madame Eau De Parfum",
+                "price": 499,
+                "del":599,
+                "off":"17% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume7.jpg",
+               
+                "numofverify": "162 verified ratings",
+                "color":"Golden",
+                "ques":"Details",
+                "ans":"Dive headfirst into the captivating world of RENEE Madame Eau De Parfum. It starts with a zesty burst of Yuzu & Pomegranate, then dances into the dreamy realm of Peony & Lotus, and finally, it wraps you in the warm embrace of Amber & Mahogany. Prepare to be enthralled by pure sophistication and timeless elegance. With just a few spritzes of RENEE Madame, you'll charm everyone around you effortlessly!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 50 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume7.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume7.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume7(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume7(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume7(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume7(2).jpg"
+                    },
+
+                    {
+                        "original":"/Products/Perfumes-Images/perfume7(3).jpg",
+                       "thumbnail":"/Products/Perfumes-Images/perfume7(3).jpg"
+                    }
+
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 8,
+                "url": "grace_beauty_pink_romance_body_mist",
+                "name": "Grace Beauty Pink Romance Body Mist",
+                "price": 359,
+                "del":399,
+                "off":"10% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume8.jpg",
+                "numofverify": "112 verified ratings",
+                "color":"Pink",
+                "ques":"Details",
+                "ans":"Get ready to tune into the floral melody of RENEE Pink Romance Body Mist. Crafted with heady notes of Bergamot, Caramel and Vanilla; this long-lasting mist will leave you smelling like a bouquet of flowers drenched in a delicious dessert.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 150 ml | Commodity: Body Mist | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Shake the bottle gently before use. Spray it directly on your body & clothes. Spray on pulse points & neck fro long-lasting appeal",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume8.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume8.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume8(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume8(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume8(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume8(2).jpg"
+                    }
+
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_bohemian_zest_body_mist",
+                "name": "Grace Beauty Bohemian Zest Body Mist",
+                "price": 359,
+                "del":399,
+                "off":"10% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume9.jpg",
+                "numofverify": "149 verified ratings",
+                "color":"Orange",
+                "ques":"Details",
+                "ans":"Indulge with the vibe of a free spirit with RENEE Bohemian Zest Body Mist. Created with an energizing play of Orange blossom, Honey & Patchouli, this mist is like dancing through a field of blooming flowers, surrounded by the sweetest nectar!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 150 ml | Commodity: Body Mist | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Shake the bottle gently before use. Spray it directly on your body & clothes. Spray on pulse points & neck fro long-lasting appeal",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume9.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume9.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume9(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume9(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume9(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume9(2).jpg"
+                    }
+
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 10,
+                "url": "grace_beauty_eau_de_parfum_premium_fragrance_set",
+                "name": "Grace Beauty Eau De Parfum Premium Fragrance Set",
+                "price": 1305,
+                "del":1797,
+                "off":"27% Off",
+                "bestseller":false,
+                "new":true,
+                "ratings":5,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume10.jpg",
+               
+                "numofverify": "158 verified ratings",
+                "color":"Pink + Blue + Golden-Brown",
+                "ques":"Details",
+                "ans":"Reignite Your Dark Desires - Behold! The perfume that will reignite your dark desires is right here. With a captivating aroma and woody hints, RENEE Dark Desire is captivating and unforgettable. It has a unique blend of strong woody and spicy notes of Musk, Cedarwood, Amber and Vanilla along with citrus twist from Mandarin, Grapefruit, Pear, Pink Pepper, Cassis, Red berries and a whiff of refreshing floral notes from Rose, Water Lilly and Jasmine. A perfect combination of bold notes, this fragrance is suitable for all seasons and perfect for your nocturnal adventures. | Experience The Floral Fantasy - Imprint your prey with a floral ambush with RENEE Bloom Eau de parfum. This blooming perfume is a unique combination of notes from Tuberose, Jasmine and Sandalwood along with a spicy trail from Vanilla, Cocoa and Tonka beans with a touch of Almond. Do not underestimate the delicate elements of this fragrance for together they are celebration of floral extravagance which is hard to ignore and sensuously irresistible be it any day or season! | f you are looking for subtlety, we suggest you move on; as RENEE has introduced a form of ultimate sophistication and exotic grandeur in a bottle with Oud Aspire. This unique fragrance from RENEE is an interlude of top notes from Orange, Raspberry and Caramel; Rose, Agarwood, Olibanum, Patchouli and Violet as heart notes and Amber, Vanilla and Musk as base notes. Together, they form an unforgettable, and long-lasting impression. RENEE Oud Aspire is a bold yet versatile fragrance that complements your charm be it day or night. Just spray it on your pulse points and be ready to be aspired!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 150 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal. ",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume10.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume10.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume10(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume10(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume10(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume10(2).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume10(3).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume10(3).jpg"
+                    }
+
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 11,
+                "url": "grace_beauty_ultra_luxury_eau_de_parfum_combo",
+                "name": "Grace Beauty Ultra Luxury Eau De Parfum Combo",
+                "price": 1198,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume11.jpg",
+
+                "numofverify": "143 verified ratings",
+                "color":"Rose Gold + Orange",
+                "ques":"Details",
+                "ans":"Here’s your secret weapon for captivating hearts wherever you make an entrance! Wrap yourself in the enchanting aura of RENEE Flirt Eau De Parfum. It kickstarts with a zesty explosion of Mandarin, then takes you on a whirlwind romance with the delicate dance of Rose & Osmanthus. Finally, it settles into the cozy, lingering embrace of Vanilla & Patchouli, that makes you irresistible and impossible to ignore. | Dive headfirst into the captivating world of RENEE Madame Eau De Parfum. It starts with a zesty burst of Yuzu & Pomegranate, then dances into the dreamy realm of Peony & Lotus, and finally, it wraps you in the warm embrace of Amber & Mahogany. Prepare to be enthralled by pure sophistication and timeless elegance. With just a few spritzes of RENEE Madame, you'll charm everyone around you effortlessly!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 100 ml | Commodity: Perfume | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Hold the bottle at least a foot away and spray it on your clothes or pulse points like wrists and collarbones for a long-lasting appeal. ",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume11.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume11.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume6(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume6(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume7(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume7(1).jpg"
+                    }
+
+                
+
+                ]
+
+            
+            },
+
+            { 
+                "id": 12,
+                "url": "grace_beauty_body_mist_pack_of_4",
+                "name": "Grace Beauty Body Mist Pack of 4",
+                "price": 499,
+                "del":599,
+                "off": "17% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Perfumes-Images/ProductPerfume12.jpg",
+               
+                "numofverify": "108 verified ratings",
+                "color":"Pink + Orange + Violet + Yellow",
+                "ques":"Details",
+                "ans":"ntroducing the RENEE Body Mist Combo Pack of Four - Pink Romance, Bohemian Zest, Euphoric Musk, and Violet Melody. This travel-friendly set is perfect for daily use, offering a variety of delightful scents in convenient 20ml bottles. Whether you're feeling romantic, adventurous, sensual, or serene, there's a fragrance for every mood. Compact and easy to carry, toss them in your bag and enjoy refreshing bursts of scent wherever you go. Refresh & rejuvenate your senses everyday with RENEE Body Mist Combo Pack of Four.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 80 ml | Commodity: Body Mist | Country of Origin : India | Expiry Date: 36 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Shake the bottle gently before use. Spray it directly on your body & clothes. Spray on pulse points & neck fro long-lasting appeal.",
+                "images":[
+                    {
+                    "original":"/Products/Perfumes-Images/ProductPerfume12.jpg",
+                   "thumbnail":"/Products/Perfumes-Images/ProductPerfume12.jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume12(1).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume12(1).jpg"
+                    },
+
+                    {
+                    "original":"/Products/Perfumes-Images/perfume12(2).jpg",
+                   "thumbnail":"/Products/Perfumes-Images/perfume12(2).jpg"
+                    }
+
+                
+
+                ]
+
+            
+            }
+
+           
+
+
+           
+        ]
     }
 ]
