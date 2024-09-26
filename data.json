@@ -1,0 +1,1284 @@
+[
+    {
+        "id": 1,
+        "category_img":"/Products/Lips-images/lips-category.png",
+        "name":"Lips",
+        "category_url":"lips",
+        "pro_icon": "/Products/Lips-images/lip-balm.gif",
+        "pro_title": "Lips",
+        "pro":[
+            
+            { 
+                "id": 1,
+                "url": "grace_beauty_9_to_5_primer+matte_liquid_lip_colour",
+                "name": "Grace Beauty 9 to 5 Primer + Matte Liquid Lip Colour",
+                "price": 449,
+                "del":499,
+                "off":"10% Off",
+                "ratings":5,
+                "pro_main_img":"/Products/Lips-images/ProductLip1.jpg",
+                "numofverify": "30 verified ratings",
+                "color":"Dusty Rose",
+                "ques":"Details",
+                "ans":"New Grace Beauty 9to5 Primer + Matte Liquid Lip Color. This revolutionary formula with a built-in primer smoothens your lips to give you a crease-less finish. It is transfer-proof, smudge-proof and waterproof and will last all day long. The intense matte color glides on easily and stays effortlessly smooth and matte, no matter what! Got a hectic day at work or an impromptu after-hours plan? Don't worry, the in-built primer will leave your lips unruffled and smooth, through it all Infused with Vitamin E and Argan oil, you will love how the luxurious lip color moisturizes and nourishes your lips, so they always feel soft, supple, and hydrated. What's more, the Lakmé 9to5 Primer + Matte Liquid Lip Color is non-sticky, comfortable and doesn't weigh down your lips. It has a one-stroke intense matte color payoff that lasts long. And its creamy application gives you a smooth finish unlike any other liquid matte color. Edgy, bold, glam, playful or natural, there's something for every mood.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 4.2ml | Commodity: Lip Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Line cupid's bow and glide on borders of lips | Step 2: Glide color on the bottom lip | Step 3: Let color dry for 1 minute without pursing lips.",
+                "bestseller":true,
+                "new":false,
+                "images":[
+                    {
+                    "original":"/Products/Lips-images/ProductLip1.jpg",
+                   "thumbnail":"/Products/Lips-images/ProductLip1.jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip1(2).jpeg",
+                   "thumbnail": "/Products/Lips-images/lip1(2).jpeg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip1(3).jpg",
+                   "thumbnail": "/Products/Lips-images/lip1(3).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip1(4).jpeg",
+                   "thumbnail": "/Products/Lips-images/lip1(4).jpeg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip1(5).jpg",
+                   "thumbnail": "/Products/Lips-images/lip1(5).jpg"
+                    }
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 2,
+                "url": "grace_beauty_absolute_plump_&_shine_lip_gloss",
+                "name": "Grace Beauty Absolute Plump & Shine Lip Gloss",
+                "price": 680,
+                "del":800,
+                "off":"15% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.6,
+                "pro_main_img":"/Products/Lips-images/ProductLip2.jpg",
+                "numofverify": "15 verified ratings",
+                "color":"Plum Shine",
+                "ques":"Details",
+                "ans":"Extra shine, extra plump & extra glossy! 3D by nature, this super chic Plump & Shine Lip Gloss by Lakmé contains Marine Collagen & high-shine pigments that keep your lips full and hydrated at all times. It lasts 6 hours long and redefines pout perfection!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 3ml | Commodity: Lip Gloss | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Open the cap | Step 2: Start applying from the centre of your upper lip | Step 3: Work from the centre towards the outer edges of your lip, following the contours of your mouth | Step 4: Glide across the entire bottom lip",
+                "images":[
+                    {
+                    "original":"/Products/Lips-images/ProductLip2.jpg",
+                   "thumbnail":"/Products/Lips-images/ProductLip2.jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip2(1).jpg",
+                   "thumbnail": "/Products/Lips-images/lip2(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip2(2).png",
+                   "thumbnail": "/Products/Lips-images/lip2(2).png"
+                    }
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_absolute_plush_matte_lip_crayon",
+                "name": "Grace Beauty Absolute Plush Matte Lip Crayon",
+                "price": 720,
+                "del":849,
+                "off":"17% Off",
+                "ratings":4.7,
+                "bestseller":false,
+                "pro_main_img":"/Products/Lips-images/ProductLip3.jpg",
+                "numofverify": "20 verified ratings",
+                "color":"Roasted Almond",
+                "ques":"Details",
+                "ans":"Its ultra-creamy, smooth texture and non-drying matte formula keeps the lips supple and soft, adding that extra bit of oomph to your pout. This lip crayon gives a rich intense matte payoff on your lips without feeling too heavy or cracking your lips so they look luscious and smooth. The new crayon format helps with an easy and precise application experience.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 2.8g | Commodity: Lip Crayon | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Prep lips generously with a chapstick | Step 2: Apply lipstick evenly across lips, blot to avoid bleeding.",
+                "images":[
+                    {
+                    "original":"/Products/Lips-images/ProductLip3.jpg",
+                   "thumbnail":"/Products/Lips-images/ProductLip3.jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip3(1).jpg",
+                   "thumbnail": "/Products/Lips-images/lip3(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip3(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip3(2).jpg"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_lip_love_chapstick",
+                "name": "Grace Beauty Lip Love Chapstick",
+                "price": 160,
+                "ratings":4.8,
+                "bestseller":false,
+                "new":false,
+                "pro_main_img":"/Products/Lips-images/ProductLip4.jpg",
+                "numofverify": "14 verified ratings",
+                "color":"Strawberry",
+                "ques":"Details",
+                "ans":"Get soft lips all day with all new Grace Beauty lip love! With 22 hours of intense moisture and SPF 15 that helps protect your lips from the harmful rays of the sun you can say bye to dry lips!  The innovative color-changing ‘strawberry’ variant which is sheer and on application, transforms into a shade of pink that is unique only to you. One quick swipe and you can seal in the moisture to get soft lips all day.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 4.5 g | Commodity: Chapstick | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Uncap the stick | Step 2:Twist open the pack such that the bullet comes out | Step 3:Roll the bullet across your lips starting from the edges to the centre.",
+                "images":[
+                    {
+                    "original":"/Products/Lips-images/ProductLip4.jpg",
+                   "thumbnail":"/Products/Lips-images/ProductLip4.jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip4(1).jpg",
+                   "thumbnail": "/Products/Lips-images/lip4(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip4(2).png",
+                   "thumbnail": "/Products/Lips-images/lip4(2).png"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 5,
+                "url": "grace_beauty_lip_love_lip_mask",
+                "name": "Grace Beauty Lip Love Lip Mask ",
+                "price": 325,
+                "ratings":4.6,
+                "pro_main_img":"/Products/Lips-images/ProductLip5.jpg",
+                "numofverify": "10 verified ratings",
+                "ques":"Details",
+                "bestseller":false,
+                "new":true,
+                "ans":"Introducing Lakmé Lip Love Lip Mask, the ultimate lip care for a delicious transformation. Experience the magic of intense moisturization and deep hydration with this game-changing formula. Say goodbye to dry, cracked lips and hello to a soft, smooth and perfect pout that's ready to turn heads. Embrace the confidence of nourished lips with our Lip Love Lip Mask. Infused with luscious ingredients like shea butter and jojoba oil, this lip mask works its charm in just a few hours. From dull to delicious, this Mask provides intense hydration, locks in moisture, repairs and restores, softens and smoothens lips - thanks to the goodness of shea butter and hyaluronic acid. Simply apply a generous coat any time of the day, and let it do its lip-loving wonders. The rich, velvety texture melts onto your lips, leaving them feeling plump and moisturized. Just scoop, glide, and revive. It's all about soft lips, loud impact indeed. Indulge in the ultimate lip care ritual that banishes dullness, heals dryness, and unveils lips that are irresistibly soft and supple.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 13 g | Commodity: Lip mask | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Simply apply a generous coat any time of the day, and let it do its lip-loving wonders. | Step 2:The rich, velvety texture melts onto your lips, leaving them feeling plump and moisturized.",
+                "images":[
+                    {
+                    "original":"/Products/Lips-images/ProductLip5.jpg",
+                   "thumbnail":"/Products/Lips-images/ProductLip5.jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip5(1).jpg",
+                   "thumbnail": "/Products/Lips-images/lip5(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip5(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip5(2).jpg"
+                    }
+                    
+
+                ]
+                
+
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_absolute_3d_lip_definer",
+                "name": "Grace Beauty Absolute 3D Lip Definer ",
+                "price": 640,
+                "del":750,
+                "off":"15% Off",
+                "ratings":4.5,
+                "bestseller":false,
+                "new":true,
+                "pro_main_img":"/Products/Lips-images/ProductLip6.jpg",
+                "numofverify": "40 verified ratings",
+                "color":"Salmon",
+                "ques":"Details",
+                "ans":"Get a defined and luscious pout like a show-stopper with the new Lakmé Absolute 3D Lip Definers. Now you can steal the spotlight too with this new range of 3D lip definers. Lakmé introduces a range of lip liners for a distinctive pout in a series of alluring shades. The stunning lip liners have a rich, super creamy formulation that makes sure it glides on smooth. The pencil gives a beautiful precision. Exquisitely created for a pout that spells perfection, the liners deliver even colour payoff with a soft and flawless finish. Feathered lips are now a thing of the past with this super versatile lip liner. Lakmé Absolute 3D Lip Definers are long-wear by nature & have an impressive staying power. Give your pout the ultimate definition and wear it in style, just like an unprecedented diva!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 1.2 g | Commodity: Lip Definer | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Line your lips starting in center of your upper lip. | Step 2:Work from the center to the outer edges of your lips, following the contour of your mouth. | Step3: Follow the same technique for your bottom lip.",
+                "images":[
+                    {
+                    "original":"/Products/Lips-images/ProductLip6.jpg",
+                   "thumbnail":"/Products/Lips-images/ProductLip6.jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip6(1).jpg",
+                   "thumbnail": "/Products/Lips-images/lip6(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip6(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip6(2).jpg"
+                    }
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 7,
+                "url": "grace_beauty_absolute_beyond_matte_lipstick",
+                "name": "Grace Beauty Absolute Beyond Matte Lipstick ",
+                "price": 675,
+                "del":750,
+                "off":"10% Off",
+                "ratings":5,
+                "bestseller":false,
+                "new":false,
+                "pro_main_img":"/Products/Lips-images/ProductLip7.jpg",
+                "numofverify": "70 verified ratings",
+                "color":"Nude Nectar",
+                "ques":"Details",
+                "ans":"Introducing the new Lakme Beyond Matte Bullet, a must-have lipstick that goes beyond being just a matte lip color! A ground-breaking formula with soft-focus technology, it gives a blurring effect to lips and visibly diminishes the look of lip lines. It is super lightweight with a velvety smooth texture that glides on effortlessly and offers high coverage so that you don’t shy away from a making a statement every time you step out! Our Beyond Matte Bullet is also infused with Argan Oil that moisturises and nourishes to give soft, supple, sensational lips. The result is intensely pigmented, soft-focus, hydrated, matte lips! 90%+ individuals agree that Beyond Matte Bullet gives an intense color payoff, with a smooth and even finish, and feels light and comfortable on lips. Start by defining your cupid's bow to get perfectly designed lips. Then, move to the outer edges and get the look you desire in one stroke. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 3.4 g | Commodity: Lips | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Start from the centre of your upper lip and move outwards. | Step 2: Follow the contours of your lips carefully. | Step3: Swipe the lipstick across your bottom lip and make a bold statement. ",
+                "images":[
+
+                    {
+                    "original": "/Products/Lips-images/ProductLip7.jpg",
+                   "thumbnail": "/Products/Lips-images/ProductLip7.jpg"
+                    },
+                    {
+                    "original":"/Products/Lips-images/lip7(1).jpg",
+                   "thumbnail":"/Products/Lips-images/lip7(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip7(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip7(2).jpg"
+                    }
+                   
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 8,
+                "url": "grace_beauty_xtraordin_airy_lip_mousse",
+                "name": "Grace Beauty Xtraordin Airy Lip Mousse",
+                "price": 630,
+                "del":700,
+                "off":"10% Off",
+                "ratings":4.7,
+                "bestseller":false,
+                "new":false,
+                "pro_main_img":"/Products/Lips-images/ProductLip8.jpg",
+                "numofverify": "22 verified ratings",
+                "color":"Love Struck Red",
+                "ques":"Details",
+                "ans":"A light-as-air, velvet matte lipstick that's whipped to perfection, just for you. Indulge in its super-soft mousse texture that effortlessly hugs your lips and leaves them feeling oh-so-luxe. Feel the magic of self-love in every swipe as the velvet smooth texture glides effortlessly, leaving you with lips that look bold yet feel cushiony soft and light. Infused with Cocoa Butter, it gives a matte finish yet keeps your lips nourished and moisturized. What’s more is that despite its lightweight texture, your lip colour will stay put for hours. Xtraordin-airy Lip Mousse comes with a precision tip applicator that ensures you experience perfect application every time in every swipe. And you can create different looks with it too. Use the applicator for a bold look or to try something new, dab the mousse on your lips using the applicator, then blend with your fingers to create a soft, diffused look. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 4.6 g | Commodity: Lips | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Use the applicator for a daring, bold look. | Step 2: For a soft, diffused look, dab the mousse onto lips with the applicator then blend with your fingers.",
+                "images":[
+
+                    {
+                    "original": "/Products/Lips-images/ProductLip8.jpg",
+                   "thumbnail": "/Products/Lips-images/ProductLip8.jpg"
+                    },
+                    {
+                    "original":"/Products/Lips-images/lip8(1).jpg",
+                   "thumbnail":"/Products/Lips-images/lip8(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip8(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip8(2).jpg"
+                    }
+                   
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_absolute_matt_melt_mini",
+                "name": "Grace Beauty Absolute Matt Melt Mini",
+                "price": 400,
+                "ratings":4.8,
+                "bestseller":false,
+                "new":false,
+                "pro_main_img":"/Products/Lips-images/ProductLip9.jpg",
+                "numofverify": "17 verified ratings",
+                "color":"Magenta Rhythm",
+                "ques":"Details",
+                "ans":"This mini liquid lip colour will instantly become a staple in your makeup pouch. These fun-sized mini mattes will be your constant companion everywhere you go! The matte formula is long-wear by nature, feels feather-light on your lips and gives you an intense color payoff in one single stroke. It makes your lips look lush with a velvety matte texture that delivers a stunning suede-like finish.These mini mattes are transfer-proof and enwrap your lips in a long-lasting silky comfort without drying them out. The wand is specially designed to give your lips an even colour. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 2.4 ml | Commodity: Lip Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Remove the wand from the barrel, and using the tip of the wand to start application on your upper lip from your cupid's bow. | Step 2: Similarly apply on the contours of your lower lip, starting from the corner and swiping it for a complete look. | Step 3: Allow to dry",
+                "images":[
+
+                    {
+                    "original": "/Products/Lips-images/ProductLip9.jpg",
+                   "thumbnail": "/Products/Lips-images/ProductLip9.jpg"
+                    },
+                    {
+                    "original":"/Products/Lips-images/lip9(1).jpg",
+                   "thumbnail":"/Products/Lips-images/lip9(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip9(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip9(2).jpg"
+                    }
+                   
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 10,
+                "url": "grace_beauty_matte_crayons_set_of_2",
+                "name": "Grace Beauty Matte Crayons Set Of 2",
+                "price": 1099,
+                "del":1600,
+                "off":"31% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Lips-images/ProductLip10.jpg",
+                "numofverify": "35 verified ratings",
+                "color":"Peach Fizz + Iced Mocha",
+                "ques":"Details",
+                "ans":"In the mood to have some fun with your lip look? Play around and get your ‘cray-on’ with Lakmé Absolute Plush Matte Lip Crayon. This range consists of 10 playful, intense matte shades. Its ultra-creamy, smooth texture and non-drying matte formula keeps the lips supple and soft, adding that extra bit of oomph to your pout. This lip crayon gives a rich intense matte payoff on your lips without feeling too heavy or cracking your lips so they look luscious and smooth. The new crayon format helps with an easy and precise application experience.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 2.8 G | Commodity: Lip Crayon | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Prep lips generously with a chapstick. | Step 2: Apply lipstick evenly across lips, blot to avoid bleeding.",
+                "images":[
+
+                    {
+                    "original": "/Products/Lips-images/ProductLip10.jpg",
+                   "thumbnail": "/Products/Lips-images/ProductLip10.jpg"
+                    },
+                    {
+                    "original":"/Products/Lips-images/lip10(1).jpg",
+                   "thumbnail":"/Products/Lips-images/lip10(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip10(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip10(2).jpg"
+                    }
+                   
+                    
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 11,
+                "url": "grace_beauty_9_to_5_Primer+Matte_Liquid_Lip_Colour_Duo",
+                "name": "Grace Beauty 9 to 5 Primer + Matte Liquid Lip Colour Duo",
+                "price": 799,
+                "del":998,
+                "off":"20% Off",
+                "ratings":4.4,
+                "bestseller":false,
+                "new":false,
+                "pro_main_img":"/Products/Lips-images/ProductLip11.jpg",
+                "numofverify": "18 verified ratings",
+                "color":"Fiery Scarlet + Rustic Red",
+                "ques":"Details",
+                "ans":"New Lakmē 9to5 Primer + Matte Liquid Lip Color. This revolutionary formula with a built-in primer smoothens your lips to give you a crease-less finish. It is transfer-proof, smudge-proof and waterproof and will last all day long. The intense matte color glides on easily and stays effortlessly smooth and matte, no matter what! Got a hectic day at work or an impromptu after-hours plan? Don't worry, the in-built primer will leave your lips unruffled and smooth, through it all Infused with Vitamin E and Argan oil, you will love how the luxurious lip color moisturizes and nourishes your lips, so they always feel soft, supple, and hydrated. What's more, the Lakmé 9to5 Primer + Matte Liquid Lip Color is non-sticky, comfortable and doesn’t weigh down your lips. It has a one-stroke intense matte color payoff that lasts long. And its creamy application gives you a smooth finish unlike any other liquid matte color. Edgy, bold, glam, playful or natural, there's something for every mood.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 4.2 ml | Commodity: Lip Color | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Line cupid's bow and glide on borders of lips | Step 2: Glide color on the bottom lip. | Step 3:  Let color dry for 1 minute without pursing lips.",
+                "images":[
+
+                    {
+                    "original": "/Products/Lips-images/ProductLip11.jpg",
+                   "thumbnail": "/Products/Lips-images/ProductLip11.jpg"
+                    },
+                    {
+                    "original":"/Products/Lips-images/lip11(1).jpg",
+                   "thumbnail":"/Products/Lips-images/lip11(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip11(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip11(2).jpg"
+                    }
+                   
+                    
+
+                ]
+
+                
+
+            },
+          
+            { 
+                "id": 12,
+                "url": "9_to_5_primer+matte_liquid_lipsticks_minis",
+                "name": "9 to 5 Primer + Matte Liquid Lipsticks Minis",
+                "price": 790,
+                "del":998,
+                "off":"21% Off",
+                "ratings":4.7,
+                "bestseller":false,
+                "new":false,
+                "pro_main_img":"/Products/Lips-images/Productlip12.jpg",
+                "numofverify": "58 verified ratings",
+                "color":"Nudes",
+                "ques":"Details",
+                "ans":"New Lakme 9to5 Primer + Matte Liquid Lip Color now in Minis. The revolutionary formula with a built-in primer smoothens your lips to give you a crease-less finish now in Minis for you to carry a range in your bag.Got a hectic day at work or an impromptu after-hours plan?  Try the nude for the no make-up make-up look. It is transfer-proof, smudge-proof and waterproof and will last all day long. The intense matte color glides on easily and stays effortlessly smooth and matte, no matter what! The in-built primer will leave your lips unruffled and smooth, through it all Infused with Vitamin E and Argan oil, you will love how the luxurious lip color moisturizes and nourishes your lips, so they always feel soft, supple, and hydrated. What's more, the Lakmé 9to5 Primer + Matte Liquid Lip Color is non-sticky, comfortable and doesn’t weigh down your lips. It has a one-stroke intense matte color payoff that lasts long. And its creamy application gives you a smooth finish unlike any other liquid matte color. Edgy, bold, glam, playful or natural, there's something for every mood.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 8 ml | Commodity: Lipstick | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:Line cupid's bow and glide on borders of lips | Step 2: Glide color on the bottom lip. | Step 3:  Let color dry for 1 minute without pursing lips.",
+                "images":[
+
+                    {
+                    "original": "/Products/Lips-images/Productlip12.jpg",
+                   "thumbnail": "/Products/Lips-images/Productlip12.jpg"
+                    },
+                    {
+                    "original":"/Products/Lips-images/lip12(1).jpg",
+                   "thumbnail":"/Products/Lips-images/lip12(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip12(2).jpg",
+                   "thumbnail": "/Products/Lips-images/lip12(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip12(3).jpg",
+                   "thumbnail": "/Products/Lips-images/lip12(3).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip12(4).jpg",
+                   "thumbnail": "/Products/Lips-images/lip12(4).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip12(5).jpg",
+                   "thumbnail": "/Products/Lips-images/lip12(5).jpg"
+                    },
+                    {
+                    "original": "/Products/Lips-images/lip12(6).jpg",
+                   "thumbnail": "/Products/Lips-images/lip12(6).jpg"
+                    }
+                   
+                    
+
+                ]
+
+                
+
+            }
+          
+
+
+        ]
+            
+    },
+
+    {
+        "id": 2,
+        "category_img":"/Products/Face-images/face-category.png",
+        "name":"Face",
+        "category_url":"face",
+        "pro_icon": "/Products/Face-images/blush.gif",
+        "pro_title": "Face",
+        "pro":[
+            
+            { 
+                "id": 1,
+                "url": "grace_beauty_absolute_skin_dew_primer",
+                "name": "Grace Beauty Absolute Skin Dew Primer",
+                "price": 750,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Face-images/ProductFace1.jpg",
+                "bestseller":true,
+                "new":false,
+                "numofverify": "12 verified ratings",
+                "color": "Golden",
+                "ques":"Details",
+                "ans":"Introducing all new Skin Dew Serum Primer that will steal the show. It’s time for your skin to feel luxurious and rich with the nourishment of a moisturiser and the flawless finish of a primer. With this unique blend of a serum and a moisturiser, get the best of both worlds. The serum primer works its magic on your skin. With 93% skin-loving ingredients, your skin is always filter-less and photo-ready, with or without makeup. This gorgeous serum primer not only blurs out the imperfections but also makes your base feel seamless for a smooth base, inside out. Unlock the secret to a flawless base with the new Skin Dew Serum Primer, which makes your skin feel hydrated and plump. Hide all your imperfections with one swipe and bid adieu to greasiness. Infused with the goodness of hyaluronic acid, your skin is always ready to steal the show. No more worry about carrying extra products in your kitty - just moisturise and prime with Skin Dew Serum Primer. Your skin will thank you for all the loven and get ready to turn all heads. Indulge in the ultimate skincare ritual that unveils flawless skin in a few swipes. Let your skin look primed and perfect at all times with the Lakme Skin Dew Serum Primer.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 28 g | Commodity: Face | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply to just-cleansed skin, avoiding eye area. | Step 2: Apply Grace Beauty absolute skin dew serum primer to hydrate, smooth and prime skin for makeup application.",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace1.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace1.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face1(1).jpg",
+                   "thumbnail": "/Products/Face-images/face(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face1(2).jpg",
+                   "thumbnail": "/Products/Face-images/face1(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face1(3).jpg",
+                   "thumbnail": "/Products/Face-images/face1(3).jpg"
+                    }
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 2,
+                "url": "grace_beauty_unreal_blur_perfect_primer",
+                "name": "Grace Beauty Unreal Blur Perfect Primer",
+                "price": 750,
+                "del": 875,
+                "off": "14% Off",
+                "ratings":4.2,
+                "pro_main_img":"/Products/Face-images/ProductFace2.jpg",
+               "bestseller":true,
+               "new":false,
+                "numofverify": "10 verified ratings",
+                "color": "Blur Skin",
+                "ques":"Details",
+                "ans":"The Lakme Absolute Blur Perfect Makeup Primer is the perfect start for a flawless| professional makeup finish. The Lakme Absolute Blur Perfect Makeup Primer’s silky blur formula instantly brightens primes| softens blemishes and pores and creates a smooth skin surface to prep for makeup application. Makeup glides on effortlessly and blends seamlessly for a more vibrant| color true finish. The Lakme Absolute Blur Perfect Makeup Primer is the perfect canvas for makeup or wear-alone over your moisturiser for instant smoothness and radiance. Buy Now! The Lakme Absolute Make-Up Primer is a flawless make-up primer that preps your skin for professional make-up. Creates the perfect base for make-up and helps it stay for longer. Hides skin imperfections and gives you an even toned skin.   It is lightweight| water-proof| and has a smooth matte texture. Pro Tip For an even application",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 30 ml | Commodity: Face Primer | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply small dots of the Primer over your face. | Step 2: Blend it well with your fingertips or a sponge in an upward motion. | Step 3: Start with the centre of the face and work your way upwards and outwards to get the perfect coverage. | Step 4: Wait for a few minutes for the Primer to set before applying foundation.",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace2.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace2.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(2).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(3).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(3).jpg"
+                    }
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 3,
+                "url": "grace_beauty_forever_matte_foundation",
+                "name": "Grace Beauty Forever Matte Foundation",
+                "price": 180,
+                "del":190,
+                "off": "5% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.5,
+                "pro_main_img":"/Products/Face-images/ProductFace3.jpg",
+                "numofverify": "26 verified ratings",
+                "color": "Marbel",
+                "ques":"Details",
+                "ans":"From minimal to glam or day to night, the Lakme Forever Matte Foundation will surely be your makeup best friend! Effortless application with flawless coverage and a water-resistant formula- The new Lakme Forever Matte Foundation is all about that base!  It also feels feather light on skin rejuvenates and lasts long. Setting the perfect base for your next glam look? Cover spots, blemishes and dark circles in two quick and easy steps. Once you pick the shade that matches your skin tone, pump out 1-2 dollops of the Lakme Forever Matte Foundation on the back of your hand. Use your finger to dot the product evenly on your face. Now using a brush or a beauty blender, blend the foundation to achieve a natural and even finish that doesn’t leave your skin patchy. With this you are all set to add the glam!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 27 ml | Commodity: Face Foundation | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply tiny dots all over face and neck area and blend thoroughly. ",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace3.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace3.jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(1).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(2).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Eyes-Images/eyes1(3).jpg",
+                   "thumbnail": "/Products/Eyes-Images/eyes1(3).jpg"
+                    }
+
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 4,
+                "url": "grace_beauty_9_to_5_primer+matte_perfect_cover_foundation_mini",
+                "name": "Grace Beauty 9 to 5 Primer + Matte Perfect Cover Foundation Mini",
+                "price": 309,
+                "del": 399,
+                "off": "23% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Face-images/ProductFace4.jpg",
+                "numofverify": "6 verified ratings",
+                "color": "Cool Ivory",
+                "ques":"Details",
+                "ans":"It’s time to feel natural and comfortable in your skin with Lakmé 9to5 Primer + Matte Perfect Cover Foundation Mini. Lakme’s first-ever foundation with a built-in primer, that glides on your skin for a smooth and even skin tone. It blends effortlessly on your skin for a perfect, natural look. A foundation so versatile, your skin is bound to love it as well as look flawless no matter what! This foundation gives you medium to high coverage as it is buildable in nature for your convenience and as per the occasion. With SPF 20 and longwear formula, this foundation will keep your skin looking natural and flawless through the day!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 15 ml | Commodity: Face Foundation | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Twist the cap open & gently press the tube to take out the d quantity of the product on your hand. | Step 2: Blend the foundation using fingers/makeup sponge or brush covering the Face & Neck area.",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace4.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace4.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face4(1).jpg",
+                   "thumbnail": "/Products/Face-images/face4(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face4(2).jpg",
+                   "thumbnail": "/Products/Face-images/face4(2).jpg"
+                    }
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 5,
+                "url": "grace_beauty_absolute_creme_concealer",
+                "name": "Grace Beauty Absolute Creme Concealer",
+                "price": 495,
+                "del": 550,
+                "off": "10% Off",
+                "bestseller":false,
+                "new":true,
+                "ratings":4.6,
+                "pro_main_img":"/Products/Face-images/ProductFace5.jpg",
+                "numofverify": "16 verified ratings",
+                "color": "Cinnamon",
+                "ques":"Details",
+                "ans":"Lakmé Absolute Crème Concealer is what your makeup routine absolutely needs- It gives you an even finish and the perfect natural base! Easy to use and easier on the eyes, the Lakmé Absolute Crème Concealer provides medium to high coverage concealing uneven skin, dark spots and blemishes. Enriched with Vitamin E this crème concealer doesn’t crease into lines and nourishes your skin while making it look flawless. Formulated with 13% skin actives, known to prevent water loss from your skin and gives you the dewy look you’ve always aimed to achieve! You can use it by applying it through your fingertips to warm the product and ensure that it sets on your skin. When concealing the areas with more texture such as acne, scars, pores and wrinkles use dabbing motions to help perfect placement and even looking finish. In the end you can blend using a blending brush and voila! You have the desired base for the rest of your makeup. You can finish your base using Lakmé Absolute Skin Dew Serum Foundation and the Lakmé Absolute Loose Powder and there you go! You are good to go for that glam makeup or the no makeup look you wished to ace!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 3.9 g | Commodity: Face Concealer | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Use fingertips to warm product and press it into the skin. | Step 2: Use a dabbing motion onto areas with more texture such as acne, scars, pores and wrinkles. | Step 3: Blend using a blending brush to achieve a smooth finish.",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace5.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace5.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face5(1).jpg",
+                   "thumbnail": "/Products/Face-images/face5(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face5(2).jpg",
+                   "thumbnail": "/Products/Face-images/face5(2).jpg"
+                    }
+                  
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 6,
+                "url": "grace_beauty_9_to_5_primer+matte_liquid_concealer",
+                "name": "Grace Beauty 9 to 5 Primer + Matte Liquid Concealer",
+                "price": 400,
+                "del": 450,
+                "off": "11% Off",
+                "ratings":4.8,
+                "pro_main_img":"/Products/Face-images/ProductFace6.jpg",
+                "bestseller":false,
+                "new":true,
+                "numofverify": "19 verified ratings",
+                "color": "Ivory",
+                "ques":"Details",
+                "ans":"A concealer that hides imperfections while giving you the blurring benefits of a primer? With Lakmé 9to5 Primer+Matte Liquid Concealer, you can have it all! Introducing the Lakmé 9to5 Primer+Matte Liquid Concealer that helps mask blemishes, dark circles, and fine lines. The concealer comes with a built-in primer that reduces pores and blurs dark spots for a smooth base and natural matte finish. With a unique applicator, the revolutionary formula glides on in a single stroke and blends seamlessly to offer a crease-free, buildable coverage.  To conceal with a targeted coverage, place a dot from the tip of the applicator on blemishes or use the flat side of the applicator under your eyes to access and apply more product. This multi-purpose must-have moisturises, feels light on your skin, is completely oil-free and has SPF 25 for sun protection.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 5.4 ml | Commodity: Face Concealer | Country of Origin : India | Expiry Date: 24 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Do the Concealer under your eyes using the applicator. | Step 2: Gently dab on fine lines and blemishes. | Step 3: Blend easily with your fingertip or make-up brush.",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace6.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace6.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face6(1).jpg",
+                   "thumbnail": "/Products/Face-images/face6(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face6(2).jpg",
+                   "thumbnail": "/Products/Face-images/face6(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face6(3).jpg",
+                   "thumbnail": "/Products/Face-images/face6(3).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face6(4).jpg",
+                   "thumbnail": "/Products/Face-images/face6(4).jpg"
+                    }
+                    
+                  
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 7,
+                "url": "grace_beauty_absolute_loose_finishing_powder",
+                "name": "Grace Beauty Absolute Loose Finishing Powder",
+                "price": 615,
+                "del": 725,
+                "off": "15% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.2,
+                "pro_main_img":"/Products/Face-images/ProductFace7.jpg",
+                "numofverify": "25 verified ratings",
+                "color": "Almond",
+                "ques":"Details",
+                "ans":"If you’ve been looking for a perfect finishing powder, your search ends here! Introducing the new Lakmé Absolute Loose Finishing Powder. With its lightweight and mattifying properties, it ensures your makeup looks fresh all day. It gives you a flawless, spotless look, with a fine, airbrush finish, while also minimizing the look of pores. The powder sets your make-up and ensures that it lasts longer. Protip - you don't have to have to use the powder as a follow-up for foundation! It can now be applied as is for a natural look. Open the protective lid and drop some of the powder, then dab the puff onto the powder, and gently tap it all over your face for medium coverage. Lastly, evenly blend the powder. Lo and behold! You’re all set, with a natural glow and make up that will last till you clean it off.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 8 g | Commodity: Finishing Powder | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Open the spill-proof lid | Step 2: Drop some powder in the container. | Step 3: Gently dab applicator in the product. Step 4: Dust off any extra product on the applicator. | Step 5: Gently press into your skin to lock in your foundation.",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace7.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace7.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face7(1).jpg",
+                   "thumbnail": "/Products/Face-images/face7(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face7(2).jpg",
+                   "thumbnail": "/Products/Face-images/face7(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face7(3).jpg",
+                   "thumbnail": "/Products/Face-images/face7(3).jpg"
+                    }
+                   
+                    
+                  
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 8,
+                "url": "grace_beauty_absolute_wet_&_dry_compact",
+                "name": "Grace Beauty Absolute Wet & Dry Compact",
+                "price": 745,
+                "del": 875,
+                "off": "15% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Face-images/ProductFace8.jpg",
+                "numofverify": "30 verified ratings",
+                "color": "Rose Fair",
+                "ques":"Details",
+                "ans":"Your 3 in 1 skin care regime is now a beautiful and long lasting affair with this one of a kind wet and dry compact. The Lakme Absolute White Intense Wet and Dry Compact will add a wonderful healthy glow to your face. This long lasting compact has been formulated with Vitamin B3 to nourish the beauty of your skin and bring out your flawlessness.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 9 g | Commodity: Compact | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Take some compact on a powder puff. Shake the puff to remove any excess powder.  | Step 2: Wipe your face with the compact puff in long, even strokes. The strokes should move from the inside, to the outside.  | Step 3: Wet it if you want to use it like a foundation base. | Step 4: Even apply it all over your face. Don’t forget your neck area. | Step 5: Gently press into your skin to lock in your foundation.",
+                "images":[
+                    {
+                    "original":"/Products/Face-images/ProductFace8.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace8.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face8(1).jpg",
+                   "thumbnail": "/Products/Face-images/face8(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face8(2).jpg",
+                   "thumbnail": "/Products/Face-images/face8(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face8(3).jpg",
+                   "thumbnail": "/Products/Face-images/face8(3).jpg"
+                    }
+                   
+                    
+                  
+                
+                ]
+
+                
+
+            },
+
+            { 
+                "id": 9,
+                "url": "grace_beauty_9_to_5_powerplay_velvet_creme_blush",
+                "name": "Grace Beauty 9 to 5 Powerplay Velvet Creme Blush",
+                "price": 539,
+                "del": 599,
+                "off": "10% Off",
+                "bestseller":true,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Face-images/ProductFace9.jpg",
+                "numofverify": "44 verified ratings",
+                "color": "Soft Coral",
+                "ques":"Details",
+                "ans":"Introducing Lakmé 9to5 Powerplay Velvet Crème Blush – your go-to beauty essential for achieving that seamless, radiant flush of color. This dreamy crème blush is the secret to effortless flush. Imagine a texture so luxurious that it feels like a dream. As you apply, it glides onto your skin with a velvety-smooth touch, transforming into a weightless, powder-like finish. Whether you're aiming for a naturally flushed look or a more intense, statement pop of color, this versatile blush has got you covered. Its creamy formula is easily buildable, allowing you to customize your desired level of radiance. But it's not just about looks; it's about comfort too. The moisturizing formula ensures your skin stays pampered all day long, so you can confidently flaunt your chic flush without any worries of caking or fading. Achieving that blushin' chic look, is as simple as it gets. Swipe the blush across your cheeks, blend it in seamlessly with your fingertips, and enjoy that crème flush that lasts from morning meetings to evening soirées. Elevate your look with Lakmé 9to5 Powerplay Velvet Crème Blush – where crème comfort meets dreamy radiance. Get ready to embrace the perfect flush of color and blush all day, every day.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 9 g | Commodity: Face Blush | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Swipe the blush with your fingers and dab on to your cheeks. | Step 2: Blend it on the apple of your cheeks & take it up to the cheekbones.",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace9.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace9.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face9(1).jpg",
+                   "thumbnail": "/Products/Face-images/face9(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face9(2).jpg",
+                   "thumbnail": "/Products/Face-images/face9(2).jpg"
+                    }
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 10,
+                "url": "grace_beauty_face_it_blush",
+                "name": "Grace Beauty Face It Blush",
+                "price": 250,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Face-images/ProductFace10.jpg",
+                "bestseller":false,
+                "new":false,
+                "numofverify": "49 verified ratings",
+                "color": "Flushed Pink",
+                "ques":"Details",
+                "ans":"Glam up your glow with this weightless formula as you get ready to steal the show. It's easy and effortless application, makes it the perfect glam go-to for those who are always on the go. Infused with Vitamin E, Jojoba Oil and Almond Oil, the Lakmé Face It Blush not only gives you a rich color payoff that blendable and buildable. It's perfect for our not-so-subtle queens! Infused with Olive and Rapeseed Oil, the Lakmé Face It Highlighter is here to amp up your glow as you stun n' shine, looking fine! Stoked and strobed, illuminate radiance everywhere you go. Flaunt a radiant glow inside out. So Glam on, swipe, shine and slay as you get ready to play.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 4 g | Commodity: Face Blush | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Apply directly and blend using a beauty sponge or with your fingertips.",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace10.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace10.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face10(1).jpg",
+                   "thumbnail": "/Products/Face-images/face10(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face10(2).jpg",
+                   "thumbnail": "/Products/Face-images/face10(2).jpg"
+                    }
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 11,
+                "url": "grace_beauty_9_to_5_powerplay_velvet_creme_highlighter",
+                "name": "Grace Beauty 9 to 5 Powerplay Velvet Creme Highlighter",
+                "price": 562,
+                "del": 625,
+                "off": "10% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Face-images/ProductFace11.jpg",
+                "numofverify": "21 verified ratings",
+                "color": "Sultry Gold",
+                "ques":"Details",
+                "ans":"Introducing the brand new Lakmé 9to5 Powerplay Velvet Crème Highlighter—your ultimate secret to owning that luminous glow every day! Get ready to upgrade your beauty game with this luxe, velvety-smooth formula that glides on like a dream, leaving you with a drop-dead gorgeous radiance that's perfect for mundane and marvelous moments. Packed with dazzling light-reflecting pigments, it is perfect for amping up those stunning features. It crafts a soft, irresistible sheen that's like a spotlight on your fabulousness! This highlighter isn't just gorgeous; it's practical too! With its creamy, hydrating formula, it's effortless to blend and build. Plus, the color payoff is out-of-this-world, and it's so weightless you'll forget it's there. Want to shine brighter than the spotlight? No problem! Our highlighter brings the long-lasting drama you need for day and night. Wearing your shine was never easier, all you got to do is swipe the highlighter across your cheekbones, give it a little blend with your fingers, and voilà! You're glowing with a crème shine that lasts! Get ready to shine brighter than most, because with Lakmé 9to5 Powerplay Velvet Crème Highlighter, you're the star of your own show. Elevate your everyday glam with a swipe, blend, and glow!",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 9 g | Commodity: Face Highlighter | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:  Swipe the highlighter with your fingers and dab on to your cheeks. | Step 2: Blend it on the apple of your cheeks & take it up to the cheekbones.",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace11.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace11.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face11(1).jpg",
+                   "thumbnail": "/Products/Face-images/face11(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face11(2).jpg",
+                   "thumbnail": "/Products/Face-images/face11(2).jpg"
+                    }
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 12,
+                "url": "grace_beauty_face_it_highlighter",
+                "name": "Grace Beauty Face It Highlighter",
+                "price": 299,
+                "bestseller":true,
+                "new":false,
+                "ratings":4.5,
+                "pro_main_img":"/Products/Face-images/ProductFace12.jpg",
+                "numofverify": "24 verified ratings",
+                "color": "Bronze",
+                "ques":"Details",
+                "ans":"Glam up your glow with this weightless formula as you get ready to steal the show. It's easy and effortless application, makes it the perfect glam go-to for those who are always on the go. Infused with Vitamin E, Jojoba Oil and Almond Oil, the Lakmé Face It Blush not only gives you a rich color payoff that blendable and buildable. It's perfect for our not-so-subtle queens! Infused with Olive and Rapeseed Oil, the Lakmé Face It Highlighter is here to amp up your glow as you stun n' shine, looking fine! Stoked and strobed, illuminate radiance everywhere you go. Flaunt a radiant glow inside out. So Glam on, swipe, shine and slay as you get ready to play. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 4 g | Commodity: Face Highlighter | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply directly and blend using a brush or with your fingertips.",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace12.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace12.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face12(1).jpg",
+                   "thumbnail": "/Products/Face-images/face12(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face12(2).jpg",
+                   "thumbnail": "/Products/Face-images/face12(2).jpg"
+                    }
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 13,
+                "url": "grace_beauty_setting_spray_duo",
+                "name": "Grace Beauty Setting Spray Duo",
+                "price": 999,
+                "del":1100,
+                "off":"9% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.7,
+                "pro_main_img":"/Products/Face-images/ProductFace13.jpg",
+                "numofverify": "19 verified ratings",
+                "color": "Blue Transparent",
+                "ques":"Details",
+                "ans":"Make-up is so good, you should make it last! Introducing the Lakmé Absolute Made to Last Setting Spray, a nutri-rich mist designed to set your make-up for it to last longer. Hence, with this product it’s time you bid adieu to frequent touch-ups! Infused with the goodness of Hyaluronic Acid and Aloe-vera extract, this setting spray moisturizes and hydrates your skin- all the while giving your make-up power, for it to last long. With this Setting Spray refresh your makeup on the go and never compromise on giving your skin the nourishment it needs. This ultra-fine mist also envelops your make up in a way that’s non-sticky and extremely lightweight. All you have to do is SHAKE well before use, SPRAY generously from 6 inches away and let it SET for 10 seconds. The result? Matte-looking skin and vibrant makeup that lasts all day. You can also use this spray on make-up brushes for a non-wet application of your base. Whether you want your “no make-up make-up” look to last the long day shift or if you’ve hacked a runway look that you want to last the night- Lakmé’s Made to Last Setting Spray is made for you. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 120 ml | Commodity: Face  | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1:SHAKE well before use & SPRAY generously from 6 inches away and let it SET for 10 seconds. ",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace13.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace13.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face13(1).jpg",
+                   "thumbnail": "/Products/Face-images/face13(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face13(2).jpg",
+                   "thumbnail": "/Products/Face-images/face13(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face13(3).jpg",
+                   "thumbnail": "/Products/Face-images/face13(3).jpg"
+                    }
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 14,
+                "url": "grace_beauty_bi-phasic_remover_for_makeup_removal",
+                "name": "Grace Beauty Bi-Phasic Remover for Makeup Removal",
+                "price": 286,
+                "del":550,
+                "off":"48% Off",
+                "bestseller":false,
+                "new":true,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Face-images/ProductFace14.jpg",
+                "numofverify": "66 verified ratings",
+                "color": "Bluish Transparent",
+                "ques":"Details",
+                "ans":"Melt away long lasting, waterproof makeup effortlessly with the new Lakme Bi-phasic Remover. Powered by Miceller technology, this 2 phase formulation of oil in water instantly removes waterproof, long lasting makeup and leaves skin feeling hydrated. Oil lifts all kinds of makeup lip, face and eye and water makes sure skin is refreshed with no greasy afterfeel. It has magnetic micelles that go deep inside the pores and pull out makeup, dirt and pollutants like a magnet, gently cleansing skin not just from the surface but from deep within. 92% users who tried it say that it is effective at removing lip and eye makeup effectively in a single swipe! Effortless makeup removal in just 3 simple steps! Shake the bottle well. Pour generously onto a cotton pad. Swipe the soaked cotton pad around closed eyes, lips and face to take off all the makeup Suitable for all skin types. Avoid getting into your eyes, no need to rinse after use. Get onto Double Cleansing, the latest skincare regime that fashionistas are using to deep clean their skin. First use the Lakme Bi-phasic remover to melt away all the makeup and sebum. Then use Lakme Micellar Facewash to wash away dirt and impurities. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 200 ml| Commodity: Makeup Removal  | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Pour on a cotton pad, rub gently on skin to remove makeup and dirt.",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace14.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace14.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face14(1).jpg",
+                   "thumbnail": "/Products/Face-images/face14(1).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face14(2).jpg",
+                   "thumbnail": "/Products/Face-images/face14(2).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face14(3).jpg",
+                   "thumbnail": "/Products/Face-images/face14(3).jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face14(4).jpg",
+                   "thumbnail": "/Products/Face-images/face14(4).jpg"
+                    }
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 15,
+                "url": "grace_beauty_jewel_sindoor",
+                "name": "Grace Beauty Jewel Sindoor",
+                "price": 175,
+                "bestseller":false,
+                "new":false,
+                "ratings":4.9,
+                "pro_main_img":"/Products/Face-images/ProductFace15.jpg",
+                "numofverify": "10 verified ratings",
+                "color": "Maroon",
+                "ques":"Details",
+                "ans":"Lakmé Jewel Sindoor. A liquid based sindoor that allows precise application and comes in two classic shades – red and maroon. Giving that finesse with a sponge tip applicator, this symbolic tradition is now a non-messy affair. Complete your traditional Indian look with the maroon stroke of the Lakmé Jewel Sindoor. This liquid based sindoor by Lakmé has a long-lasting, smudge-proof formula to give you good wear-ability and to make it long lasting. A ubiquitous part of the married Indian woman’s look, the sindoor not only plays a symbolic role, but it also enhances the beauty of the woman wearing it. ",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 5 ml| Commodity: Sindoor  | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply Evenly with Generous Amount ",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace15.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace15.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face15(1).jpg",
+                   "thumbnail": "/Products/Face-images/face15(1).jpg"
+                    }
+                   
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 16,
+                "url": "grace_beauty_all_day_base_set",
+                "name": "Grace Beauty All Day Base Set",
+                "price": 1299,
+                "del":1525,
+                "off":"15% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":4.8,
+                "pro_main_img":"/Products/Face-images/ProductFace16.jpg",
+                "numofverify": "78 verified ratings",
+                "color": "Full Beige Set",
+                "ques":"Details",
+                "ans":"akmé 9to5 Primer + Matte Perfect Cover Foundation glides on your skin for a smooth and even skin tone. It blends effortlessly on your skin for a perfect, natural look. With SPF 20 and longwear formula, this foundation will keep your skin looking natural and flawless through the day! With Lakmé 9to5 Primer+Matte Liquid Concealer, you can have it all! Introducing the Lakmé 9to5 Primer+Matte Liquid Concealer that helps mask blemishes, dark circles, and fine lines. The concealer comes with a built-in primer that reduces pores and blurs dark spots for a smooth base and natural matte finish. With a unique applicator, the revolutionary formula glides on in a single stroke and blends seamlessly to offer a crease-free, buildable coverage.Infused with the goodness of Hyaluronic Acid and Aloe-vera extract, this setting spray moisturizes and hydrates your skin- all the while giving your make-up power, for it to last long. With this Setting Spray refresh your makeup on the go and never compromise on giving your skin the nourishment it needs. This ultra-fine mist also envelops your make up in a way that’s non-sticky and extremely lightweight.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 60 mL| Commodity: Base Set  | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply Evenly with Generous Amount",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace16.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace16.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face16(1).jpg",
+                   "thumbnail": "/Products/Face-images/face16(1).jpg"
+                    }
+                   
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 17,
+                "url": "grace_beauty_the_glow_up_set",
+                "name": "Grace Beauty The Glow Up Set",
+                "price": 2999,
+                "del":3499,
+                "off":"14% Off",
+                "bestseller":false,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Face-images/ProductFace17.jpg",
+                "numofverify": "108 verified ratings",
+                "color": "Indie Maroon",
+                "ques":"Details",
+                "ans":"This mini liquid lip colour will instantly become a staple in your makeup pouch. These fun-sized mini mattes will be your constant companion everywhere you go! The matte formula is long-wear by nature, feels feather-light on your lips and gives you an intense color payoff in one single stroke. It makes your lips look lush with a velvety matte texture that delivers a stunning suede-like finish.Get the best of both worlds with intense colour as well as this season’s most sought after metallic shades in one confident stroke and give your eyes the perfect shine definition.Get that salon-like expert + professional finish with the Lakmé Absolute Face Stylist Blush Duos. The luminous and silky formula gives a natural-looking radiance to your skin. This gives your cheeks a hint of colour that blends in effortlessly for a luminous finish.Get the best of both worlds of makeup & skincare with Lakme's newest foundation that is infused with a serum, that suits all skin types! Lakme’s best foundation which is infused with the goodness of Hyaluronic Acid and the power of Niacinamide, it makes your skin feel nourished and hydrated on the inside while making it look flawless and radiant on the outside. This serum-in-a-foundation gives a dewy, medium-high coverage finish that lasts up to 24 hours.Presenting the brand new Lakmé Absolute Liquid Highlighter for the perfect, dewy make-up look. Its liquid texture not only makes it easier to blend but also stays on for longer compared to the classic powder highlighters. It also covers your fine lines, blessing you with smooth, radiant skin. This super-concentrated shimmer liquid highlighter also has a moisturizing base of glycerin and water to hydrate your skin from within. No, the wet-looking finish does not leave you with oily skin! Instead, it illuminates your skin and offers a light-weight touch.",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: 10 G| Commodity: Base Set  | Country of Origin : India | Expiry Date: 30 Months From date of Manufacturing",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply Evenly with Generous Amount",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace17.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace17.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face17(1).jpg",
+                   "thumbnail": "/Products/Face-images/face17(1).jpg"
+                    }
+                   
+                   
+                    
+                ]
+                
+                
+
+                
+
+            },
+
+            { 
+                "id": 18,
+                "url": "grace_beauty_makeup_tools_set",
+                "name": "Grace Beauty Makeup Tools Set",
+                "price": 2000,
+                "bestseller":true,
+                "new":false,
+                "ratings":5,
+                "pro_main_img":"/Products/Face-images/ProductFace18.jpg",
+                "numofverify": "200 verified ratings",
+                "color": "Makeup",
+                "ques":"Details",
+                "ans":"Makeup Tools",
+                "ques1":"Information",
+                "ans1": "MRP inclusive of all taxes on all products | Net Quantity: Pouch| Commodity: Makeup Set  | Country of Origin : India ",
+                "ques2":"How to Use",
+                "ans2": "Step 1: Apply Evenly with Generous Amount",
+                "images":[  {
+                    "original":"/Products/Face-images/ProductFace18.jpg",
+                   "thumbnail":"/Products/Face-images/ProductFace18.jpg"
+                    },
+                    {
+                    "original": "/Products/Face-images/face18(1).jpeg",
+                   "thumbnail": "/Products/Face-images/face18(1).jpeg"
+                    }
+                   
+                   
+                    
+                ]
+                
+                
+
+                
+
+            }
+
+
+
+            ]
+                
+    }
+]
