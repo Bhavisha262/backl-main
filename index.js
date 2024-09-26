@@ -476,6 +476,48 @@ app.post('/remove-from-cart', async (req, res) => {
     res.status(500).json({ success: false, error: 'Internal Server Error' });
     }
 });
+
+app.post('/add-to-wish', async (req, res) => {
+    const{categoryid,productid,img,price,name} = req.body
+    
+    try {
+    const token = req.headers.authorization?.split(' ')[1];
+    if (!token) {
+    return res.status(401).json({ error: 'Token not provided' });
+    }
+    
+    jwt.verify(token, 'secret-key', async (err, decoded) => {
+    if (err) {
+    return res.status(401).json({ error: 'Invalid token' });
+    }
+    
+    const user = await NewAccount.findOne({ email: decoded.email });
+    if (!user) {
+    return res.status(404).json({ error: 'User not found' });
+    }
+    
+    const existingProduct = user.wish.find(
+    item => item.categoryid === categoryid && item.productid === productid 
+    );
+    
+    if (existingProduct) {
+    return res.json({ success:false,error: 'Product already in wish ' });
+    }
+    
+    user.wish.push({
+    categoryid,productid,img,price,name
+    });
+    
+    await user.save();
+    console.log(user)
+    
+    res.json({ success: true, message: 'Thanks Product added to wish', wishInfo:user.wish});
+    });
+    } catch (error) {
+    console.error('Error adding to wishlist:', error);
+    res.status(500).json({ success: false, error: 'Internal Server Error' });
+    }
+});
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
