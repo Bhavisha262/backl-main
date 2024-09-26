@@ -771,6 +771,12 @@ app.get('/get-order-info', async (req, res) => {
     }
 });
 
+app.get('/order-admin-table',async(req,res)=> {
+
+    const orderdata = await NewAccount.find()
+    res.json({data:orderdata})
+    
+});
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
