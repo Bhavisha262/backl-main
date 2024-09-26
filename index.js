@@ -1,6 +1,21 @@
 
-const express = require('express')
+const bodyParser = require('body-parser');
+const express = require('express');
+const path = require('path');
+const cors = require('cors');
+const { default: mongoose } = require('mongoose');
 const app = express()
+
+mongoose
+.connect(
+  "mongodb+srv://bhavishagandharva:9bKRsSNwtCnddtGR@cluster0.p4di7ec.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+)
+.then(() => console.log("Mongodb Connected"))
+.catch((err) => console.log("Mongo Error", err));
+app.use(cors());
+// app.use(express.static(path.join(__dirname, 'Assets')));
+app.use(bodyParser.json());
+
 
 
 app.get('/', (req, res) => {
