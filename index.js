@@ -162,6 +162,7 @@ const NewAccountSchema = new mongoose.Schema({
     }
     },
     ],
+    
 });
 const NewAccount = mongoose.model("new-account",  NewAccountSchema);
 
@@ -178,6 +179,7 @@ require: true,
 },
 });
 const User = mongoose.model("user",  UserSchema);
+
 
 app.get('/api', (req, res) => {
     const filePath = path.join(__dirname, 'data.json');
@@ -852,13 +854,13 @@ app.post('/newsletter', async (req, res) => {
   }
 
   // Check if the email is already subscribed (assuming you have a Newsletter model)
-  const existingSubscriber = await Newsletter.findOne({ email });
-  if (existingSubscriber) {
-    return res.status(400).json({ success: false, message: 'Email already subscribed' });
+  const existingUser = await NewAccount.findOne({email});
+    
+  if (existingUser){
+  return res.json({success: false,error: 'Email Id Already Subscribed!'})
   }
-
   // Add the email to the Newsletter collection (you'll need to create this schema)
-  const newSubscriber = new Newsletter({ email });
+  const newSubscriber = new NewAccount({ email });
   await newSubscriber.save();
 
   // Set up Nodemailer to send the confirmation email
