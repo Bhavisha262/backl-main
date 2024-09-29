@@ -898,7 +898,7 @@ app.post('/newsletter', async (req, res) => {
     const mail = await transporter.sendMail(mailOptions);
 
     // Respond with success message
-    res.json({ success: true, message: 'Subscribed successfully and confirmation email sent' });
+    res.json({ success: true, message: 'Thanks.Subscribed successfully and confirmation email sent' });
   } catch (error) {
     console.error('Error sending email:', error);
     res.status(500).json({ success: false, message: 'Error subscribing to the newsletter' });
