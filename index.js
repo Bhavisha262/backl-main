@@ -870,8 +870,14 @@ app.post('/newsletter', async (req, res) => {
   // Add the email to the Newsletter collection (you'll need to create this schema)
   const newSubscriber = new Newsletter({ email });
   await newSubscriber.save();
+  try {
+    const mail = await transporter.sendMail(mailOptions);
+    res.json({ success: true, message: 'Thanks.Subscribed successfully and confirmation email sent' });
+  } catch (error) {
+    console.error('Error sending email:', error);
+    res.status(500).json({ success: false, message: 'Error subscribing to the newsletter' });
+  }
 
-  // Set up Nodemailer to send the confirmation email
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
@@ -893,16 +899,7 @@ app.post('/newsletter', async (req, res) => {
     `,
   };
 
-  try {
-    // Send confirmation email
-    const mail = await transporter.sendMail(mailOptions);
-
-    // Respond with success message
-    res.json({ success: true, message: 'Thanks.Subscribed successfully and confirmation email sent' });
-  } catch (error) {
-    console.error('Error sending email:', error);
-    res.status(500).json({ success: false, message: 'Error subscribing to the newsletter' });
-  }
+ 
 });
 
 
