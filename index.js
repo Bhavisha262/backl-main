@@ -843,6 +843,59 @@ app.post('/changepassword',async(req,res)=>{
     res.json({ success: true, message: ' Password Change Successfully'});
 });
 
+app.post('/newsletter', async (req, res) => {
+  const { email } = req.body;
+
+  // Check if email is provided
+  if (!email) {
+    return res.status(400).json({ success: false, message: 'Email is required' });
+  }
+
+  // Check if the email is already subscribed (assuming you have a Newsletter model)
+  const existingSubscriber = await Newsletter.findOne({ email });
+  if (existingSubscriber) {
+    return res.status(400).json({ success: false, message: 'Email already subscribed' });
+  }
+
+  // Add the email to the Newsletter collection (you'll need to create this schema)
+  const newSubscriber = new Newsletter({ email });
+  await newSubscriber.save();
+
+  // Set up Nodemailer to send the confirmation email
+  const transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: {
+      user: 'bhavishagandharva@gmail.com',
+    pass: 'lzly yedr pmue qjbp',
+    },
+  });
+
+  const mailOptions = {
+    from: 'bhavishagandharva@gmail.com',
+    to: email,
+    subject: 'Newsletter Subscription Confirmation',
+    html: `
+      <p>Hello,</p>
+      <p>Thank you for subscribing to our newsletter!</p>
+      <p>You will now receive updates and news from us.</p>
+      <p>Best regards,</p>
+      <p>Grace Beauty</p>
+    `,
+  };
+
+  try {
+    // Send confirmation email
+    const mail = await transporter.sendMail(mailOptions);
+
+    // Respond with success message
+    res.json({ success: true, message: 'Subscribed successfully and confirmation email sent' });
+  } catch (error) {
+    console.error('Error sending email:', error);
+    res.status(500).json({ success: false, message: 'Error subscribing to the newsletter' });
+  }
+});
+
+
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
