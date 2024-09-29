@@ -166,6 +166,14 @@ const NewAccountSchema = new mongoose.Schema({
 });
 const NewAccount = mongoose.model("new-account",  NewAccountSchema);
 
+const NewslettertSchema = new mongoose.Schema({
+  email: {
+  type: String,
+  require: true,
+  },
+});
+const Newsletter = mongoose.model("newsletter",   NewslettertSchema);
+
 const UserSchema = new mongoose.Schema({
   
 email: {
@@ -854,13 +862,13 @@ app.post('/newsletter', async (req, res) => {
   }
 
   // Check if the email is already subscribed (assuming you have a Newsletter model)
-  const existingUser = await NewAccount.findOne({email});
-    
-  if (existingUser){
-  return res.json({success: false,error: 'Email Id Already Subscribed!'})
+  const existingSubscriber = await Newsletter.findOne({ email });
+  if (existingSubscriber) {
+    return res.status(400).json({ success: false, message: 'Email already subscribed' });
   }
+
   // Add the email to the Newsletter collection (you'll need to create this schema)
-  const newSubscriber = new NewAccount({ email });
+  const newSubscriber = new Newsletter({ email });
   await newSubscriber.save();
 
   // Set up Nodemailer to send the confirmation email
@@ -868,7 +876,7 @@ app.post('/newsletter', async (req, res) => {
     service: 'gmail',
     auth: {
       user: 'bhavishagandharva@gmail.com',
-    pass: 'lzly yedr pmue qjbp',
+      pass: 'lzly yedr pmue qjbp',
     },
   });
 
