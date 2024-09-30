@@ -675,6 +675,7 @@ app.post('/save-order-info', async (req, res) => {
     }
 });
 
+
 app.post('/increase-quantity', async (req, res) => {
     const { categoryid, productid } = req.body;
     
