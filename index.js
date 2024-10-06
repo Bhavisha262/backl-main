@@ -855,7 +855,7 @@ app.post('/changepassword',async(req,res)=>{
 });
 
 app.post('/newsletter', async (req, res) => {
-  const { email } = req.body;
+  const {email} = req.body;
 
   // Check if email is provided
   if (!email) {
@@ -863,17 +863,17 @@ app.post('/newsletter', async (req, res) => {
   }
 
   // Check if the email is already subscribed (assuming you have a Newsletter model)
-  const existingSubscriber = await Newsletter.findOne({ email });
+  const existingSubscriber = await Newsletter.findOne({email});
   if (existingSubscriber) {
     return res.status(400).json({ success: false, message: 'Email already subscribed' });
   }
 
   // Add the email to the Newsletter collection (you'll need to create this schema)
-  const newSubscriber = new Newsletter({ email });
+  const newSubscriber = new Newsletter({email});
   await newSubscriber.save();
   try {
     const mail = await transporter.sendMail(mailOptions);
-    res.json({ success: true, message: 'Thanks.Subscribed successfully and confirmation email sent' });
+    res.json({ success: true, message: 'Thanks Subscribed Successfully' });
   } catch (error) {
     console.error('Error sending email:', error);
     res.status(500).json({ success: false, message: 'Error subscribing to the newsletter' });
