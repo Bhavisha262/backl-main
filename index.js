@@ -40,6 +40,14 @@ const ContactSchema = new mongoose.Schema({
 }); 
 const Contact = mongoose.model("contact-us", ContactSchema);
 
+const  NewsletterSchema = new mongoose.Schema({
+  email: {
+  type: String,
+  require: true,
+  },
+}); 
+const Newsletter = mongoose.model("newsletter", NewsletterSchema);
+
 const NewAccountSchema = new mongoose.Schema({
     name: {
     type: String,
@@ -166,13 +174,6 @@ const NewAccountSchema = new mongoose.Schema({
 });
 const NewAccount = mongoose.model("new-account",  NewAccountSchema);
 
-const NewslettertSchema = new mongoose.Schema({
-  email: {
-  type: String,
-  require: true,
-  },
-});
-const Newsletter = mongoose.model("newsletter",   NewslettertSchema);
 
 const UserSchema = new mongoose.Schema({
   
@@ -278,6 +279,43 @@ app.post('/contact-us',async(req,res)=> {
     console.log(result)
 });
 
+app.post('/newsletter',async(req,res)=> {
+  const{email}=req.body
+
+  const exist = await Newsletter.findOne({email})
+  if(exist){
+   return res.json({success:false,error:'Email Already exists...!'})
+  }
+  const result = await Newsletter.create({
+  email,
+  });
+  
+  const transporter = nodemailer.createTransport({
+  service: 'gmail',
+  auth: {
+  user: 'bhavishagandharva@gmail.com',
+  pass: 'lzly yedr pmue qjbp',
+  },
+  });
+  
+  
+  const mailOptions = {
+  from: 'bhavishagandharva@gmail.com',
+  to: email,
+  subject: 'Welcome to Grace Beauty',
+  html: `
+  <p>Hello ${email},</p>
+  <p>Thank you for Subscribing to Grace Beauty. We will get back to you soon.</p>
+  <p>Best regards,</p>
+  <p>Grace Beauty Team</p>
+  `,
+  };
+  
+  const info =  await transporter.sendMail(mailOptions);
+  console.log('Email sent:', info.response);
+  res.json({success:true,message:"Thanks for Subscribing to Grace Beauty !"})
+  console.log(result)
+});
 app.get('/contact-admin-table',async(req,res)=> {
 const contactdata = await Contact.find()
 res.json({data:contactdata})
@@ -792,7 +830,7 @@ app.get('/order-admin-table',async(req,res)=> {
 app.post('/forgotpassword',async(req,res)=>{
     const{name,email} = req.body
     
-    const forgotpassword = await register.create({
+    const forgotpassword = await User.create({
     name,
     email,
     });
@@ -823,7 +861,7 @@ app.post('/forgotpassword',async(req,res)=>{
 
 app.post('/changepassword',async(req,res)=>{
     const{email,password} = req.body
-    const user = await register.findOne({email})
+    const user = await User.findOne({email})
     if(!user){
     return res.status(404).json({ success: false, message: 'User not found' });
     }
@@ -854,53 +892,69 @@ app.post('/changepassword',async(req,res)=>{
     res.json({ success: true, message: ' Password Change Successfully'});
 });
 
-app.post('/newsletter', async (req, res) => {
+app.post('/save-newsletter', async (req, res) => {
+
   const {email} = req.body;
-
-  // Check if email is provided
-  if (!email) {
-    return res.status(400).json({ success: false, message: 'Email is required' });
-  }
-
-  // Check if the email is already subscribed (assuming you have a Newsletter model)
-  const existingSubscriber = await Newsletter.findOne({email});
-  if (existingSubscriber) {
-    return res.status(400).json({ success: false, message: 'Email already subscribed' });
-  }
-
-  // Add the email to the Newsletter collection (you'll need to create this schema)
-  const newSubscriber = new Newsletter({email});
-  await newSubscriber.save();
   try {
-    const mail = await transporter.sendMail(mailOptions);
-    res.json({ success: true, message: 'Thanks Subscribed Successfully' });
-  } catch (error) {
-    console.error('Error sending email:', error);
-    res.status(500).json({ success: false, message: 'Error subscribing to the newsletter' });
+  const token = req.headers.authorization?.split(' ')[1];
+  if (!token) {
+  return res.status(401).json({ error: 'Token not provided' });
   }
-
-  const transporter = nodemailer.createTransport({
-    service: 'gmail',
-    auth: {
-      user: 'bhavishagandharva@gmail.com',
-      pass: 'lzly yedr pmue qjbp',
-    },
+  
+  jwt.verify(token, 'secret-key', async (err, decoded) => {
+  if (err) {
+  return res.status(401).json({ error: 'Invalid token' });
+  }
+  
+  const user = await NewAccount.findOne({ email: decoded.email });
+  if (!user) {
+  return res.status(404).json({ error: 'User not found' });
+  }
+  
+  user.newsletter.forEach(email => {
+  user.newsletter.push({
+  email
   });
+  });
+  user.newsletter = [];
+  await user.save();
+  
+  res.json({
+  success: true,
+  message: 'Thanks! Your Newsletter Subscribed',
+  newsInfo: user.newsletter
+  });
+  });
+  } catch (error) {
+  console.error('Error adding to order:', error);
+  res.status(500).json({ success: false, error: 'Internal Server Error' });
+  }
+});
 
-  const mailOptions = {
-    from: 'bhavishagandharva@gmail.com',
-    to: email,
-    subject: 'Newsletter Subscription Confirmation',
-    html: `
-      <p>Hello,</p>
-      <p>Thank you for subscribing to our newsletter!</p>
-      <p>You will now receive updates and news from us.</p>
-      <p>Best regards,</p>
-      <p>Grace Beauty</p>
-    `,
-  };
-
- 
+app.get('/get-newsletter', async (req, res) => {
+  try {
+  const token = req.headers.authorization?.split(' ')[1];
+  if (!token) {
+  return res.status(401).json({ message: 'Token not provided' });
+  }
+  
+  jwt.verify(token, 'secret-key', async (err, decoded) => {
+  if (err) {
+    return res.status(401).json({ message: 'Invalid token' });
+  }
+  
+  const user = await NewAccount.findOne({ email: decoded.email });
+  if (!user) {
+    return res.status(404).json({ message: 'User not found' });
+  }
+  
+  
+  res.json({ newsInfo: user.newsletter });
+  });
+  } catch (error) {
+  console.error('Error fetching order items:', error);
+  res.status(500).json({ message: 'Internal Server Error' });
+  }
 });
 
 
