@@ -999,34 +999,39 @@ app.post('/api/reject-invite', (req, res) => {
   }
 });
 
-// Assuming you're using Express.js for your backend
-app.get("/api/jobs", (req, res) => {
+app.get('/api/jobs', (req, res) => {
   const { title, location, jobType, experience } = req.query;
 
-  let filteredJobs = jobs; // 'jobs' is your initial jobs array
+  // Filter jobs based on the query parameters
+  let filteredJobs = jobs;
 
+  // Title filter
   if (title) {
-    filteredJobs = filteredJobs.filter((job) =>
-      job.title.toLowerCase().includes(title.toLowerCase())
-    );
+    filteredJobs = filteredJobs.filter(job => job.title.toLowerCase().includes(title.toLowerCase()));
   }
 
+  // Location filter
   if (location) {
-    filteredJobs = filteredJobs.filter((job) =>
-      job.location.toLowerCase().includes(location.toLowerCase())
-    );
+    filteredJobs = filteredJobs.filter(job => job.location.toLowerCase().includes(location.toLowerCase()));
   }
 
+  // Job type filter (Full-time, Part-time, Contract, etc.)
   if (jobType) {
-    filteredJobs = filteredJobs.filter((job) => job.jobType === jobType);
+    filteredJobs = filteredJobs.filter(job => job.jobType.toLowerCase() === jobType.toLowerCase());
   }
 
+  // Experience level filter (Entry-level, Mid-level, Senior)
   if (experience) {
-    filteredJobs = filteredJobs.filter((job) => job.experience === experience);
+    filteredJobs = filteredJobs.filter(job => job.experience.toLowerCase() === experience.toLowerCase());
   }
+
+  // Return filtered jobs
+  res.status(200).json(filteredJobs);
+});
+
 
   res.status(200).json(filteredJobs); // Return the filtered jobs
-});
+
 
 
 
