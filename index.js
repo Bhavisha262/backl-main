@@ -1029,7 +1029,7 @@ app.get('/api/jobs', (req, res) => {
 });
 
 
-  res.status(200).json(filteredJobs); // Return the filtered jobs
+  
 
 
 
