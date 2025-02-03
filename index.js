@@ -959,54 +959,6 @@ app.get('/get-newsletter', async (req, res) => {
 
 
 
-app.get('/api/jobs', (req, res) => {
-  try {
-    const { jobType, experience } = req.query; // Filter based on jobType and experience
-
-    let filteredJobs = jobs;
-
-    if (jobType) {
-      filteredJobs = filteredJobs.filter(job => job.jobType.toLowerCase() === jobType.toLowerCase());
-    }
-
-    if (experience) {
-      filteredJobs = filteredJobs.filter(job => job.experience.toLowerCase() === experience.toLowerCase());
-    }
-
-    res.status(200).json(filteredJobs);
-  } catch (error) {
-    res.status(500).json({ message: 'Internal Server Error' });
-  }
-});
-
-app.get('/api/saved-jobs', (req, res) => {
-  const savedJobs = [jobs[1], jobs[2]]
-  res.status(200).json(savedJobs);
-});
-
-// API for Top Picks
-app.get('/api/top-picks', (req, res) => {
-  const topPicks = [jobs[0], jobs[2]];
-  res.status(200).json(topPicks);
-});
-
-// API for Job Preferences
-app.get('/api/preferences', (req, res) => {
-  const jobPreferences = ["Onsite/Hybrid", "Fresher"];
-  res.status(200).json(jobPreferences);
-});
-
-// API for Interview Prep
-app.get('/api/interview-prep', (req, res) => {
-  const interviewPrep = ["Technical Interview Guide", "Behavioral Interview Tips"];
-  res.status(200).json(interviewPrep);
-});
-
-app.post('/api/apply', (req, res) => {
-  // Here, you would handle the job application logic (e.g., saving data to the database)
-  res.status(200).json({ message: 'Application submitted successfully!' });
-});
-
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
 })
