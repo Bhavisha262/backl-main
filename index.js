@@ -957,41 +957,17 @@ app.get('/get-newsletter', async (req, res) => {
   }
 });
 
-app.get('/api/jobs', async (req, res) => {
+app.get('/api/jobs', (req, res) => {
   try {
-    // Fetch jobs from the database (assuming you have a Job model)
-    const job = await job.find(); // Make sure you adjust to your own Job model/schema
-    res.status(200).json(job);
+      res.status(200).json(jobs);
   } catch (error) {
-    console.error('Error fetching jobs:', error);
-    res.status(500).json({ message: 'Internal Server Error' });
+      res.status(500).json({ message: 'Internal Server Error' });
   }
 });
 
-app.post('/api/apply', async (req, res) => {
-  try {
-    const { jobId, userId } = req.body;
-
-    // Make sure the job exists
-    const job = await Job.findById(jobId);
-    if (!job) {
-      return res.status(404).json({ message: 'Job not found' });
-    }
-
-    // You can implement the application logic here
-    const application = new JobApplication({
-      jobId,
-      userId,
-      appliedAt: new Date(),
-    });
-
-    await application.save(); // Save the application to the database
-
-    res.status(200).json({ message: 'Successfully applied for the job' });
-  } catch (error) {
-    console.error('Error applying for job:', error);
-    res.status(500).json({ message: 'Internal Server Error' });
-  }
+app.post('/api/apply', (req, res) => {
+  // Here, you would handle the job application logic (e.g., saving data to the database)
+  res.status(200).json({ message: 'Application submitted successfully!' });
 });
 
 
