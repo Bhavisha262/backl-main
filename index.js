@@ -957,10 +957,7 @@ app.get('/get-newsletter', async (req, res) => {
   }
 });
 
-const savedJobs = [jobs[1], jobs[2]];
-const topPicks = [jobs[0], jobs[2]];
-const jobPreferences = ["Onsite/Hybrid", "Fresher"];
-const interviewPrep = ["Technical Interview Guide", "Behavioral Interview Tips"];
+
 
 app.get('/api/jobs', (req, res) => {
   try {
