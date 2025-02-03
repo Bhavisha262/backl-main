@@ -1025,8 +1025,7 @@ app.get('/api/jobs', (req, res) => {
     filteredJobs = filteredJobs.filter(job => job.experience.toLowerCase() === experience.toLowerCase());
   }
 
-  // Return filtered jobs
-  res.status(200).json(filteredJobs);
+  
 });
 
 
