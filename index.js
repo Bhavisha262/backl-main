@@ -999,23 +999,7 @@ app.post('/api/reject-invite', (req, res) => {
   }
 });
 
-const JOB_API_KEY = 'YOUR_API_KEY_HERE';
 
-// Proxy API to fetch jobs
-app.get('/api/jobs', async (req, res) => {
-  const { title, location } = req.query;
-  try {
-    const response = await axios.get(`https://jobdataapi.com/api/jobs/?title=${title}&location=${location}`, {
-      headers: {
-        Authorization: `Api-Key ${JOB_API_KEY}`,
-      },
-    });
-    res.json(response.data);
-  } catch (error) {
-    console.error('Error fetching jobs:', error);
-    res.status(500).json({ error: 'Failed to fetch jobs' });
-  }
-});
 
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
