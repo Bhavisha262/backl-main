@@ -1,25 +1,24 @@
 [
     {
         "id": 1,
-        "jobId":1,
-        "resume":true,
-        "coverLetter":true,
-        "title":"FullStack",
-        "location":"Pune,MH",
-        "jobType":"Onsite/Hybrid",
-        "experience":"Fresher",
-        "company":"tutetch"
+        "jobId": 1,
+        "resume": true,
+        "coverLetter": true,
+        "title": "FullStack",
+        "location": "Pune,MH",
+        "jobType": "Onsite/Hybrid",
+        "experience": "Fresher",
+        "company": "tutetch"
     },
     {
         "id": 2,
-        "jobId":2,
-        "resume":true,
-        "coverLetter":false,
-        "title":"MERNStack",
-        "location":"Pune,MH",
-        "jobType":"Onsite/Hybrid",
-        "experience":"1+",
-        "company":"infotetch"
+        "jobId": 2,
+        "resume": true,
+        "coverLetter": false,
+        "title": "MERNStack",
+        "location": "Pune,MH",
+        "jobType": "Onsite/Hybrid",
+        "experience": "1+",
+        "company": "infotetch"
     }
-
 ]
