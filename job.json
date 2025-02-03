@@ -1,33 +1,43 @@
 [
     {
       "id": 1,
-      "jobId": 1,
-      "title": "FullStack Developer",
-      "location": "Pune, MH",
-      "jobType": "Onsite/Hybrid",
-      "experience": "Fresher",
-      "company": "Tutetch",
-      "description": "We are looking for a Software Engineer...",
-    "postedDate": "2 days ago"
+      "title": "Software Engineer",
+      "company": "Company A",
+      "location": "New York",
+      "jobType": "Full-time",
+      "experience": "Entry-level",
+      "postedDate": "2025-01-15",
+      "companyLogo": "https://via.placeholder.com/50"
     },
     {
       "id": 2,
-      "jobId": 2,
-      "title": "MERN Stack Developer",
-      "location": "Pune, MH",
-      "jobType": "Onsite/Hybrid",
-      "experience": "1+ years",
-      "company": "Infotetch"
+      "title": "Frontend Developer",
+      "company": "Company B",
+      "location": "San Francisco",
+      "jobType": "Part-time",
+      "experience": "Mid-level",
+      "postedDate": "2025-01-10",
+      "companyLogo": "https://via.placeholder.com/50"
     },
     {
       "id": 3,
-      "jobId": 3,
-      "title": "Backend Developer",
-      "location": "Mumbai, MH",
-      "jobType": "Remote",
-      "experience": "3+ years",
-      "company": "Techsol",
-      "description": "Join our frontend team...",
-      "postedDate": "1 week ago"
+      "title": "Data Scientist",
+      "company": "Company C",
+      "location": "Chicago",
+      "jobType": "Full-time",
+      "experience": "Senior",
+      "postedDate": "2025-01-05",
+      "companyLogo": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 4,
+      "title": "Backend Engineer",
+      "company": "Company D",
+      "location": "Los Angeles",
+      "jobType": "Contract",
+      "experience": "Mid-level",
+      "postedDate": "2025-02-01",
+      "companyLogo": "https://via.placeholder.com/50"
     }
   ]
+  

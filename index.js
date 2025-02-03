@@ -999,10 +999,11 @@ app.post('/api/reject-invite', (req, res) => {
   }
 });
 
+// Assuming you're using Express.js for your backend
 app.get("/api/jobs", (req, res) => {
   const { title, location, jobType, experience } = req.query;
 
-  let filteredJobs = jobs;
+  let filteredJobs = jobs; // 'jobs' is your initial jobs array
 
   if (title) {
     filteredJobs = filteredJobs.filter((job) =>
@@ -1024,8 +1025,9 @@ app.get("/api/jobs", (req, res) => {
     filteredJobs = filteredJobs.filter((job) => job.experience === experience);
   }
 
-  res.status(200).json(filteredJobs);
+  res.status(200).json(filteredJobs); // Return the filtered jobs
 });
+
 
 
 app.get('/', (req, res) => {
