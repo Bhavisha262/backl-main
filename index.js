@@ -957,6 +957,11 @@ app.get('/get-newsletter', async (req, res) => {
   }
 });
 
+const savedJobs = [jobs[1], jobs[2]];
+const topPicks = [jobs[0], jobs[2]];
+const jobPreferences = ["Onsite/Hybrid", "Fresher"];
+const interviewPrep = ["Technical Interview Guide", "Behavioral Interview Tips"];
+
 app.get('/api/jobs', (req, res) => {
   try {
     const { jobType, experience } = req.query; // Filter based on jobType and experience
@@ -975,6 +980,25 @@ app.get('/api/jobs', (req, res) => {
   } catch (error) {
     res.status(500).json({ message: 'Internal Server Error' });
   }
+});
+
+app.get('/api/saved-jobs', (req, res) => {
+  res.status(200).json(savedJobs);
+});
+
+// API for Top Picks
+app.get('/api/top-picks', (req, res) => {
+  res.status(200).json(topPicks);
+});
+
+// API for Job Preferences
+app.get('/api/preferences', (req, res) => {
+  res.status(200).json(jobPreferences);
+});
+
+// API for Interview Prep
+app.get('/api/interview-prep', (req, res) => {
+  res.status(200).json(interviewPrep);
 });
 
 app.post('/api/apply', (req, res) => {
