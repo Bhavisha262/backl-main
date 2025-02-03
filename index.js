@@ -957,11 +957,23 @@ app.get('/get-newsletter', async (req, res) => {
   }
 });
 
-app.get('/api/jobs', (req, res) => {
+pp.get('/api/jobs', (req, res) => {
   try {
-      res.status(200).json(jobs);
+    const { jobType, experience } = req.query; // Filter based on jobType and experience
+
+    let filteredJobs = jobs;
+
+    if (jobType) {
+      filteredJobs = filteredJobs.filter(job => job.jobType.toLowerCase() === jobType.toLowerCase());
+    }
+
+    if (experience) {
+      filteredJobs = filteredJobs.filter(job => job.experience.toLowerCase() === experience.toLowerCase());
+    }
+
+    res.status(200).json(filteredJobs);
   } catch (error) {
-      res.status(500).json({ message: 'Internal Server Error' });
+    res.status(500).json({ message: 'Internal Server Error' });
   }
 });
 
@@ -969,7 +981,6 @@ app.post('/api/apply', (req, res) => {
   // Here, you would handle the job application logic (e.g., saving data to the database)
   res.status(200).json({ message: 'Application submitted successfully!' });
 });
-
 
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
