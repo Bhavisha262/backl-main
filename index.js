@@ -999,6 +999,33 @@ app.post('/api/reject-invite', (req, res) => {
   }
 });
 
+app.get("/api/jobs", (req, res) => {
+  const { title, location, jobType, experience } = req.query;
+
+  let filteredJobs = jobs;
+
+  if (title) {
+    filteredJobs = filteredJobs.filter((job) =>
+      job.title.toLowerCase().includes(title.toLowerCase())
+    );
+  }
+
+  if (location) {
+    filteredJobs = filteredJobs.filter((job) =>
+      job.location.toLowerCase().includes(location.toLowerCase())
+    );
+  }
+
+  if (jobType) {
+    filteredJobs = filteredJobs.filter((job) => job.jobType === jobType);
+  }
+
+  if (experience) {
+    filteredJobs = filteredJobs.filter((job) => job.experience === experience);
+  }
+
+  res.status(200).json(filteredJobs);
+});
 
 
 app.get('/', (req, res) => {
