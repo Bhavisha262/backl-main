@@ -980,13 +980,13 @@ app.get('/api/jobs', (req, res) => {
 });
 
 app.get('/api/saved-jobs', (req, res) => {
-  const savedJobs = [jobs[1], jobs[2]]
+  const savedJobs = [job[1], job[2]]
   res.status(200).json(savedJobs);
 });
 
 // API for Top Picks
 app.get('/api/top-picks', (req, res) => {
-  const topPicks = [jobs[0], jobs[2]];
+  const topPicks = [job[0], job[2]];
   res.status(200).json(topPicks);
 });
 
