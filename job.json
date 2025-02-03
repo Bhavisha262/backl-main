@@ -20,5 +20,16 @@
         "jobType": "Onsite/Hybrid",
         "experience": "Full-Time",
         "company": "infotetch"
+    },
+    {
+        "id": 3,
+        "jobId": 3,
+        "resume": true,
+        "coverLetter": false,
+        "title": "MERNStack",
+        "location": "Pune,MH",
+        "jobType": "Hybrid",
+        "experience": "Full-Time",
+        "company": "infotetch"
     }
 ]
