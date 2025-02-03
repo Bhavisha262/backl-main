@@ -957,7 +957,7 @@ app.get('/get-newsletter', async (req, res) => {
   }
 });
 
-pp.get('/api/jobs', (req, res) => {
+app.get('/api/jobs', (req, res) => {
   try {
     const { jobType, experience } = req.query; // Filter based on jobType and experience
 
