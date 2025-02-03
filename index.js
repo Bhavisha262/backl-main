@@ -980,21 +980,25 @@ app.get('/api/jobs', (req, res) => {
 });
 
 app.get('/api/saved-jobs', (req, res) => {
+  const savedJobs = [jobs[1], jobs[2]]
   res.status(200).json(savedJobs);
 });
 
 // API for Top Picks
 app.get('/api/top-picks', (req, res) => {
+  const topPicks = [jobs[0], jobs[2]];
   res.status(200).json(topPicks);
 });
 
 // API for Job Preferences
 app.get('/api/preferences', (req, res) => {
+  const jobPreferences = ["Onsite/Hybrid", "Fresher"];
   res.status(200).json(jobPreferences);
 });
 
 // API for Interview Prep
 app.get('/api/interview-prep', (req, res) => {
+  const interviewPrep = ["Technical Interview Guide", "Behavioral Interview Tips"];
   res.status(200).json(interviewPrep);
 });
 
