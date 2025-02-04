@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "name": "John Doe",
+      "designation": "Software Engineer",
+      "timestamp": "2 hours ago"
+    },
+    "text": "Had a great meeting today about the new project! Exciting times ahead. #work #tech",
+    "media": "https://www.w3schools.com/html/movie.mp4",
+    "reactions": {
+      "like": 20,
+      "love": 15,
+      "celebrate": 5,
+      "insightful": 8,
+      "laugh": 2
+    },
+    "comments": [
+      {
+        "user": "Jane Smith",
+        "text": "Sounds like an awesome project! Can't wait to hear more."
+      },
+      {
+        "user": "Sam Johnson",
+        "text": "Totally agree, this will be huge!"
+      }
+    ],
+    "shares": 3
+  }
+]
