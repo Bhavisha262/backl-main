@@ -1,17 +1,25 @@
-{
-  "user": {
-    "avatar": "https://via.placeholder.com/50",
-    "name": "John Doe",
-    "designation": "Software Engineer",
-    "timestamp": "2 hours ago"
-  },
-  "text": "This is a sample post. Check out this awesome content!",
-  "media": "https://via.placeholder.com/600x300",
-  "reactions": {
-    "like": 50
-  },
-  "comments": [
-    "Amazing post!",
-    "Love this content!"
-  ]
-}
+[
+  {
+    "id": 1,
+    "user": {
+      "name": "John Doe",
+      "designation": "Software Engineer at Google",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    "timestamp": "2h ago",
+    "text": "Excited to share my latest project! 🚀 #WebDevelopment",
+    "media": "https://source.unsplash.com/600x400/?technology",
+    "reactions": {
+      "like": 25,
+      "love": 10,
+      "celebrate": 5,
+      "insightful": 3,
+      "curious": 2
+    },
+    "comments": [
+      { "id": 1, "text": "Awesome work! 🔥", "user": "Jane Smith" },
+      { "id": 2, "text": "Looks great!", "user": "Mike Johnson" }
+    ],
+    "reposts": 3
+  }
+]
