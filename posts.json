@@ -3,23 +3,31 @@
     "id": 1,
     "user": {
       "name": "John Doe",
-      "designation": "Software Engineer at Google",
-      "avatar": "https://via.placeholder.com/50"
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "designation": "Software Engineer at Google"
     },
     "timestamp": "2h ago",
-    "text": "Excited to share my latest project! 🚀 #WebDevelopment",
+    "text": "Excited to share my latest project! 🚀 #WebDevelopment #ReactJS",
     "media": "https://source.unsplash.com/600x400/?technology",
     "reactions": {
-      "like": 25,
-      "love": 10,
-      "celebrate": 5,
-      "insightful": 3,
+      "like": 12,
+      "love": 5,
+      "celebrate": 3,
+      "support": 2,
+      "funny": 4,
+      "insightful": 1,
       "curious": 2
     },
     "comments": [
-      { "id": 1, "text": "Awesome work! 🔥", "user": "Jane Smith" },
-      { "id": 2, "text": "Looks great!", "user": "Mike Johnson" }
+      {
+        "user": "Alice Smith",
+        "text": "Looks amazing! Keep up the great work! 👏"
+      },
+      {
+        "user": "Bob Johnson",
+        "text": "Great job! Can't wait to see more. 👍"
+      }
     ],
-    "reposts": 3
+    "shares": 3
   }
 ]
