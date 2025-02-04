@@ -1,21 +1,16 @@
-[
-  {
-    "id": 1,
-    "user": {
-      "avatar": "https://via.placeholder.com/50",
-      "name": "John Doe",
-      "designation": "Software Engineer at Google"
-    },
-    "timestamp": "2h ago",
-    "content": "Excited to share my latest project! 🚀",
-    "media": "https://via.placeholder.com/600x300",
-    "likes": 15,
-    "reactions": { "👍": 5, "❤️": 3, "👏": 4, "🔥": 2, "😂": 1 },
-    "comments": 3,
-    "commentList": [
-      { "user": "Alice", "text": "Looks amazing! 👏" },
-      { "user": "Bob", "text": "Great work! Keep it up!" }
-    ],
-    "shares": 2
-  }
-]
+{
+  "user": {
+    "name": "John Doe",
+    "designation": "Software Engineer",
+    "avatar": "https://example.com/avatar.jpg"
+  },
+  "timestamp": "2 hours ago",
+  "text": "This is a post content.",
+  "media": "https://example.com/post-image.jpg",
+  "reactions": {
+    "like": 10,
+    "love": 5,
+    "celebrate": 3
+  },
+  "comments": ["Great post!", "Interesting thoughts."]
+}
