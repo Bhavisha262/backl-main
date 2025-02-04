@@ -2,30 +2,51 @@
   {
     "id": 1,
     "user": {
-      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
       "name": "John Doe",
-      "designation": "Software Engineer",
-      "timestamp": "2 hours ago"
+      "avatar": "https://via.placeholder.com/40",
+      "designation": "Software Engineer"
     },
-    "text": "Had a great meeting today about the new project! Exciting times ahead. #work #tech",
-    "media": "https://www.w3schools.com/html/movie.mp4",
+    "text": "This is a sample post. #ReactJS #NodeJS",
+    "media": "https://via.placeholder.com/600x300",
+    "timestamp": "2025-02-04 10:30 AM",
     "reactions": {
-      "like": 20,
-      "love": 15,
-      "celebrate": 5,
-      "insightful": 8,
-      "laugh": 2
+      "👍": 10,
+      "❤️": 5,
+      "🎉": 2
     },
+    "shares": 3,
     "comments": [
       {
-        "user": "Jane Smith",
-        "text": "Sounds like an awesome project! Can't wait to hear more."
+        "user": "Alice",
+        "text": "Great post!"
       },
       {
-        "user": "Sam Johnson",
-        "text": "Totally agree, this will be huge!"
+        "user": "Bob",
+        "text": "Looking forward to learning React!"
       }
-    ],
-    "shares": 3
+    ]
+  },
+  {
+    "id": 2,
+    "user": {
+      "name": "Jane Smith",
+      "avatar": "https://via.placeholder.com/40",
+      "designation": "UI/UX Designer"
+    },
+    "text": "Loving the new design trends this year! #UIUX #DesignInspiration",
+    "media": "https://via.placeholder.com/600x300",
+    "timestamp": "2025-02-04 11:00 AM",
+    "reactions": {
+      "👍": 8,
+      "❤️": 6,
+      "🎉": 3
+    },
+    "shares": 1,
+    "comments": [
+      {
+        "user": "Charlie",
+        "text": "Absolutely! Clean design is the future."
+      }
+    ]
   }
 ]
