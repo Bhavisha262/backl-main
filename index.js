@@ -1001,6 +1001,9 @@ app.post('/api/reject-invite', (req, res) => {
 });
 
 
+app.get("/api/posts", (req, res) => {
+  res.json(posts);
+});
 
 
   
