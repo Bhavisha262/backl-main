@@ -1001,8 +1001,80 @@ app.post('/api/reject-invite', (req, res) => {
 });
 
 
-app.get("/api/posts", (req, res) => {
+app.get('/api/posts', (req, res) => {
   res.json(posts);
+});
+
+// API endpoint to add a comment to a post
+app.post('/api/posts/:postId/comments', (req, res) => {
+  const { postId } = req.params;
+  const { user, text } = req.body;
+
+  const post = posts.find((p) => p.id == postId);
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  post.comments.push({ user, text });
+  res.status(200).json({ message: 'Comment added successfully!', comments: post.comments });
+});
+
+// API endpoint to handle reactions
+app.post('/api/posts/:postId/reactions', (req, res) => {
+  const { postId } = req.params;
+  const { reaction } = req.body;
+
+  const post = posts.find((p) => p.id == postId);
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  if (!post.reactions[reaction]) {
+    post.reactions[reaction] = 0;
+  }
+
+  post.reactions[reaction] += 1;
+  res.status(200).json({ message: 'Reaction added successfully!', reactions: post.reactions });
+});
+
+// API endpoint to handle sharing a post
+app.post('/api/posts/:postId/share', (req, res) => {
+  const { postId } = req.params;
+
+  const post = posts.find((p) => p.id == postId);
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  post.shares += 1;
+  res.status(200).json({ message: 'Post shared successfully!', shares: post.shares });
+});
+
+// API endpoint to save a post
+app.post('/api/posts/:postId/save', (req, res) => {
+  const { postId } = req.params;
+
+  const post = posts.find((p) => p.id == postId);
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  // Logic to save the post, e.g., saving to user’s profile or DB
+  res.status(200).json({ message: 'Post saved!' });
+});
+
+// API endpoint to report a post
+app.post('/api/posts/:postId/report', (req, res) => {
+  const { postId } = req.params;
+
+  const post = posts.find((p) => p.id == postId);
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  // Logic to handle reporting, e.g., flagging post as inappropriate
+  res.status(200).json({ message: 'Post reported!' });
+});
+
+// API endpoint to copy a post link (handled on frontend)
+app.get('/api/posts/:postId/copy', (req, res) => {
+  const { postId } = req.params;
+  const post = posts.find((p) => p.id == postId);
+
+  if (!post) return res.status(404).json({ error: 'Post not found' });
+
+  const postLink = `https://backl-main.vercel.app/posts/${postId}`;
+  res.json({ message: 'Link copied successfully!', link: postLink });
 });
 
 
