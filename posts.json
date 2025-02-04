@@ -1,16 +1,17 @@
 {
   "user": {
+    "avatar": "https://dummy-avatar.jpg",
     "name": "John Doe",
     "designation": "Software Engineer",
-    "avatar": "https://example.com/avatar.jpg"
+    "timestamp": "2 hours ago"
   },
-  "timestamp": "2 hours ago",
-  "text": "This is a post content.",
-  "media": "https://example.com/post-image.jpg",
+  "text": "This is a dummy post text.",
+  "media": "https://dummy-media.jpg",  
   "reactions": {
-    "like": 10,
-    "love": 5,
-    "celebrate": 3
+    "like": 50
   },
-  "comments": ["Great post!", "Interesting thoughts."]
+  "comments": [
+    "This is a great post!",
+    "I completely agree!"
+  ]
 }
