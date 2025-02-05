@@ -9,7 +9,9 @@
     "text": "Excited to start a new project today! #innovation #tech",
     "time": "2 hours ago",
     "visibility": "Public",
-    "media": "https://picsum.photos/id/4/500",
+    "media": [
+      "https://picsum.photos/id/4/500"
+    ],
     "likes": 12,
     "comments": 5,
     "shares": 3
