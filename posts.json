@@ -3,50 +3,12 @@
     "id": 1,
     "user": {
       "name": "John Doe",
-      "avatar": "https://via.placeholder.com/40",
-      "designation": "Software Engineer"
+      "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
     },
-    "text": "This is a sample post. #ReactJS #NodeJS",
-    "media": "https://via.placeholder.com/600x300",
-    "timestamp": "2025-02-04 10:30 AM",
-    "reactions": {
-      "👍": 10,
-      "❤️": 5,
-      "🎉": 2
-    },
-    "shares": 3,
-    "comments": [
-      {
-        "user": "Alice",
-        "text": "Great post!"
-      },
-      {
-        "user": "Bob",
-        "text": "Looking forward to learning React!"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "user": {
-      "name": "Jane Smith",
-      "avatar": "https://via.placeholder.com/40",
-      "designation": "UI/UX Designer"
-    },
-    "text": "Loving the new design trends this year! #UIUX #DesignInspiration",
-    "media": "https://via.placeholder.com/600x300",
-    "timestamp": "2025-02-04 11:00 AM",
-    "reactions": {
-      "👍": 8,
-      "❤️": 6,
-      "🎉": 3
-    },
-    "shares": 1,
-    "comments": [
-      {
-        "user": "Charlie",
-        "text": "Absolutely! Clean design is the future."
-      }
+    "text": "Excited to start a new project today!",
+    "time": "2 hours ago",
+    "media": [
+      "https://randomuser.me/api/portraits/men/1.jpg"
     ]
   }
 ]
