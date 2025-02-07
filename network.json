@@ -28,10 +28,10 @@
   "contacts": [
     {
       "id": 1,
-      "name": "Alice Brown",
+      "name": "Olivia Perez",
       "title": "HR Specialist",
-      "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
-      "company": "Company A"
+      "avatar": "https://randomuser.me/api/portraits/women/26.jpg",
+      "company": "Valsova Industries"
     },
     {
       "id": 2,
