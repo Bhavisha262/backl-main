@@ -4,7 +4,7 @@
       "id": 1,
       "name": "John Doe",
       "title": "Software Engineer",
-      "avatar": "https://via.placeholder.com/60",
+      "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
       "position": "Frontend Developer",
       "connectedAt": "2025-01-01"
     },
