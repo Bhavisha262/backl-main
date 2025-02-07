@@ -976,9 +976,9 @@ app.get('/get-newsletter', async (req, res) => {
 });
 
 
-app.get('/api/connections', (req, res) => res.json(connections));
-app.get('/api/invitations', (req, res) => res.json(invitations));
-app.get('/api/suggestions', (req, res) => res.json(suggestions));
+// app.get('/api/connections', (req, res) => res.json(connections));
+// app.get('/api/invitations', (req, res) => res.json(invitations));
+// app.get('/api/suggestions', (req, res) => res.json(suggestions));
 
 app.post('/api/accept-invite', (req, res) => {
   const { id } = req.body;
