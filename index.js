@@ -21,6 +21,8 @@ app.use(express.static(path.join(__dirname, 'Assets')));
 app.use(bodyParser.json());
 
 const posts = require('./posts.json');
+const data = require('./network.json');
+
 const connections = [
   { id: 1, name: 'John Doe', headline: 'Software Engineer at Google', mutual: 5, profilePic: 'john.jpg' },
   { id: 2, name: 'Jane Smith', headline: 'Product Manager at Meta', mutual: 3, profilePic: 'jane.jpg' }
@@ -1004,7 +1006,6 @@ app.get('/api/posts', (req, res) => {
   res.json(posts);
 });
 
-const data = require('./network.json');
 
 app.get('/api/:category', (req, res) => {
   const category = req.params.category;
