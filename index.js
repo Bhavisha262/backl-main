@@ -24,20 +24,7 @@ app.use(bodyParser.json());
 const posts = require('./posts.json');
 const data = require('./network.json');
 
-const connections = [
-  { id: 1, name: 'John Doe', headline: 'Software Engineer at Google', mutual: 5, profilePic: 'john.jpg' },
-  { id: 2, name: 'Jane Smith', headline: 'Product Manager at Meta', mutual: 3, profilePic: 'jane.jpg' }
-];
 
-const invitations = [
-  { id: 3, name: 'Mike Johnson', headline: 'Data Analyst at Amazon', mutual: 2, profilePic: 'mike.jpg' },
-  { id: 4, name: 'Emily Davis', headline: 'UI/UX Designer at Apple', mutual: 4, profilePic: 'emily.jpg' }
-];
-
-const suggestions = [
-  { id: 5, name: 'Sam Wilson', headline: 'Marketing Head at Tesla', mutual: 1, profilePic: 'sam.jpg' },
-  { id: 6, name: 'Olivia Brown', headline: 'HR at Microsoft', mutual: 6, profilePic: 'olivia.jpg' }
-];
 const ContactSchema = new mongoose.Schema({
     name: {
     type: String,
@@ -976,9 +963,6 @@ app.get('/get-newsletter', async (req, res) => {
 });
 
 
-// app.get('/api/connections', (req, res) => res.json(connections));
-// app.get('/api/invitations', (req, res) => res.json(invitations));
-// app.get('/api/suggestions', (req, res) => res.json(suggestions));
 
 app.post('/api/accept-invite', (req, res) => {
   const { id } = req.body;
