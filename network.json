@@ -1,0 +1,21 @@
+{
+    "connections": [
+      { "id": 1, "name": "John Doe", "title": "Software Engineer", "avatar": "https://via.placeholder.com/60" },
+      { "id": 2, "name": "Jane Smith", "title": "Product Manager", "avatar": "https://via.placeholder.com/60" },
+      { "id": 3, "name": "Bob Johnson", "title": "UX Designer", "avatar": "https://via.placeholder.com/60" }
+    ],
+    "contacts": [
+      { "id": 1, "name": "Alice Brown", "title": "HR Specialist", "avatar": "https://via.placeholder.com/60" },
+      { "id": 2, "name": "Charlie Green", "title": "Marketing Director", "avatar": "https://via.placeholder.com/60" }
+    ],
+    "followers": [
+      { "id": 1, "name": "Dave Wilson", "title": "Entrepreneur", "avatar": "https://via.placeholder.com/60" },
+      { "id": 2, "name": "Eva Taylor", "title": "Freelancer", "avatar": "https://via.placeholder.com/60" },
+      { "id": 3, "name": "Frank Martin", "title": "Investor", "avatar": "https://via.placeholder.com/60" }
+    ],
+    "groups": [
+      { "id": 1, "name": "Tech Innovators", "title": "Group", "avatar": "https://via.placeholder.com/60" },
+      { "id": 2, "name": "Design Professionals", "title": "Group", "avatar": "https://via.placeholder.com/60" }
+    ]
+  }
+  
