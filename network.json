@@ -2,27 +2,27 @@
   "connections": [
     {
       "id": 1,
-      "name": "John Doe",
-      "title": "Software Engineer",
-      "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
+      "name": "Shane Anderson",
+      "title": "Full Stack Developer",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
       "position": "Frontend Developer",
-      "connectedAt": "2025-01-01"
+      "connectedAt": "2024-01-01"
     },
     {
       "id": 2,
-      "name": "Jane Smith",
-      "title": "Product Manager",
-      "avatar": "https://randomuser.me/api/portraits/women/67.jpg",
-      "position": "Product Manager",
-      "connectedAt": "2025-01-05"
+      "name": "Josephine Santiago",
+      "title": "Fashion Designer",
+      "avatar": "https://randomuser.me/api/portraits/women/72.jpg",
+      "position": "Junior Fashion Designer",
+      "connectedAt": "2023-06-05"
     },
     {
       "id": 3,
-      "name": "Bob Johnson",
-      "title": "UX Designer",
-      "avatar": "https://via.placeholder.com/60",
-      "position": "UX Designer",
-      "connectedAt": "2025-01-10"
+      "name": "Bhavesh Bhatt",
+      "title": "UI/UX Designer",
+      "avatar": "https://randomuser.me/api/portraits/men/77.jpg",
+      "position": "Senior UI/UX Designer",
+      "connectedAt": "2022-11-10"
     }
   ],
   "contacts": [
