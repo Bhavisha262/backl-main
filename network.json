@@ -39,6 +39,13 @@
       "title": "Senior Investor",
       "avatar": "https://randomuser.me/api/portraits/men/58.jpg",
       "company": "Finstech Solutions"
+    },
+    {
+      "id": 2,
+      "name": "Ahyeon Kim",
+      "title": "Chief Technology Officer",
+      "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
+      "company": "Vergoosen Industries"
     }
   ],
   "followers": [
