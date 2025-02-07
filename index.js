@@ -8,6 +8,7 @@ const fs = require('fs');
 const cors = require('cors');
 const { default: mongoose } = require('mongoose');
 const { type } = require('os');
+require('dotenv').config();
 const app = express()
 
 mongoose
