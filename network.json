@@ -1,21 +1,166 @@
 {
-    "connections": [
-      { "id": 1, "name": "John Doe", "title": "Software Engineer", "avatar": "https://via.placeholder.com/60" },
-      { "id": 2, "name": "Jane Smith", "title": "Product Manager", "avatar": "https://via.placeholder.com/60" },
-      { "id": 3, "name": "Bob Johnson", "title": "UX Designer", "avatar": "https://via.placeholder.com/60" }
-    ],
-    "contacts": [
-      { "id": 1, "name": "Alice Brown", "title": "HR Specialist", "avatar": "https://via.placeholder.com/60" },
-      { "id": 2, "name": "Charlie Green", "title": "Marketing Director", "avatar": "https://via.placeholder.com/60" }
-    ],
-    "followers": [
-      { "id": 1, "name": "Dave Wilson", "title": "Entrepreneur", "avatar": "https://via.placeholder.com/60" },
-      { "id": 2, "name": "Eva Taylor", "title": "Freelancer", "avatar": "https://via.placeholder.com/60" },
-      { "id": 3, "name": "Frank Martin", "title": "Investor", "avatar": "https://via.placeholder.com/60" }
-    ],
-    "groups": [
-      { "id": 1, "name": "Tech Innovators", "title": "Group", "avatar": "https://via.placeholder.com/60" },
-      { "id": 2, "name": "Design Professionals", "title": "Group", "avatar": "https://via.placeholder.com/60" }
-    ]
-  }
-  
+  "connections": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "Software Engineer",
+      "avatar": "https://via.placeholder.com/60",
+      "position": "Frontend Developer",
+      "connectedAt": "2025-01-01"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "Product Manager",
+      "avatar": "https://via.placeholder.com/60",
+      "position": "Product Manager",
+      "connectedAt": "2025-01-05"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "title": "UX Designer",
+      "avatar": "https://via.placeholder.com/60",
+      "position": "UX Designer",
+      "connectedAt": "2025-01-10"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Brown",
+      "title": "HR Specialist",
+      "avatar": "https://via.placeholder.com/60",
+      "company": "Company A"
+    },
+    {
+      "id": 2,
+      "name": "Charlie Green",
+      "title": "Marketing Director",
+      "avatar": "https://via.placeholder.com/60",
+      "company": "Company B"
+    }
+  ],
+  "followers": [
+    {
+      "id": 1,
+      "name": "Dave Wilson",
+      "title": "Entrepreneur",
+      "avatar": "https://via.placeholder.com/60"
+    },
+    {
+      "id": 2,
+      "name": "Eva Taylor",
+      "title": "Freelancer",
+      "avatar": "https://via.placeholder.com/60"
+    },
+    {
+      "id": 3,
+      "name": "Frank Martin",
+      "title": "Investor",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Tech Innovators",
+      "title": "Group",
+      "avatar": "https://via.placeholder.com/60"
+    },
+    {
+      "id": 2,
+      "name": "Design Professionals",
+      "title": "Group",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "invitations": [
+    {
+      "id": 1,
+      "name": "Alice Invitation",
+      "title": "Marketing Manager",
+      "avatar": "https://via.placeholder.com/60"
+    },
+    {
+      "id": 2,
+      "name": "Brian Invitation",
+      "title": "Sales Lead",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "get-hired": [
+    {
+      "id": 1,
+      "name": "Charlie GetHired",
+      "title": "Product Manager",
+      "avatar": "https://via.placeholder.com/60"
+    },
+    {
+      "id": 2,
+      "name": "Diane GetHired",
+      "title": "HR Specialist",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "people-you-may-know": [
+    {
+      "id": 1,
+      "name": "Evan",
+      "title": "Software Developer",
+      "avatar": "https://via.placeholder.com/60"
+    },
+    {
+      "id": 2,
+      "name": "Fiona",
+      "title": "Data Analyst",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "catchup-all": [
+    {
+      "id": 1,
+      "name": "George",
+      "activity": "Updated his profile picture",
+      "avatar": "https://via.placeholder.com/60"
+    },
+    {
+      "id": 2,
+      "name": "Hannah",
+      "activity": "Started a new job",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "birthdays": [
+    {
+      "id": 1,
+      "name": "Irene",
+      "activity": "Birthday today",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "job-changes": [
+    {
+      "id": 1,
+      "name": "Jack",
+      "activity": "Changed his job at Tech Corp",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "work-anniversaries": [
+    {
+      "id": 1,
+      "name": "Karen",
+      "activity": "Celebrating 5 years at Company X",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "name": "Liam",
+      "activity": "Graduated from University Y",
+      "avatar": "https://via.placeholder.com/60"
+    }
+  ]
+}

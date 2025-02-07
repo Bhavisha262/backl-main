@@ -1006,7 +1006,6 @@ app.get('/api/posts', (req, res) => {
 
 const data = require('./network.json');
 
-// Define a generic route to serve each category from the JSON data
 app.get('/api/:category', (req, res) => {
   const category = req.params.category;
   if (data[category]) {
