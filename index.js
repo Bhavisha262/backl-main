@@ -23,7 +23,8 @@ app.use(bodyParser.json());
 
 const posts = require('./posts.json');
 const data = require('./network.json');
-
+const sampleJobs = require('./sampleJobs.json');
+const savedJobs = require('./savedJobs.json');
 
 const ContactSchema = new mongoose.Schema({
     name: {
@@ -991,7 +992,6 @@ app.get('/api/posts', (req, res) => {
   res.json(posts);
 });
 
-
 app.get('/api/:category', (req, res) => {
   const category = req.params.category;
   if (data[category]) {
@@ -999,6 +999,16 @@ app.get('/api/:category', (req, res) => {
   } else {
     res.status(404).json({ error: 'Category not found' });
   }
+});
+
+app.get('/api/jobs', (req, res) => {
+  res.json({ jobs: sampleJobs, savedJobs: savedJobs });
+});
+
+// Example endpoint for applying to a job
+app.post('/api/apply', (req, res) => {
+  // Process job application here (e.g., validate input, update DB)
+  res.json({ message: 'Application submitted successfully.' });
 });
 
 app.get('/', (req, res) => {

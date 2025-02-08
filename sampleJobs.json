@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "TechCorp",
+      "location": "San Francisco, CA",
+      "topPick": true,
+      "recent": false
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "company": "WebWorks",
+      "location": "New York, NY",
+      "topPick": false,
+      "recent": true
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "company": "Data Inc",
+      "location": "Boston, MA",
+      "topPick": true,
+      "recent": true
+    }
+  ]
+  
