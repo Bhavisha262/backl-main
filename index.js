@@ -987,8 +987,8 @@ app.post('/api/reject-invite', (req, res) => {
   }
 });
 
-app.get('/api/jobs', (req, res) => {
-  res.json(jobsData);
+app.get('/api/posts', (req, res) => {
+  res.json(posts);
 });
 
 app.get('/api/:category', (req, res) => {
@@ -1001,7 +1001,7 @@ app.get('/api/:category', (req, res) => {
 });
 
 app.get('/api/jobs', (req, res) => {
-  res.json({jobs});
+  res.json(jobsData);
 });
 
 
