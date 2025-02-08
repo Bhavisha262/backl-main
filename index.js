@@ -1001,7 +1001,7 @@ app.get('/api/:category', (req, res) => {
 });
 
 app.get('/api/jobs', (req, res) => {
-  res.json({savedJobs,myJobs,interviewPrep,topJobPicks,recentJobSearches,premiumHiring,moreJobs});
+  res.json({jobs});
 });
 
 
