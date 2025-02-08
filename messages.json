@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "sender": "Alice Johnson",
+      "subject": "Meeting Update",
+      "time": "10:30 AM",
+      "category": "focused"
+    },
+    {
+      "id": 2,
+      "sender": "Bob Smith",
+      "subject": "Project Details",
+      "time": "9:15 AM",
+      "category": "unread"
+    },
+    {
+      "id": 3,
+      "sender": "Charlie Brown",
+      "subject": "Welcome!",
+      "time": "Yesterday",
+      "category": "my connections"
+    },
+    {
+      "id": 4,
+      "sender": "David Williams",
+      "subject": "New Opportunity",
+      "time": "2 days ago",
+      "category": "inmail"
+    },
+    {
+      "id": 5,
+      "sender": "Eve Thompson",
+      "subject": "Weekly Report",
+      "time": "3 days ago",
+      "category": "starred"
+    },
+    {
+      "id": 6,
+      "sender": "Frank Martin",
+      "subject": "Follow Up",
+      "time": "4 days ago",
+      "category": "unread"
+    },
+    {
+      "id": 7,
+      "sender": "Grace Lee",
+      "subject": "Event Invitation",
+      "time": "Last Week",
+      "category": "focused"
+    }
+  ]
+  
