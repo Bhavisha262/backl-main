@@ -25,6 +25,7 @@ const posts = require('./posts.json');
 const data = require('./network.json');
 const jobs = require('./jobs.json');
 const messages = require('./messages.json');
+const notifications = require('./notifications.json');
 
 const ContactSchema = new mongoose.Schema({
     name: {
@@ -998,6 +999,10 @@ app.get('/api/jobs', (req, res) => {
 
 app.get("/api/messages", (req, res) => {
   res.json(messages);
+});
+
+app.get('/api/notifications', (req, res) => {
+  res.json(notifications);
 });
 
 app.get('/api/:category', (req, res) => {

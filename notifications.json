@@ -1,0 +1,48 @@
+{
+    "profile": {
+      "name": "John Doe",
+      "title": "Software Engineer",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    "notifications": [
+      {
+        "id": 1,
+        "type": "job",
+        "message": "New job posting: Senior Developer at XYZ Inc.",
+        "time": "2h ago"
+      },
+      {
+        "id": 2,
+        "type": "post",
+        "message": "Your connection commented on your post",
+        "time": "4h ago"
+      },
+      {
+        "id": 3,
+        "type": "mention",
+        "message": "You were mentioned in a post",
+        "time": "1d ago"
+      },
+      {
+        "id": 4,
+        "type": "job",
+        "message": "Job alert: Frontend Developer",
+        "time": "3d ago"
+      },
+      {
+        "id": 5,
+        "type": "post",
+        "message": "Your post has new likes",
+        "time": "5d ago"
+      }
+    ],
+    "companies": [
+      {
+        "id": 1,
+        "name": "LinkedIn",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
+        "description": "Leading professional networking site"
+      }
+    ]
+  }
+  
