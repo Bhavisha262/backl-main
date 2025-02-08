@@ -991,6 +991,10 @@ app.get('/api/posts', (req, res) => {
   res.json(posts);
 });
 
+app.get('/api/jobs', (req, res) => {
+  res.json(jobsData);
+});
+
 app.get('/api/:category', (req, res) => {
   const category = req.params.category;
   if (data[category]) {
@@ -999,11 +1003,6 @@ app.get('/api/:category', (req, res) => {
     res.status(404).json({ error: 'Category not found' });
   }
 });
-
-app.get('/api/jobs', (req, res) => {
-  res.json(jobsData);
-});
-
 
 app.get('/', (req, res) => {
 res.send('Hello Backend Is Live!')
