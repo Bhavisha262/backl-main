@@ -1,0 +1,64 @@
+{
+    "savedJobs": [
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "Tech Co",
+        "location": "San Francisco, CA"
+      },
+      {
+        "id": 2,
+        "title": "Frontend Developer",
+        "company": "Creative Labs",
+        "location": "New York, NY"
+      }
+    ],
+    "myJobs": [
+      {
+        "id": 1,
+        "title": "Senior Developer",
+        "company": "Innovate Inc",
+        "location": "Austin, TX"
+      }
+    ],
+    "interviewPrep": {
+      "tips": "Practice common interview questions and refine your portfolio."
+    },
+    "topJobPicks": [
+      {
+        "id": 1,
+        "title": "Data Scientist",
+        "company": "Analytics Corp",
+        "location": "Boston, MA"
+      },
+      {
+        "id": 2,
+        "title": "UX Designer",
+        "company": "DesignPro",
+        "location": "Seattle, WA"
+      }
+    ],
+    "recentJobSearches": [
+      "React Developer",
+      "Software Engineer",
+      "UI/UX Designer"
+    ],
+    "premiumHiring": {
+      "description": "Upgrade to premium to get access to exclusive hiring opportunities."
+    },
+    "moreJobs": [
+      {
+        "id": 1,
+        "title": "Backend Developer",
+        "company": "ServerSide Inc.",
+        "location": "Denver, CO"
+      },
+      {
+        "id": 2,
+        "title": "Full Stack Engineer",
+        "company": "Web Solutions",
+        "location": "Chicago, IL"
+      }
+    ]
+  }
+  
