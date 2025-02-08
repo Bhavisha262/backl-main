@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 
 const posts = require('./posts.json');
 const data = require('./network.json');
-const jobsData = require('./jobs.json');
+const jobs = require('./jobs.json');
 
 const ContactSchema = new mongoose.Schema({
     name: {
@@ -992,7 +992,7 @@ app.get('/api/posts', (req, res) => {
 });
 
 app.get('/api/jobs', (req, res) => {
-  res.json(jobsData);
+  res.json(jobs);
 });
 
 app.get('/api/:category', (req, res) => {
