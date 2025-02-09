@@ -1,47 +1,30 @@
-{
-  "profile": {
-    "name": "John Doe",
-    "title": "Software Engineer",
-    "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+[
+  {
+    "id": 1,
+    "category": "All",
+    "message": "You have a new connection request from Jane Smith.",
+    "time": "2h ago",
+    "avatar": "https://via.placeholder.com/40/0073b1/ffffff?text=JS"
   },
-  "notifications": [
-    {
-      "id": 1,
-      "type": "job",
-      "message": "New job posting: Senior Developer at XYZ Inc.",
-      "time": "2h ago"
-    },
-    {
-      "id": 2,
-      "type": "post",
-      "message": "Your connection commented on your post",
-      "time": "4h ago"
-    },
-    {
-      "id": 3,
-      "type": "mention",
-      "message": "You were mentioned in a post",
-      "time": "1d ago"
-    },
-    {
-      "id": 4,
-      "type": "job",
-      "message": "Job alert: Frontend Developer",
-      "time": "3d ago"
-    },
-    {
-      "id": 5,
-      "type": "post",
-      "message": "Your post has new likes",
-      "time": "5d ago"
-    }
-  ],
-  "companies": [
-    {
-      "id": 1,
-      "name": "LinkedIn",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
-      "description": "Leading professional networking site"
-    }
-  ]
-}
+  {
+    "id": 2,
+    "category": "Jobs",
+    "message": "New job posting: Senior Developer at TechCorp.",
+    "time": "4h ago",
+    "avatar": "https://via.placeholder.com/40/0073b1/ffffff?text=TC"
+  },
+  {
+    "id": 3,
+    "category": "My Posts",
+    "message": "Your post \"React Hooks in Depth\" received 5 new likes.",
+    "time": "1d ago",
+    "avatar": "https://via.placeholder.com/40/0073b1/ffffff?text=RP"
+  },
+  {
+    "id": 4,
+    "category": "Mentions",
+    "message": "Alex mentioned you in a comment on \"Frontend Trends\".",
+    "time": "3d ago",
+    "avatar": "https://via.placeholder.com/40/0073b1/ffffff?text=AL"
+  }
+]

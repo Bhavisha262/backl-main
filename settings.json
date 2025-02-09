@@ -1,0 +1,38 @@
+{
+    "account": {
+      "name": "John Doe",
+      "email": "johndoe@email.com",
+      "phone": "+1 234 567 890",
+      "password": "********",
+      "language": "English",
+      "region": "United States"
+    },
+    "privacy": {
+      "profileVisibility": "Public",
+      "emailVisibility": "Connections",
+      "phoneVisibility": "Only Me",
+      "searchVisibility": "Everyone",
+      "profileSharing": true
+    },
+    "ads": {
+      "adPreferences": "Personalized",
+      "dataSharing": false,
+      "thirdPartyAds": false
+    },
+    "communications": {
+      "emailNotifications": true,
+      "pushNotifications": true,
+      "smsNotifications": false
+    },
+    "visibility": {
+      "activeStatus": "No one",
+      "lastSeen": "Connections",
+      "readReceipts": true
+    },
+    "data": {
+      "downloadData": "Available",
+      "manageCookies": true,
+      "adsData": true
+    }
+  }
+  
