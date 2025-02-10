@@ -28,6 +28,7 @@ const messages = require('./messages.json');
 const notifications = require('./notifications.json');
 const settings = require('./settings.json');
 
+
 const ContactSchema = new mongoose.Schema({
     name: {
     type: String,
@@ -1010,6 +1011,16 @@ app.get('/api/settings', (req, res) => {
   res.json(settings);
 });
 
+app.get('/api/profile', (req, res) => {
+  fs.readFile(path.join(__dirname, 'profile.json'), 'utf8', (err, data) => {
+    if (err) {
+      console.error("Error reading profile.json", err);
+      return res.status(500).json({ error: "Failed to load data" });
+    }
+    const jsonData = JSON.parse(data);
+    res.json(jsonData);
+  });
+});
 app.get('/api/:category', (req, res) => {
   const category = req.params.category;
   if (data[category]) {
