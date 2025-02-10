@@ -111,6 +111,12 @@
       "name": "Frank Martin",
       "title": "Investor",
       "avatar": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jannie Herlinger",
+      "title": "Data Analyst",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/3.jpg"
     }
   ],
   "groups": [
