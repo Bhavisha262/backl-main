@@ -65,11 +65,18 @@
       "company": "Finstech Solutions"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Ahyeon Kim",
       "title": "Chief Technology Officer",
       "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
       "company": "Vergoosen Industries"
+    },
+    {
+      "id": 4,
+      "name": "Merrie Hively",
+      "title": "Chief Operations",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/69.jpg",
+      "company": "Rivera Finance"
     }
   ],
   "followers": [
