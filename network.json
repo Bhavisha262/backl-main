@@ -192,16 +192,28 @@
   "get-hired": [
     {
       "id": 1,
-      "name": "Charlie GetHired",
+      "name": "Walter Gollapudi",
       "title": "Product Manager",
-      "avatar": "https://via.placeholder.com/60"
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/74.jpg"
     },
     {
       "id": 2,
-      "name": "Diane GetHired",
+      "name": "Rina Manabe",
       "title": "HR Specialist",
-      "avatar": "https://via.placeholder.com/60"
-    }
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/73.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Andy Heiman",
+        "title": "Data Scientist",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/male/72.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Maia Breeden",
+        "title": "Financial Analyst",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/31.jpg"
+      }
   ],
   "people-you-may-know": [
     {
