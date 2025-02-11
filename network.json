@@ -230,15 +230,39 @@
   "people-you-may-know": [
     {
       "id": 1,
-      "name": "Evan",
-      "title": "Software Developer",
-      "avatar": "https://via.placeholder.com/60"
+      "name": "Berry Hasser",
+      "title": "Network Administrator",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/7.jpg"
     },
     {
       "id": 2,
-      "name": "Fiona",
-      "title": "Data Analyst",
-      "avatar": "https://via.placeholder.com/60"
+      "name": "Laurena Shur",
+      "title": "Cloud Architect",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/39.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jong Koperski",
+      "title": "Computer Scientist",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/49.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Allen Hodne",
+      "title": "Information Security Analyst",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/66.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Marshall Leyshon",
+      "title": "Account Executive",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/62.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Donn Steinley",
+      "title": "Technical Support Specialist",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/41.jpg"
     }
   ],
   "catchup-all": [
