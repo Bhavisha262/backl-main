@@ -316,7 +316,7 @@
     {
       "id": 2,
       "name": "Izetta Louy",
-      "activity": "Changed her job at Vaseline",
+      "activity": "Changed her job at Vaselime",
       "avatar": "https://xsgames.co/randomusers/assets/avatars/female/75.jpg"
     },
     {
@@ -329,9 +329,21 @@
   "work-anniversaries": [
     {
       "id": 1,
-      "name": "Karen",
-      "activity": "Celebrating 5 years at Company X",
-      "avatar": "https://via.placeholder.com/60"
+      "name": "Ayanna Decoff",
+      "activity": "Celebrating 5 years at Abascus Company",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/57.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chase Scarnecchia",
+      "activity": "Celebrating 3 years at Maitivik",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/71.jpg"
+    },
+    {
+      "id": 3,
+      "name": "George Banez",
+      "activity": "Celebrating 7 years at Neosols",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/21.jpg"
     }
   ],
   "education": [
