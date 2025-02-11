@@ -4,7 +4,7 @@
     "category": "All",
     "message": "You have a new connection request from Jane Smith.",
     "time": "2h ago",
-    "avatar": "https://via.placeholder.com/40/0073b1/ffffff?text=JS"
+    "avatar": "https://randomuser.me/api/portraits/women/67.jpg"
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "category": "My Posts",
     "message": "Your post \"React Hooks in Depth\" received 5 new likes.",
     "time": "1d ago",
-    "avatar": "https://via.placeholder.com/40/0073b1/ffffff?text=RP"
+    "avatar": "https://emojiterra.com/red-heart/"
   },
   {
     "id": 4,
