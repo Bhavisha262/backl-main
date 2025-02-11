@@ -289,9 +289,21 @@
   "birthdays": [
     {
       "id": 1,
-      "name": "Irene",
+      "name": "Irene Green",
       "activity": "Birthday today",
-      "avatar": "https://via.placeholder.com/60"
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/44.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Melanie Tereson",
+      "activity": "Birthday today",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/25.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Winfred Lapolice",
+      "activity": "Birthday Tomorrow",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/11.jpg"
     }
   ],
   "job-changes": [
