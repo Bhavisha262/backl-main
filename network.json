@@ -349,9 +349,21 @@
   "education": [
     {
       "id": 1,
-      "name": "Liam",
-      "activity": "Graduated from University Y",
-      "avatar": "https://via.placeholder.com/60"
+      "name": "Douglas Savela",
+      "activity": "Graduated from University Of Sparty",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/75.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jamie Handlon",
+      "activity": "Graduated from Brent University",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/76.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Stephani Neder",
+      "activity": "Graduated from Giselle College",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/19.jpg"
     }
   ]
 }
