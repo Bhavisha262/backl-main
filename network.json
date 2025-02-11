@@ -154,15 +154,39 @@
   "invitations": [
     {
       "id": 1,
-      "name": "Alice mmn",
+      "name": "Antonetta Vanorsdol",
       "title": "Marketing Manager",
-      "avatar": "https://via.placeholder.com/60"
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/46.jpg"
     },
     {
       "id": 2,
-      "name": "Brian Invitation",
+      "name": "Erik Shye",
       "title": "Sales Lead",
-      "avatar": "https://via.placeholder.com/60"
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/20.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rex Levet",
+      "title": "MERN Stack Developer",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/36.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shea Trivett",
+      "title": "Receptionist",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Donovan Almendarez",
+      "title": "Vice President",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/9.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dakota Blankenfeld",
+      "title": "Stylist",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/37.jpg"
     }
   ],
   "get-hired": [

@@ -3,26 +3,26 @@
       "name": "Sienna Johnson",
       "profilePhoto": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
       "backgroundPhoto": "https://via.placeholder.com/800x200",
-      "headline": "Senior Software Engineer at LinkedIn",
-      "currentPosition": "Senior Software Engineer",
+      "headline": "Senior Full Stack Developer at LinkedIn",
+      "currentPosition": "Senior Full Stack Developer",
       "education": "Massachusetts Institute of Technology",
       "location": "San Francisco, CA",
-      "website": "https://johndoe.com",
+      "website": "https://siennajohnson.com",
       "connections": 500,
       "openTo": "Job opportunities",
-      "languages": ["English", "Spanish"],
-      "profileUrl": "https://www.linkedin.com/in/johndoe"
+      "languages": ["English"],
+      "profileUrl": "https://www.linkedin.com/in/siennajohnson"
     },
-    "about": "Experienced software engineer with a passion for developing scalable applications and a knack for problem solving. Skilled in full stack development, cloud computing, and modern web technologies.",
+    "about": "Experienced Full Stack Developer with a passion for developing scalable applications and a knack for problem solving. Skilled in full stack development, cloud computing, and modern web technologies.",
     "experience": [
       {
-        "title": "Senior Software Engineer",
+        "title": "Senior Full Stack Developer",
         "company": "LinkedIn",
         "duration": "2019 - Present",
         "description": "Leading a team of engineers to build innovative features for LinkedIn's core products."
       },
       {
-        "title": "Software Engineer",
+        "title": "Full Stack Developer",
         "company": "Google",
         "duration": "2016 - 2019",
         "description": "Developed and maintained scalable backend systems."
