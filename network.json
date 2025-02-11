@@ -268,16 +268,23 @@
   "catchup-all": [
     {
       "id": 1,
-      "name": "George",
+      "name": "Robt Stasek",
       "activity": "Updated his profile picture",
-      "avatar": "https://via.placeholder.com/60"
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/60.jpg"
     },
     {
       "id": 2,
-      "name": "Hannah",
-      "activity": "Started a new job",
-      "avatar": "https://via.placeholder.com/60"
+      "name": "Breann Varhola",
+      "activity": "Started a new job as Sports Coordinator at GIGI Sports Club",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/55.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Anjanette Shrauger",
+      "activity": "Inagurated Rightdeed NGO",
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/34.jpg"
     }
+
   ],
   "birthdays": [
     {
