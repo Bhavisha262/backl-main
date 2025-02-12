@@ -11,14 +11,14 @@
     "category": "Jobs",
     "message": "New job posting: Senior Developer at TechCorp.",
     "time": "4h ago",
-    "avatar": "🏢"
+    "avatar": "https://openmoji.org/data/color/svg/1F3E2.svg"
   },
   {
     "id": 3,
     "category": "My Posts",
     "message": "Your post \"React Hooks in Depth\" received 5 new likes.",
     "time": "1d ago",
-    "avatar": "❤️"
+    "avatar": "https://openmoji.org/library/emoji-2764/"
   },
   {
     "id": 4,
