@@ -3,13 +3,13 @@
       "name": "Sienna Johnson",
       "profilePhoto": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
       "backgroundPhoto": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGhvdWdodHMlMjBiYWNrZ3JvdW5kfGVufDB8MHwwfHx8MA%3D%3D",
-      "headline": "Senior Full Stack Developer at LinkedIn",
+      "headline": "Senior Full Stack Developer at JobedIn",
       "currentPosition": "Senior Full Stack Developer",
       "education": "Massachusetts Institute of Technology",
       "location": "San Francisco, CA",
       "website": "https://siennajohnson.com",
       "connections": 500,
-      "openTo": "Job opportunities",
+      "openTo": "Job Opportunities",
       "languages": ["English"],
       "profileUrl": "https://www.linkedin.com/in/siennajohnson"
     },
@@ -17,9 +17,9 @@
     "experience": [
       {
         "title": "Senior Full Stack Developer",
-        "company": "LinkedIn",
+        "company": "JobedIn",
         "duration": "2019 - Present",
-        "description": "Leading a team of engineers to build innovative features for LinkedIn's core products."
+        "description": "Leading a team of engineers to build innovative features for JobedIn's core products."
       },
       {
         "title": "Full Stack Developer",
