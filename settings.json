@@ -1,24 +1,42 @@
 {
-  "accountPreferences": {
-    "profileInformation": "Edit your profile details including name, headline, and summary.",
-    "display": "Manage your LinkedIn display settings including theme and accessibility options.",
-    "accountManagement": "Close your account or transfer your data.",
-    "generalPreferences": "Choose language, content preferences, and default email format."
-  },
-  "signInSecurity": {
-    "accountAccess": "Review your login activity, device usage, and manage security settings.",
-    "visibility": "Control who can see your profile and activity."
-  },
-  "dataPrivacy": {
-    "howLinkedInUsesData": "Learn how LinkedIn collects, stores, and uses your data.",
-    "jobSeekingPreferences": "Adjust your job application settings and visibility to recruiters."
-  },
-  "advertisingData": {
-    "profileData": "Control how LinkedIn uses your profile for personalized ads.",
-    "thirdPartyData": "Manage data shared with advertisers and third parties."
-  },
-  "network": {
-    "manage": "Review and manage your LinkedIn network, including connections and followers.",
-    "signInOut": "Sign out of all devices or manage active sessions."
+  "account-preferences": {
+    "title": "Account Preferences",
+    "description": "Manage profile, display settings, and preferences.",
+    "sections": {
+      "profile-information": {
+        "title": "Profile Information",
+        "options": [
+          { "name": "Name", "description": "Edit your name." },
+          { "name": "Location", "description": "Update your location." },
+          { "name": "Industry", "description": "Change your industry." },
+          { "name": "Personal Information", "description": "Manage personal details." },
+          { "name": "Verifications", "description": "Check your verified details." }
+        ]
+      },
+      "display": {
+        "title": "Display",
+        "options": [
+          { "name": "Dark Mode", "description": "Enable or disable dark mode." }
+        ]
+      },
+      "account-management": {
+        "title": "Account Management",
+        "options": [
+          { "name": "Close Account", "description": "Permanently delete your account." }
+        ]
+      },
+      "general-preferences": {
+        "title": "General Preferences",
+        "options": [
+          { "name": "Language", "description": "Change your preferred language." },
+          { "name": "Content Language", "description": "Set the language for content." },
+          { "name": "Autoplay Videos", "description": "Enable or disable autoplay." },
+          { "name": "Sound Effects", "description": "Turn sound effects on or off." },
+          { "name": "Showing Profile Photos", "description": "Control visibility of profile pictures." },
+          { "name": "Showing Preferred View", "description": "Customize how you view LinkedIn." },
+          { "name": "People You Unfollowed", "description": "Manage people you’ve unfollowed." }
+        ]
+      }
+    }
   }
 }
