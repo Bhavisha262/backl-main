@@ -1,18 +1,24 @@
 {
-  "account_preferences": {
-    "language": "English (US)",
-    "content_language": "English",
-    "dark_mode": false,
-    "autoplay_videos": true
+  "accountPreferences": {
+    "profileInformation": "Edit your profile details including name, headline, and summary.",
+    "display": "Manage your LinkedIn display settings including theme and accessibility options.",
+    "accountManagement": "Close your account or transfer your data.",
+    "generalPreferences": "Choose language, content preferences, and default email format."
   },
-  "manage_account": {
-    "privacy": "Your profile visibility settings",
-    "ads": "Ad preferences & settings",
-    "communications": "Email & notifications preferences"
+  "signInSecurity": {
+    "accountAccess": "Review your login activity, device usage, and manage security settings.",
+    "visibility": "Control who can see your profile and activity."
   },
-  "sign_in_security": {
-    "password": "Last updated 2 months ago",
-    "devices": ["MacBook Pro - Chrome", "iPhone - LinkedIn App"],
-    "session_history": ["Logged in from Chrome - New York"]
+  "dataPrivacy": {
+    "howLinkedInUsesData": "Learn how LinkedIn collects, stores, and uses your data.",
+    "jobSeekingPreferences": "Adjust your job application settings and visibility to recruiters."
+  },
+  "advertisingData": {
+    "profileData": "Control how LinkedIn uses your profile for personalized ads.",
+    "thirdPartyData": "Manage data shared with advertisers and third parties."
+  },
+  "network": {
+    "manage": "Review and manage your LinkedIn network, including connections and followers.",
+    "signInOut": "Sign out of all devices or manage active sessions."
   }
 }
