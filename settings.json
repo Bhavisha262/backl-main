@@ -1,57 +1,18 @@
 {
-  "settings": {
-    "account": {
-      "title": "Account Preferences",
-      "description": "Manage your account settings and preferences.",
-      "sections": [
-        {
-          "name": "Language",
-          "description": "Choose your preferred language.",
-          "value": "English (US)"
-        },
-        {
-          "name": "Content Preferences",
-          "description": "Manage your feed, interests, and notifications.",
-          "value": "Customized"
-        },
-        {
-          "name": "Site Preferences",
-          "description": "Adjust display and accessibility settings.",
-          "value": "Default"
-        }
-      ]
-    },
-    "manage": {
-      "title": "Manage Your Data & Activity",
-      "description": "Control your LinkedIn data and visibility.",
-      "sections": [
-        {
-          "name": "Download Data",
-          "description": "Get a copy of your data.",
-          "value": "Request Download"
-        },
-        {
-          "name": "Job Seeking Preferences",
-          "description": "Control how your job activity is shared.",
-          "value": "Private"
-        }
-      ]
-    },
-    "security": {
-      "title": "Sign In & Security",
-      "description": "Update your password and manage security settings.",
-      "sections": [
-        {
-          "name": "Change Password",
-          "description": "Update your LinkedIn password.",
-          "value": "••••••••"
-        },
-        {
-          "name": "Two-Step Verification",
-          "description": "Enhance security with two-step authentication.",
-          "value": "Enabled"
-        }
-      ]
-    }
+  "account_preferences": {
+    "language": "English (US)",
+    "content_language": "English",
+    "dark_mode": false,
+    "autoplay_videos": true
+  },
+  "manage_account": {
+    "privacy": "Your profile visibility settings",
+    "ads": "Ad preferences & settings",
+    "communications": "Email & notifications preferences"
+  },
+  "sign_in_security": {
+    "password": "Last updated 2 months ago",
+    "devices": ["MacBook Pro - Chrome", "iPhone - LinkedIn App"],
+    "session_history": ["Logged in from Chrome - New York"]
   }
 }
