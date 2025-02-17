@@ -1015,6 +1015,9 @@ app.get('/api/profile', (req, res) => {
   res.json(profile);
 });
 
+app.post("/api/auth/logout", (req, res) => {
+  res.json({ message: "Logged out successfully" });
+});
 app.get('/api/:category', (req, res) => {
   const category = req.params.category;
   if (data[category]) {
