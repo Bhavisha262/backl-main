@@ -32,5 +32,22 @@
     "likes": 25,
     "comments": 10,
     "shares": 6
+  },
+  {
+    "id": 3,
+    "user": {
+      "name": "Souline Legend",
+      "headline": "Accountant at Mike Industries Ltd.",
+      "profilePic": "https://xsgames.co/randomusers/assets/avatars/female/65.jpg"
+    },
+    "text": "Accounting is the language of business! 📊 From balancing sheets to financial forecasting, it's the backbone of every successful company. Stay on top of your numbers, and you'll stay ahead in the game! 💡 #Accounting #Finance #BusinessGrowth",
+    "time": "10 minutes ago",
+    "visibility": "Connections",
+    "media": [
+      "https://cdn.pixabay.com/photo/2019/03/21/16/55/text-4071412_1280.jpg"
+      ],
+    "likes": 67,
+    "comments": 30,
+    "shares": 50
   }
 ]
