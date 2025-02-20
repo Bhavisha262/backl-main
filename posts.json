@@ -49,5 +49,22 @@
     "likes": 67,
     "comments": 30,
     "shares": 50
+  },
+  {
+    "id": 4,
+    "user": {
+      "name": "Diana Davenport",
+      "headline": "Full Stack Developer at TechInfosoft",
+      "profilePic": "https://xsgames.co/randomusers/assets/avatars/female/70.jpg"
+    },
+    "text": "Full-stack development is all about versatility! 🚀 From crafting seamless frontends to building powerful backends, a true full-stack developer bridges the gap between user experience and robust functionality. 💻✨ Keep coding, keep learning! #FullStack #WebDevelopment #Coding",
+    "time": "30 minutes ago",
+    "visibility": "Connections",
+    "media": [
+      "https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg"
+      ],
+    "likes": 107,
+    "comments": 70,
+    "shares": 90
   }
 ]
