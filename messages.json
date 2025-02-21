@@ -2,7 +2,7 @@
   {
     "id": 1,
     "sender": "John Doe",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
     "messages": [
       {
         "id": "m1",
@@ -26,7 +26,7 @@
   {
     "id": 2,
     "sender": "Jane Smith",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://randomuser.me/api/portraits/women/67.jpg",
     "messages": [
       {
         "id": "m3",
@@ -43,7 +43,7 @@
   {
     "id": 3,
     "sender": "Company HR",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://cdn.prod.website-files.com/6365d860c7b7a7191055eb8a/66eeb030e508f6bded1fc41e_AlphaWave.svg",
     "messages": [
       {
         "id": "m4",
@@ -60,7 +60,7 @@
   {
     "id": 4,
     "sender": "Alice Johnson",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://xsgames.co/randomusers/assets/avatars/female/41.jpg",
     "messages": [
       {
         "id": "m5",
@@ -76,12 +76,12 @@
   },
   {
     "id": 5,
-    "sender": "Alice Johnson",
-    "avatar": "https://via.placeholder.com/40",
+    "sender": "Daniella Davis",
+    "avatar": "https://xsgames.co/randomusers/assets/avatars/female/4.jpg",
     "messages": [
       {
         "id": "m6",
-        "sender": "Alice Johnson",
+        "sender": "Daniella Davis",
         "text": "Meeting Update",
         "time": "10:30 AM",
         "read": true
@@ -94,7 +94,7 @@
   {
     "id": 6,
     "sender": "Bob Smith",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://xsgames.co/randomusers/assets/avatars/male/8.jpg",
     "messages": [
       {
         "id": "m7",
@@ -111,7 +111,7 @@
   {
     "id": 7,
     "sender": "Charlie Brown",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://xsgames.co/randomusers/assets/avatars/male/41.jpg",
     "messages": [
       {
         "id": "m8",
@@ -128,7 +128,7 @@
   {
     "id": 8,
     "sender": "David Williams",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://xsgames.co/randomusers/assets/avatars/male/32.jpg",
     "messages": [
       {
         "id": "m9",
@@ -145,7 +145,7 @@
   {
     "id": 9,
     "sender": "Eve Thompson",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://xsgames.co/randomusers/assets/avatars/female/17.jpg",
     "messages": [
       {
         "id": "m10",
@@ -162,7 +162,7 @@
   {
     "id": 10,
     "sender": "Frank Martin",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
     "messages": [
       {
         "id": "m11",
@@ -179,7 +179,7 @@
   {
     "id": 11,
     "sender": "Grace Lee",
-    "avatar": "https://via.placeholder.com/40",
+    "avatar": "https://xsgames.co/randomusers/assets/avatars/female/43.jpg",
     "messages": [
       {
         "id": "m12",
