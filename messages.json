@@ -1,52 +1,196 @@
 [
-    {
-      "id": 1,
-      "sender": "Alice Johnson",
-      "subject": "Meeting Update",
-      "time": "10:30 AM",
-      "category": "focused"
-    },
-    {
-      "id": 2,
-      "sender": "Bob Smith",
-      "subject": "Project Details",
-      "time": "9:15 AM",
-      "category": "unread"
-    },
-    {
-      "id": 3,
-      "sender": "Charlie Brown",
-      "subject": "Welcome!",
-      "time": "Yesterday",
-      "category": "my connections"
-    },
-    {
-      "id": 4,
-      "sender": "David Williams",
-      "subject": "New Opportunity",
-      "time": "2 days ago",
-      "category": "inmail"
-    },
-    {
-      "id": 5,
-      "sender": "Eve Thompson",
-      "subject": "Weekly Report",
-      "time": "3 days ago",
-      "category": "starred"
-    },
-    {
-      "id": 6,
-      "sender": "Frank Martin",
-      "subject": "Follow Up",
-      "time": "4 days ago",
-      "category": "unread"
-    },
-    {
-      "id": 7,
-      "sender": "Grace Lee",
-      "subject": "Event Invitation",
-      "time": "Last Week",
-      "category": "focused"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "sender": "John Doe",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m1",
+        "sender": "John Doe",
+        "text": "Hi, how are you?",
+        "time": "10:00 AM",
+        "read": false
+      },
+      {
+        "id": "m2",
+        "sender": "You",
+        "text": "I'm good, thanks! How about you?",
+        "time": "10:05 AM",
+        "read": true
+      }
+    ],
+    "lastMessage": "I'm good, thanks! How about you?",
+    "time": "10:05 AM",
+    "category": "my connections"
+  },
+  {
+    "id": 2,
+    "sender": "Jane Smith",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m3",
+        "sender": "Jane Smith",
+        "text": "Let's connect!",
+        "time": "11:00 AM",
+        "read": false
+      }
+    ],
+    "lastMessage": "Let's connect!",
+    "time": "11:00 AM",
+    "category": "unread"
+  },
+  {
+    "id": 3,
+    "sender": "Company HR",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m4",
+        "sender": "Company HR",
+        "text": "Your application status is updated.",
+        "time": "09:30 AM",
+        "read": true
+      }
+    ],
+    "lastMessage": "Your application status is updated.",
+    "time": "09:30 AM",
+    "category": "inmail"
+  },
+  {
+    "id": 4,
+    "sender": "Alice Johnson",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m5",
+        "sender": "Alice Johnson",
+        "text": "Hey! Did you see my message?",
+        "time": "Yesterday",
+        "read": false
+      }
+    ],
+    "lastMessage": "Hey! Did you see my message?",
+    "time": "Yesterday",
+    "category": "starred"
+  },
+  {
+    "id": 5,
+    "sender": "Alice Johnson",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m6",
+        "sender": "Alice Johnson",
+        "text": "Meeting Update",
+        "time": "10:30 AM",
+        "read": true
+      }
+    ],
+    "lastMessage": "Meeting Update",
+    "time": "10:30 AM",
+    "category": "focused"
+  },
+  {
+    "id": 6,
+    "sender": "Bob Smith",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m7",
+        "sender": "Bob Smith",
+        "text": "Project Details",
+        "time": "9:15 AM",
+        "read": false
+      }
+    ],
+    "lastMessage": "Project Details",
+    "time": "9:15 AM",
+    "category": "unread"
+  },
+  {
+    "id": 7,
+    "sender": "Charlie Brown",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m8",
+        "sender": "Charlie Brown",
+        "text": "Welcome!",
+        "time": "Yesterday",
+        "read": true
+      }
+    ],
+    "lastMessage": "Welcome!",
+    "time": "Yesterday",
+    "category": "my connections"
+  },
+  {
+    "id": 8,
+    "sender": "David Williams",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m9",
+        "sender": "David Williams",
+        "text": "New Opportunity",
+        "time": "2 days ago",
+        "read": false
+      }
+    ],
+    "lastMessage": "New Opportunity",
+    "time": "2 days ago",
+    "category": "inmail"
+  },
+  {
+    "id": 9,
+    "sender": "Eve Thompson",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m10",
+        "sender": "Eve Thompson",
+        "text": "Weekly Report",
+        "time": "3 days ago",
+        "read": true
+      }
+    ],
+    "lastMessage": "Weekly Report",
+    "time": "3 days ago",
+    "category": "starred"
+  },
+  {
+    "id": 10,
+    "sender": "Frank Martin",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m11",
+        "sender": "Frank Martin",
+        "text": "Follow Up",
+        "time": "4 days ago",
+        "read": false
+      }
+    ],
+    "lastMessage": "Follow Up",
+    "time": "4 days ago",
+    "category": "unread"
+  },
+  {
+    "id": 11,
+    "sender": "Grace Lee",
+    "avatar": "https://via.placeholder.com/40",
+    "messages": [
+      {
+        "id": "m12",
+        "sender": "Grace Lee",
+        "text": "Event Invitation",
+        "time": "Last Week",
+        "read": true
+      }
+    ],
+    "lastMessage": "Event Invitation",
+    "time": "Last Week",
+    "category": "focused"
+  }
+]
