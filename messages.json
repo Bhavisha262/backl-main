@@ -6,7 +6,7 @@
     "messages": [
       {
         "id": "m1",
-        "sender": "John Doe",
+        "sender": "You",
         "text": "Hi, how are you?",
         "time": "10:00 AM",
         "read": false
