@@ -14,6 +14,7 @@
       {
         "id": "m2",
         "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
         "text": "I'm good, thanks! How about you?",
         "time": "10:05 AM",
         "read": true
@@ -34,10 +35,18 @@
         "text": "Let's connect!",
         "time": "11:00 AM",
         "read": false
+      },
+      {
+        "id": "m4",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "Sure, looking forward to connecting!",
+        "time": "11:05 AM",
+        "read": true
       }
     ],
-    "lastMessage": "Let's connect!",
-    "time": "11:00 AM",
+    "lastMessage": "Sure, looking forward to connecting!",
+    "time": "11:05 AM",
     "category": "unread"
   },
   {
@@ -46,15 +55,23 @@
     "avatar": "https://cdn.prod.website-files.com/6365d860c7b7a7191055eb8a/66eeb030e508f6bded1fc41e_AlphaWave.svg",
     "messages": [
       {
-        "id": "m4",
+        "id": "m5",
         "sender": "Company HR",
         "text": "Your application status is updated.",
         "time": "09:30 AM",
         "read": true
+      },
+      {
+        "id": "m6",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "Thank you for the update.",
+        "time": "09:35 AM",
+        "read": true
       }
     ],
-    "lastMessage": "Your application status is updated.",
-    "time": "09:30 AM",
+    "lastMessage": "Thank you for the update.",
+    "time": "09:35 AM",
     "category": "inmail"
   },
   {
@@ -63,14 +80,22 @@
     "avatar": "https://xsgames.co/randomusers/assets/avatars/female/41.jpg",
     "messages": [
       {
-        "id": "m5",
+        "id": "m7",
         "sender": "Alice Johnson",
         "text": "Hey! Did you see my message?",
         "time": "Yesterday",
         "read": false
+      },
+      {
+        "id": "m8",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "Yes, I did. I'll get back to you soon.",
+        "time": "Yesterday",
+        "read": true
       }
     ],
-    "lastMessage": "Hey! Did you see my message?",
+    "lastMessage": "Yes, I did. I'll get back to you soon.",
     "time": "Yesterday",
     "category": "starred"
   },
@@ -80,15 +105,23 @@
     "avatar": "https://xsgames.co/randomusers/assets/avatars/female/4.jpg",
     "messages": [
       {
-        "id": "m6",
+        "id": "m9",
         "sender": "Daniella Davis",
         "text": "Meeting Update",
         "time": "10:30 AM",
         "read": true
+      },
+      {
+        "id": "m10",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "Got it, thanks for the update.",
+        "time": "10:35 AM",
+        "read": true
       }
     ],
-    "lastMessage": "Meeting Update",
-    "time": "10:30 AM",
+    "lastMessage": "Got it, thanks for the update.",
+    "time": "10:35 AM",
     "category": "focused"
   },
   {
@@ -97,15 +130,23 @@
     "avatar": "https://xsgames.co/randomusers/assets/avatars/male/8.jpg",
     "messages": [
       {
-        "id": "m7",
+        "id": "m11",
         "sender": "Bob Smith",
         "text": "Project Details",
         "time": "9:15 AM",
         "read": false
+      },
+      {
+        "id": "m12",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "Please share more details when you can.",
+        "time": "9:20 AM",
+        "read": true
       }
     ],
-    "lastMessage": "Project Details",
-    "time": "9:15 AM",
+    "lastMessage": "Please share more details when you can.",
+    "time": "9:20 AM",
     "category": "unread"
   },
   {
@@ -114,14 +155,22 @@
     "avatar": "https://xsgames.co/randomusers/assets/avatars/male/41.jpg",
     "messages": [
       {
-        "id": "m8",
+        "id": "m13",
         "sender": "Charlie Brown",
         "text": "Welcome!",
         "time": "Yesterday",
         "read": true
+      },
+      {
+        "id": "m14",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "Thank you, Charlie!",
+        "time": "Yesterday",
+        "read": true
       }
     ],
-    "lastMessage": "Welcome!",
+    "lastMessage": "Thank you, Charlie!",
     "time": "Yesterday",
     "category": "my connections"
   },
@@ -131,14 +180,22 @@
     "avatar": "https://xsgames.co/randomusers/assets/avatars/male/32.jpg",
     "messages": [
       {
-        "id": "m9",
+        "id": "m15",
         "sender": "David Williams",
         "text": "New Opportunity",
         "time": "2 days ago",
         "read": false
+      },
+      {
+        "id": "m16",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "I'm interested. Please send more details.",
+        "time": "2 days ago",
+        "read": true
       }
     ],
-    "lastMessage": "New Opportunity",
+    "lastMessage": "I'm interested. Please send more details.",
     "time": "2 days ago",
     "category": "inmail"
   },
@@ -148,14 +205,22 @@
     "avatar": "https://xsgames.co/randomusers/assets/avatars/female/17.jpg",
     "messages": [
       {
-        "id": "m10",
+        "id": "m17",
         "sender": "Eve Thompson",
         "text": "Weekly Report",
         "time": "3 days ago",
         "read": true
+      },
+      {
+        "id": "m18",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "Received the report, thank you.",
+        "time": "3 days ago",
+        "read": true
       }
     ],
-    "lastMessage": "Weekly Report",
+    "lastMessage": "Received the report, thank you.",
     "time": "3 days ago",
     "category": "starred"
   },
@@ -165,14 +230,22 @@
     "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
     "messages": [
       {
-        "id": "m11",
+        "id": "m19",
         "sender": "Frank Martin",
         "text": "Follow Up",
         "time": "4 days ago",
         "read": false
+      },
+      {
+        "id": "m20",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "I'll follow up shortly.",
+        "time": "4 days ago",
+        "read": true
       }
     ],
-    "lastMessage": "Follow Up",
+    "lastMessage": "I'll follow up shortly.",
     "time": "4 days ago",
     "category": "unread"
   },
@@ -182,14 +255,22 @@
     "avatar": "https://xsgames.co/randomusers/assets/avatars/female/43.jpg",
     "messages": [
       {
-        "id": "m12",
+        "id": "m21",
         "sender": "Grace Lee",
         "text": "Event Invitation",
         "time": "Last Week",
         "read": true
+      },
+      {
+        "id": "m22",
+        "sender": "You",
+        "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "text": "I'll check my schedule and let you know.",
+        "time": "Last Week",
+        "read": true
       }
     ],
-    "lastMessage": "Event Invitation",
+    "lastMessage": "I'll check my schedule and let you know.",
     "time": "Last Week",
     "category": "focused"
   }
